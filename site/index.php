@@ -13,8 +13,7 @@
 
   
   <!-- Favicons -->
-  <link href="assets/img/logo-site-mohatron.jpg
-  " rel="icon">
+  <link href="assets/img/favicon.png" rel="icon">
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -253,7 +252,7 @@ ANTECIPE SEU FGTS
             >  
                 <div class="col-md-9" style="" >
                     Este site utiliza cookies confiáveis e inofensivos para garantir uma melhor experiência de navegação. <br> 
-                    <a style="font-size:16px;" href="politica.php?">Política de Privacidade. </a>
+                    <a style="font-size:16px;" href="#">Política de Privacidade. </a>
                 </div>
             
                 <div class="col-md-3" style="" >
