@@ -93,7 +93,7 @@
     background: #c7c7c7;
     width: auto;
     /* height: 29px; */
-    border-radius: 4px;
+    border-radius: 42px;
     transition: all 0.4s;
     padding: 10px;
     font-weight: bold;
