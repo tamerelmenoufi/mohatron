@@ -20,12 +20,12 @@ background:none;
   <!-- ======= Footer ======= -->
   
 
-<footer id="footer" class="footer" style="background:#0f77ac">
+<footer id="footer" class="footer" style="background:#004786">
 
 
 <div style="text-align:center;font-size:14px;padding-bottom:2px;margin-top:40px;padding:25px">
   <div class="row g-0"><div class="col-md-6 text-center text-md-end">
-  &copy; Copyright <strong><span>Mohatron Soluções em TI</span></strong>.
+  &copy; Copyright <strong><span>Mohatron Soluções em TI </span></strong>.
 </div><div class="col-md-6 text-center text-md-start">
   <a class="janela" janela="components/popup.php" style="color:#fff; text-decoration:underline; cursor:pointer" >Todos os direitos reservados </a>
 </div></div> 
