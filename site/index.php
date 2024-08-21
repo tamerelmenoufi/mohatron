@@ -159,7 +159,7 @@
     <i class="bi bi-arrow-up-short"></i></a>
 
     <a href="<?=$UrlWhatsApp?>" style="" class=" rodape1 scroll-top   active">
-ANTECIPE SEU FGTS
+FALE COM ESPECIALISTA
     </a>
   <!-- <div id="preloader"></div> -->
 
