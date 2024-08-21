@@ -113,9 +113,9 @@
         // 'banner_principal',
          'banner_principal_scroll',
           'apresentacao',
-          'depoimentos',
-          'revolucionando',
-          'sobre',
+          //'depoimentos',
+          //'revolucionando',
+          //'sobre',
          //  'video',
         // 'banner_principal2',
         // 'banner_principal3',
@@ -142,7 +142,7 @@
         // 'planos',
         // 'faq',
         //
-        'contato',
+        //'contato',
         'rodape'
     ];
 
