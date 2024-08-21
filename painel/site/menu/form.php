@@ -28,7 +28,7 @@
         mysqli_query($con, $query);
         $acao = mysqli_affected_rows($con);
       }else{
-        $query = "INSERT INTO menus set ".implode(", ",$campos)."";
+        echo $query = "INSERT INTO menus set ".implode(", ",$campos)."";
         mysqli_query($con, $query);
         $acao = mysqli_affected_rows($con);
       }
@@ -81,7 +81,7 @@
 
       <input type="hidden" id="acao" value="salvar" >
       <input type="hidden" id="codigo" value="<?=$d->codigo?>" >
-      <input type="hidden" id="vinculo" value="<?=(($_POST['cod'])?$d->vinculo:$_POST['vinculo'])?>" >
+      <input type="hidden" id="vinculo" value="<?=(($_POST['cod'])?$d->vinculo:(($_POST['vinculo'])?:'0'))?>" >
     </form>
   </div>
 </div>
