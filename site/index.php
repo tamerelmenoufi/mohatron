@@ -77,26 +77,26 @@
 }
 
 .rodape1:hover {
-    background: #ffdd2c;
-    color:#144397;
+    background: #004585;
+    color:#fff;
 }
 
 .rodape1 {
-  color:#144397;
-  margin-right:45px;
-  position: fixed;
-  visibility: hidden;
-  opacity: 0;
-  right: 15px;
-  bottom: 50px;
+    color: #004585;
+    margin-right: 45px;
+    position: fixed;
+    visibility: hidden;
+    opacity: 0;
+    right: 15px;
+    bottom: 50px;
     z-index: 995;
-    background: #ffdd2c;
+    background: #c7c7c7;
     width: auto;
     /* height: 29px; */
     border-radius: 4px;
     transition: all 0.4s;
     padding: 10px;
-    font-weight:bold;
+    font-weight: bold;
 }
   </style>
 <?php include("assets/lib/scripts_body.php"); ?>
