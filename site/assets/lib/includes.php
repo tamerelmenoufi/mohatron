@@ -10,9 +10,3 @@
 
     $localPainel = "http://site.mohatron.com.br/painel/";
     $localSite = "http://site.mohatron.com.br/site/";
-
-    $origem = explode(".",$_SERVER['HTTP_X_FORWARDED_HOST'])[0];
-
-
-
-    
