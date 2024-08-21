@@ -250,12 +250,12 @@ FALE COM ESPECIALISTA
             background-color:#000000d6;z-index:999999999999;padding:20px;width:100%;color:#fff;font-weight:bold"
             id="exemplo1"
             >  
-                <div class="col-md-9" style="" >
+                <div class="col-md-12" style="text-align:center" >
                     Este site utiliza cookies confiáveis e inofensivos para garantir uma melhor experiência de navegação. <br> 
                     <a style="font-size:16px;" href="#">Política de Privacidade. </a>
                 </div>
             
-                <div class="col-md-3" style="" >
+                <div class="col-md-12" style="text-align:center" >
                     <span><a id="ocultar" style="border-radius:16px;margin:5px;font-size:16px;" class="btn btn-warning pull-right"  role="button">Aceitar</a></span>
                 </div> 
             </div>  
