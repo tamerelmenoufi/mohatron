@@ -7,13 +7,14 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
 
-  <title>capitalsolucoes</title>
+  <title>Mohatron Soluções em TI</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   
   <!-- Favicons -->
-  <link href="assets/img/icone.png" rel="icon">
+  <link href="assets/img/logo-site-mohatron.jpg
+  " rel="icon">
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
