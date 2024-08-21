@@ -32,6 +32,12 @@
   font-weight: 500;
 }
 
+
+.header {
+    padding: 10px 0;
+    transition: all 0.5s;
+    z-index: 997;
+}
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
     color: #144397;
 }
@@ -73,7 +79,7 @@
 
       <a href="index.php" class=" d-flex align-items-center scrollto me-auto me-lg-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/logo-site-mohatron-1.png" style="height:75px !important;" alt="">
+        <img src="assets/img/logo-site-mohatron-1.png" style="height:85px !important;" alt="">
        
       </a>
 
