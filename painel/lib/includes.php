@@ -4,7 +4,7 @@
     // include("connect_local.php");
 
     include("/mohinc/connect.php");
-    $con = AppConnect('capital');
+    $con = AppConnect('app');
 
     // $ConfWappNumero = '12266700079';
     $ConfWappNumero = '5592981000039';
