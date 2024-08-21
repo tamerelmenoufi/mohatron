@@ -28,7 +28,7 @@
         mysqli_query($con, $query);
         $acao = mysqli_affected_rows($con);
       }else{
-        $query = "INSERT INTO menus set ".implode(", ",$campos)."";
+        echo $query = "INSERT INTO menus set ".implode(", ",$campos)."";
         mysqli_query($con, $query);
         $acao = mysqli_affected_rows($con);
       }
