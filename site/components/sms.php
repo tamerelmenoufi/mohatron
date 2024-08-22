@@ -10,7 +10,53 @@
     
     <div class="col-md-6">
       
-    <p style="font-size:30px;color:#fff;font-weight:bold">Crie experiências de SMS que permitam que você alcance os usuários finais como e quando quiser</p>
+    <p style="font-size:30px;color:#fff;font-weight:bold">
+      Crie experiências de SMS que permitam que você alcance os usuários finais como e quando quiser
+    </p>
+
+    <ul class="detail__list  ">
+<li>
+  <span>
+    <p>
+      <font style="vertical-align: inherit;">
+        <font style="vertical-align: inherit;">
+          Envie e receba mensagens de texto de clientes do mundo todo de forma programática.
+        </font>
+      </font>
+    </p>
+  </span>
+</li>
+
+<li>
+  <span>
+    <p>
+      <font style="vertical-align: inherit;">
+        <font style="vertical-align: inherit;">
+          Reduza as preocupações com conformidade — o mecanismo de conformidade 
+          global da Vonage lida com as complexidades da comunicação mundial e adere 
+          aos padrões de operadoras e redes em todo o mundo.
+        </font>
+      </font>
+    </p>
+  </span>
+</li>
+
+<li>
+  <span>
+    <p>
+      <font style="vertical-align: inherit;">
+        <font style="vertical-align: inherit;">
+          Emparelhe com a API Verify para adicionar uma camada extra de segurança:
+             valide usuários em seus dispositivos móveis usando autenticação de
+              dois fatores.
+            </font>
+          </font>
+        </p>
+  </span>
+</li>
+</ul>
+
+
     </div>
   
   
