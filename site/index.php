@@ -121,7 +121,7 @@
         // 'banner_principal3',
         
         'servicos',
-        
+        'sms',
         
         
        // 'noticias',
