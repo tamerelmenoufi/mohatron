@@ -112,64 +112,14 @@
 
         <div class="row">
 
+        <div class="col-sm-5 col-md-12">
+          <p style="font-size:18px;font-weight:bold">Ferramentas para a sua empresa crescer!</p>
+          <p style="font-size:18px;font-weight:bold" >Ferramentas digitais modernas, dinâmicas e acessíveis!</p>
+          <p style="font-size:18px;font-weight:bold" >Sites com Design Moderno</p>
 
-        <div class="vtem-block-inside clearfix"><h3 class="custom-html-title clearfix"><small>Ferramentas Profissionais</small> Para a sua empresa crescer!</h3>
-									<div class="custom-html-content clearfix"><p class="h4 o-7">Ferramentas digitais modernas, dinâmicas e acessíveis!</p>
-<div class="p-t-2 clearfix">
-<div class="col-md-4 text-right">
-<div class="media p-t-2">
-<div class="media-body">
-<h4 class="media-heading">Sites com Design Moderno</h4>
-<p>Estrutura profissional para ilustrar o seu produto ou serviço a altura do seu negócio!</p>
-</div>
-<div class="media-right text-theme"><span class="fa fa-laptop fa-4x"></span></div>
-</div>
-<!-- MEDIA OBJEC -->
-<div class="media p-t-2">
-<div class="media-body">
-<h4 class="media-heading">Layout Responsivo</h4>
-<p>O seu site se ajusta automaticamente na abertura em smartphones, tablets e PC.</p>
-</div>
-<div class="media-right text-theme"><span class="fa fa-mobile fa-5x"></span></div>
-</div>
-<!-- MEDIA OBJEC -->
-<div class="media p-t-2">
-<div class="media-body">
-<h4 class="media-heading">Gerencie o seu Conteúdo</h4>
-<p>Atualize os textos, fotos e vídeos pela sua área administrativa, simples e sem código.</p>
-</div>
-<div class="media-right text-theme"><span class="fa fa-desktop fa-4x"></span></div>
-</div>
-</div>
-<!-- COLUMN -->
-<div class="col-md-4"><img src="/desenvolvimento-de-sites-profissionais/images/destaques/programador-digital-desenvolvimento-de-sites.png" width="720" height="720"></div>
-<!-- COLUMN -->
-<div class="col-md-4 text-left">
-<div class="media p-t-2">
-<div class="media-left text-theme"><span class="fa fa-lock fa-4x"></span></div>
-<div class="media-body">
-<h4 class="media-heading">Seu Site Seguro</h4>
-<p>Programações atualizadas, certificados de segurança SSL com criptografia de 2048 bits.</p>
-</div>
-</div>
-<!-- MEDIA OBJEC -->
-<div class="media p-t-2">
-<div class="media-left text-theme"><span class="fa fa-server fa-4x"></span></div>
-<div class="media-body">
-<h4 class="media-heading">Hospedagem Profissional</h4>
-<p>Servidor próprio com Datacenter no Brasil. Mais desempenho para a sua aplicação.</p>
-</div>
-</div>
-<!-- MEDIA OBJEC -->
-<div class="media p-t-2">
-<div class="media-left text-theme"><span class="fa fa-comments-o fa-4x"></span></div>
-<div class="media-body">
-<h4 class="media-heading">Suporte Técnico</h4>
-<p>Suporte técnico com equipe profissional, experiente e especializada em tecnologia.</p>
-</div>
-</div>
-</div>
-</div></div></div>
+          </p>
+        </div>
+
         
         </div>
 
