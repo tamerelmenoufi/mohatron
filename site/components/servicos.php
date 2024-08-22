@@ -80,18 +80,7 @@
 
 
 .gradiente{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  font-size: 2em;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  text-align: center;
-  color: #fff;
-  font-family: 'Lato';
-  border: 1px solid #fff;
-  transform: translate(-50%, -50%);
-  padding: 20px;
+  
 }
 
 @keyframes mygradient {
