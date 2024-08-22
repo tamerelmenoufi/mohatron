@@ -155,13 +155,13 @@
 ?>
 </main><!-- End #main -->
 
-  <a href="#" style="color: #fff ;background-color: #154fb7;border-color: #154fb7;" class="scroll-top d-flex align-items-center justify-content-center btn btn-primary">
+ <!--- <a href="#" style="color: #fff ;background-color: #154fb7;border-color: #154fb7;" class="scroll-top d-flex align-items-center justify-content-center btn btn-primary">
     <i class="bi bi-arrow-up-short"></i></a>
 
     <a href="<?=$UrlWhatsApp?>" style="" class=" rodape1 scroll-top   active">
 FALE COM ESPECIALISTA
     </a>
-  <!-- <div id="preloader"></div> -->
+  <div id="preloader"></div> -->
 
 
 
