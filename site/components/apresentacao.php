@@ -33,17 +33,19 @@
 }
 .button {
     border-radius: 4px;
-    background-color: #144397;
+    background-color: #f9fafb;
     border: none;
-    color: #FFFFFF;
+    color: #0668bd;
     text-align: center;
-    font-size: 18px;
+    font-size: 14px;
     padding: 9px;
     transition: all 0.5s;
     cursor: pointer;
     margin: 5px;
     border-radius: 25px;
-    border: 5px ridge #fdfdfdeb;
+    border-bottom: 4px solid #045ba8bf;
+    border-top: 4px solid #045ba8bf;
+  
 }
 .button span {
   cursor: pointer;
