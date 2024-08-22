@@ -128,7 +128,7 @@
 </div>
     </div>
     <div class="col">
-      One of three columns
+    <img src="assets/img/sites.png" class="img-responsive" style="">
     </div>
     <div class="col">
       One of three columns
