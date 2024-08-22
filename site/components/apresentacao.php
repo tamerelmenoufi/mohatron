@@ -137,9 +137,23 @@
   </div>
 
 <div class="col-sm-5 col-md-6">
-<img src="assets/img/img-apre1.jpg" class="img-responsive flip-box-inner" 
+<img src="assets/img/img-apre1.jpg" class="img-responsive " 
 style="border-radius:40px;width:100%;padding:10px">
 
+
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="">
+    <img src="assets/img/img-apre1.jpg" class="img-responsive flip-box-front " 
+style="border-radius:40px;width:100%;padding:10px">
+
+    </div>
+    <div class="">
+    <img src="assets/img/img-apre1.jpg" class="img-responsive flip-box-back " 
+style="border-radius:40px;width:100%;padding:10px">
+    </div>
+  </div>
+</div>
 
 </div>
    
