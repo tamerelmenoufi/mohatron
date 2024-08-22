@@ -104,12 +104,12 @@
 }
 
 .flip-box-front {
-  background-color: #bbb;
+  background-image: url('assets/img/img-apre1.jpg');
   color: black;
 }
 
 .flip-box-back {
-  background-color: dodgerblue;
+  background-image: url('assets/img/img-apre1.jpg') ;
   color: white;
   transform: rotateY(180deg);
 }
@@ -143,14 +143,11 @@ style="border-radius:40px;width:100%;padding:10px">
 
 <div class="flip-box">
   <div class="flip-box-inner">
-    <div class="">
-    <img src="assets/img/img-apre1.jpg" class="img-responsive flip-box-front " 
-style="border-radius:40px;width:100%;padding:10px">
-
+    <div class="flip-box-front">
+     
     </div>
-    <div class="">
-    <img src="assets/img/img-apre1.jpg" class="img-responsive flip-box-back " 
-style="border-radius:40px;width:100%;padding:10px">
+    <div class="flip-box-back">
+    
     </div>
   </div>
 </div>
