@@ -70,10 +70,48 @@
     position: relative;
     border-radius: 0px;
 }
+
+.gradiente-inicio{
+  
+  background-size: 400% 400%;
+  background-image: linear-gradient(-45deg, #144397, #0d87f0, #004786, #004585);
+  animation: mygradient 2s ease infinite;
+}
+
+
+.gradiente{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 2em;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  font-family: 'Lato';
+  border: 1px solid #fff;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+}
+
+@keyframes mygradient {
+  0% {
+      background-position: 0% 50%;
+  }
+  50% {
+      background-position: 100% 50%;
+  }
+  100% {
+      background-position: 0% 50%;
+  }
+}
+
+
   </style>
 
-<div style="color:#fff;padding:10px">
-
+<div class="gradiente-inicio" style="padding:15px" >
+                <div class="gradiente" >
+            
     <section id="servicos"  style="padding:0px" class="recent-blog-posts">
 
       <div class="container" data-aos="fade-up">
@@ -158,4 +196,5 @@
 
     </section><!-- End Recent Blog Posts Section -->
 
+        </div>
         </div>
