@@ -93,7 +93,7 @@
   </div>
 
 <div class="col-sm-5 col-md-6">
-    
+    <img scr="assets/img/img-apre1.jpg"/>
 </div>
    
 
