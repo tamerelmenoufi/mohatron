@@ -71,10 +71,9 @@
 }
 
     .gradiente-inicio{
-    width: 100%;
-    height: 100vh;
+  
     background-size: 400% 400%;
-    background-image: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-image: linear-gradient(-45deg, #144397, #0d87f0, #004786, #004585);
     animation: mygradient 2s ease infinite;
 }
 
@@ -141,8 +140,8 @@
             </div>
                 </div>
                
-                <div class="gradiente-inicio" >
-                <div class="gradiente" style="padding:15px">
+                <div class="gradiente-inicio" style="padding:15px" >
+                <div class="gradiente" >
                     
                     </div> 
                 </div>
