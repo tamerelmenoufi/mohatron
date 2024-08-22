@@ -70,6 +70,43 @@
   right: 0;
 }
 
+    .gradiente-inicio{
+    width: 100%;
+    height: 100vh;
+    background-size: 400% 400%;
+    background-image: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    animation: mygradient 2s ease infinite;
+}
+
+
+.gradiente{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 2em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    font-family: 'Lato';
+    border: 1px solid #fff;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+}
+
+@keyframes mygradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+
 
 
 </style>
@@ -103,5 +140,9 @@
         </div>
             </div>
                 </div>
-
-                <div style="background:#000;padding:15px"></div>
+               
+                <div class="gradiente-inicio" >
+                <div class="gradiente" style="padding:15px">
+                    
+                    </div> 
+                </div>
