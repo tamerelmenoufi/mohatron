@@ -113,9 +113,8 @@
         <div class="row">
 
         <div class="col-sm-5 col-md-12">
-          <p style="font-size:18px;font-weight:bold">Ferramentas para a sua empresa crescer!</p>
-          <p style="font-size:18px;font-weight:bold" >Ferramentas digitais modernas, dinâmicas e acessíveis!</p>
-          <p style="font-size:18px;font-weight:bold" >Sites com Design Moderno</p>
+          <p style="font-size:22px;font-weight:bold;color:#fff">Ferramentas para a sua empresa crescer!</p>
+          <p style="font-size:16px;font-weight:bold" >Ferramentas digitais modernas, dinâmicas e acessíveis!</p>
 
           </p>
         </div>
