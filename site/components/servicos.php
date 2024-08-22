@@ -115,7 +115,13 @@
           <div class="container text-center">
   <div class="row align-items-start">
     <div class="col">
-      One of three columns
+    <div class="media p-t-2">
+<div class="media-body">
+<h4 class="media-heading">Sites com Design Moderno</h4>
+<p>Estrutura profissional para ilustrar o seu produto ou serviço a altura do seu negócio!</p>
+</div>
+<div class="media-right text-theme"><span class="fa fa-laptop fa-4x"></span></div>
+</div>
     </div>
     <div class="col">
       One of three columns
