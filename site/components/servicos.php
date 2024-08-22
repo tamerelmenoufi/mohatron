@@ -115,7 +115,8 @@
         <div class="col-md-12">
           <p style="font-size: 30px;font-weight:bold;color:#fff;text-align:center;margin-bottom:0px">Ferramentas para a sua empresa crescer!</p>
           <p style="font-size:16px;color:#fff;text-align:center" >Ferramentas digitais modernas, dinâmicas e acessíveis!</p>
-        
+        </div>
+
   <div class="container text-center">
     <div class="row align-items-start">
       <div class="col">
@@ -130,25 +131,27 @@
 
       <div class="media p-t-2">
           <div class="media-body">
-            <h4 class="media-heading" style="font-size:22px;color:#fff">Sites com Design Moderno</h4>
-              <p style="font-size:15px;color:#fff">Estrutura profissional para ilustrar o seu produto ou serviço a altura do seu negócio!</p>
+            <h4 class="media-heading" style="font-size:22px;color:#fff">Layout Responsivo</h4>
+              <p style="font-size:15px;color:#fff">O seu site se ajusta automaticamente na abertura em smartphones, tablets e PC.
+
+</p>
           </div>
-            <div class="media-right text-theme" style="padding-top:15px;color: #fff;text-shadow: 2px 2px #86b7fe;"><span class="fa fa-laptop fa-4x"></span></div>
+            <div class="media-right text-theme" style="padding-top:15px;color: #fff;text-shadow: 2px 2px #86b7fe;"><span class="fa fa-mobile fa-5x"></span></div>
       </div>
 
       <div class="media p-t-2">
           <div class="media-body">
-            <h4 class="media-heading" style="font-size:22px;color:#fff">Sites com Design Moderno</h4>
-              <p style="font-size:15px;color:#fff">Estrutura profissional para ilustrar o seu produto ou serviço a altura do seu negócio!</p>
+            <h4 class="media-heading" style="font-size:22px;color:#fff">Seu Site Seguro</h4>
+              <p style="font-size:15px;color:#fff">Programações atualizadas, certificados de segurança SSL com criptografia de 2048 bits.</p>
           </div>
-            <div class="media-right text-theme" style="padding-top:15px;color: #fff;text-shadow: 2px 2px #86b7fe;"><span class="fa fa-laptop fa-4x"></span></div>
+            <div class="media-right text-theme" style="padding-top:15px;color: #fff;text-shadow: 2px 2px #86b7fe;"><span class="fa fa-lock fa-4x"></span></div>
       </div>
 
     </div>
 
 
     <div class="col">
-    <img src="assets/img/sites.png" class="img-responsive" style="">
+    <img src="assets/img/sites.png" class="img-responsive" style="height:370px">
     </div>
 
 
@@ -157,19 +160,13 @@
     <div class="col">
       One of three columns
     </div>
+  
   </div>
 </div>
-        
-        
-        </div>
 
         
-        </div>
-
-  
+                </div>
+              </div>
+          </section><!-- End Recent Blog Posts Section -->
       </div>
-
-    </section><!-- End Recent Blog Posts Section -->
-
-        </div>
-        </div>
+  </div>
