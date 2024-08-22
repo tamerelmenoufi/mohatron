@@ -103,16 +103,10 @@
   </style>
 
 <div class="gradiente-inicio" style="padding:30px" >
-                <div class="gradiente" >
-            
-    <section id="servicos"  style="padding:0px" class="recent-blog-posts">
+       <div class="gradiente" >
+          <div class="container" data-aos="fade-up">
 
-      <div class="container" data-aos="fade-up">
-
-
-        <div class="row">
-
-        <div class="col-md-12">
+        <div class="">
           <p style="font-size: 30px;font-weight:bold;color:#fff;text-align:center;margin-bottom:0px">Ferramentas para a sua empresa crescer!</p>
           <p style="font-size:16px;color:#fff;text-align:center" >Ferramentas digitais modernas, dinâmicas e acessíveis!</p>
         </div>
@@ -195,8 +189,6 @@
 </div>
 
         
-                </div>
-              </div>
-          </section><!-- End Recent Blog Posts Section -->
+          </div>
       </div>
   </div>
