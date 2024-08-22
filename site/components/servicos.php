@@ -107,14 +107,14 @@
 
         <div class="section-header">
           <h2 style="color:#fff;font-weight:bold;margin-top:15px" >Nossos Serviços</h2>
-          <p style="color:#fff;"> Lorem Ipsum tem sido o texto fictício padrão da indústria desde 1500, quando um impressor..</p>
+          
         </div>
 
         <div class="row">
 
         <div class="col-sm-5 col-md-12">
-          <p style="font-size:22px;font-weight:bold;color:#fff">Ferramentas para a sua empresa crescer!</p>
-          <p style="font-size:16px;font-weight:bold" >Ferramentas digitais modernas, dinâmicas e acessíveis!</p>
+          <p style="font-size: 26px;font-weight:bold;color:#fff;text-align:center;margin-bottom:0px">Ferramentas para a sua empresa crescer!</p>
+          <p style="font-size:16px;color:#fff;text-align:center" >Ferramentas digitais modernas, dinâmicas e acessíveis!</p>
 
           </p>
         </div>
