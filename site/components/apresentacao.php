@@ -32,17 +32,19 @@
 
 }
 .button {
-  border-radius: 4px;
-  background-color: #f4511e;
-  border: none;
-  color: #FFFFFF;
-  text-align: center;
-  font-size: 28px;
-  padding: 20px;
-  width: 200px;
-  transition: all 0.5s;
-  cursor: pointer;
-  margin: 5px;
+    border-radius: 4px;
+    background-color: #144397;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 2px;
+    width: 40%;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 25px;
+    border: 5px ridge #fdfdfdeb;
 }
 
 .button span {
@@ -87,11 +89,8 @@
       trabalhos que executamos, pois em um mercado competitivo, para a sua empresa 
       fazer bons negócios, é necessário que a estrutura online seja profissional.</p>
 
-    <p>
-        <a class=" btn-lg m-t-2 bt-azul" href="#">Fale com especialista?</a>
-    </p>
-
-    <button class="button"><span>Hover </span></button>
+    
+    <button class="button"><span>Fale com especialista</span></button>
 
     </div>
         </div>
