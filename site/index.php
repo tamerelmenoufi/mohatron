@@ -111,7 +111,7 @@
     $componentes = [
         'menu',
         // 'banner_principal',
-         'banner_principal_scroll',
+         //'banner_principal_scroll',
           'apresentacao',
           //'depoimentos',
           //'revolucionando',
