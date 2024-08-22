@@ -105,15 +105,11 @@
 
       <div class="container" data-aos="fade-up">
 
-        <div class="section-header">
-          <h2 style="color:#fff;font-weight:bold;margin-top:15px" >Nossos Serviços</h2>
-          
-        </div>
 
         <div class="row">
 
         <div class="col-sm-5 col-md-12">
-          <p style="font-size: 26px;font-weight:bold;color:#fff;text-align:center;margin-bottom:0px">Ferramentas para a sua empresa crescer!</p>
+          <p style="font-size: 30px;font-weight:bold;color:#fff;text-align:center;margin-bottom:0px">Ferramentas para a sua empresa crescer!</p>
           <p style="font-size:16px;color:#fff;text-align:center" >Ferramentas digitais modernas, dinâmicas e acessíveis!</p>
 
           </p>
