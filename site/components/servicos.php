@@ -75,7 +75,7 @@
   
   background-size: 400% 400%;
   background-image: linear-gradient(-45deg, #144397, #0d87f0, #004786, #004585);
-  animation: mygradient 2s ease infinite;
+  animation: mygradient 8s ease infinite;
 }
 
 
