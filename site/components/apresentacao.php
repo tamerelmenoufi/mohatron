@@ -29,7 +29,7 @@
     border-radius: 30px;
     -webkit-animation: pulse 500ms;
     animation: pulse 500ms;
-    background-color: #333 !important;
+
 }
 
 </style>
