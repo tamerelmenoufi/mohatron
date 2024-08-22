@@ -124,27 +124,27 @@
       <div class="media p-t-2">
           <div class="media-body">
             <h4 class="media-heading" style="font-size:22px;color:#fff">Sites com Design Moderno</h4>
-              <p style="font-size:15px;color:#fff">Estrutura profissional para ilustrar o seu produto ou serviço a altura do seu negócio!</p>
+              <p style="font-size:12px;color:#fff">Estrutura profissional para ilustrar o seu produto ou serviço a altura do seu negócio!</p>
           </div>
-            <div class="media-right text-theme" style="padding-top:15px;color: #fff;text-shadow: 2px 2px #86b7fe;"><span class="fa fa-laptop fa-4x"></span></div>
+            <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;"><span class="fa fa-laptop fa-4x"></span></div>
       </div>
 
       <div class="media p-t-2">
           <div class="media-body">
             <h4 class="media-heading" style="font-size:22px;color:#fff">Layout Responsivo</h4>
-              <p style="font-size:15px;color:#fff">O seu site se ajusta automaticamente na abertura em smartphones, tablets e PC.
+              <p style="font-size:12px;color:#fff">O seu site se ajusta automaticamente na abertura em smartphones, tablets e PC.
 
 </p>
           </div>
-            <div class="media-right text-theme" style="padding-top:15px;color: #fff;text-shadow: 2px 2px #86b7fe;"><span class="fa fa-mobile fa-5x"></span></div>
+            <div class="media-right text-theme" style="color: #fff;"><span class="fa fa-mobile fa-5x"></span></div>
       </div>
 
       <div class="media p-t-2">
           <div class="media-body">
             <h4 class="media-heading" style="font-size:22px;color:#fff">Seu Site Seguro</h4>
-              <p style="font-size:15px;color:#fff">Programações atualizadas, certificados de segurança SSL com criptografia de 2048 bits.</p>
+              <p style="font-size:12px;color:#fff">Programações atualizadas, certificados de segurança SSL com criptografia de 2048 bits.</p>
           </div>
-            <div class="media-right text-theme" style="padding-top:15px;color: #fff;text-shadow: 2px 2px #86b7fe;"><span class="fa fa-lock fa-4x"></span></div>
+            <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;"><span class="fa fa-lock fa-4x"></span></div>
       </div>
 
     </div>
