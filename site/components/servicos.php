@@ -121,10 +121,10 @@
     <div class="col">
     <div class="media p-t-2">
 <div class="media-body">
-<h4 class="media-heading">Sites com Design Moderno</h4>
-<p>Estrutura profissional para ilustrar o seu produto ou serviço a altura do seu negócio!</p>
+<h4 class="media-heading" style="font-size:22px;color:#fff">Sites com Design Moderno</h4>
+<p style="font-size:15px;color:#fff">Estrutura profissional para ilustrar o seu produto ou serviço a altura do seu negócio!</p>
 </div>
-<div class="media-right text-theme"><span class="fa fa-laptop fa-4x"></span></div>
+<div class="media-right text-theme" style="padding-top:15px;x;color: #1f95dd;text-shadow: 2px 2px #86b7fe;"><span class="fa fa-laptop fa-4x"></span></div>
 </div>
     </div>
     <div class="col">
