@@ -1,6 +1,6 @@
-<div class="container">
+<div class="">
   
-  <div class="row ">
+  <div class="row g-0">
     <div class="col-md-6">
     <div>
       <img src="assets/img/img-sms.png" class="img-fluid " style="">
