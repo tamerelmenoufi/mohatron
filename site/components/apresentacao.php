@@ -137,8 +137,8 @@
   </div>
 
 <div class="col-sm-5 col-md-6">
-<img src="assets/img/img-apre1.jpg" class="img-responsive" style="transition: transform 0.8s;
-    transform-style: preserve-3d;border-radius:40px;width:100%;padding:10px">
+<img src="assets/img/img-apre1.jpg" class="img-responsive flip-box-inner" 
+style="border-radius:40px;width:100%;padding:10px">
 
 
 </div>
