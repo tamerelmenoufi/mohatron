@@ -69,6 +69,19 @@
   opacity: 1;
   right: 0;
 }
+
+.zoom {
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s; /* Animation */
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
 </style>
 
 <div class="container" style="margin-top:120px">
@@ -89,8 +102,16 @@
 
     
     <button class="button"><span>Fale com especialista</span></button>
+  </div>
 
-    </div>
+<div class="col-sm-5 col-md-6">
+<div class="zoom"></div>
+
+</div>
+   
+
+
+</div>
         </div>
             </div>
                 </div>
