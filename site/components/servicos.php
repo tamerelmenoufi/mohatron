@@ -102,7 +102,7 @@
 
   </style>
 
-<div class="gradiente-inicio" style="padding:15px" >
+<div class="gradiente-inicio" style="padding:30px" >
                 <div class="gradiente" >
             
     <section id="servicos"  style="padding:0px" class="recent-blog-posts">
