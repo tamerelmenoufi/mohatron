@@ -138,6 +138,7 @@
           </div>
             <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-lock fa-4x"></span></div>
       </div>
+      
 </div>
     
 
