@@ -75,11 +75,6 @@
 <div class="row">
     <div class="col-sm-5 col-md-6">
 
-
-    
-    
-
-   
     <p class="lead" style="text-align: left;">
         Somos especializados em desenvolvimento de Sites Profissionais, Lojas Virtuais e 
         Marketplace para Microempreendedores Individuais, Microempresas, Empresas de Pequeno,
