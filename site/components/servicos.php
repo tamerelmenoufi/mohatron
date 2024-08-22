@@ -185,7 +185,7 @@
               <h4 class="media-heading" style="font-size:22px;color:#fff">Suporte Técnico</h4>
                 <p style="font-size:12px;color:#fff">Suporte técnico com equipe profissional, experiente e especializada em tecnologia.</p>
             </div>
-              <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-comments-o fa-4x"></span></div>
+              <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-comments fa-4x"></span></div>
         </div>
   
       </div>
