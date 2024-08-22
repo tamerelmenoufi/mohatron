@@ -94,6 +94,10 @@
       background-position: 0% 50%;
   }
 }
+.media-body, .media-left, .media-right {
+    display: table-cell;
+    vertical-align: top;
+}
 
 
   </style>
