@@ -104,7 +104,6 @@
 
 <div class="gradiente-inicio" style="padding:30px" >
        <div class="gradiente" >
-          <div class="container" data-aos="fade-up">
 
         <div class="">
           <p style="font-size: 30px;font-weight:bold;color:#fff;text-align:center;margin-bottom:0px">Ferramentas para a sua empresa crescer!</p>
@@ -113,7 +112,8 @@
 
   <div class="container text-center">
     <div class="row align-items-start">
-      <div class="col" style="margin-top:55px">
+      
+    <div class="col" style="margin-top:55px">
         
       <div class="media p-t-2">
           <div class="media-body">
@@ -126,11 +126,9 @@
       <div class="media p-t-2">
           <div class="media-body">
             <h4 class="media-heading" style="font-size:22px;color:#fff">Layout Responsivo</h4>
-              <p style="font-size:12px;color:#fff">O seu site se ajusta automaticamente na abertura em smartphones, tablets e PC.
-
-</p>
+              <p style="font-size:12px;color:#fff">O seu site se ajusta automaticamente na abertura em smartphones, tablets e PC.</p>
           </div>
-            <div class="media-right text-theme" style="color: #fff;padding:10px"><span class="fa fa-mobile fa-4x"></span></div>
+<div class="media-right text-theme" style="color: #fff;padding:10px"><span class="fa fa-mobile fa-4x"></span></div>
       </div>
 
       <div class="media p-t-2">
@@ -141,6 +139,9 @@
             <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-lock fa-4x"></span></div>
       </div>
 
+
+    </div>
+    </div>
     </div>
 
 
@@ -191,4 +192,3 @@
         
           </div>
       </div>
-  </div>
