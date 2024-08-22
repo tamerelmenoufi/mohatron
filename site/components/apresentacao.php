@@ -37,16 +37,14 @@
     border: none;
     color: #FFFFFF;
     text-align: center;
-    font-size: 28px;
-    padding: 2px;
-    width: 40%;
+    font-size: 18px;
+    padding: 9px;
     transition: all 0.5s;
     cursor: pointer;
     margin: 5px;
     border-radius: 25px;
     border: 5px ridge #fdfdfdeb;
 }
-
 .button span {
   cursor: pointer;
   display: inline-block;
