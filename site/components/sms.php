@@ -9,12 +9,15 @@
 
     
     <div class="col-md-6">
-      
+
+       
     <p style="font-size:30px;color:#fff;font-weight:bold">
       Crie experiências de SMS que permitam que você alcance os usuários finais como e quando quiser
     </p>
 
-    <ul class="detail__list  ">
+
+    <div class="row">
+       <div class="col-md-6">
 <li>
   <span>
     <p>
@@ -40,6 +43,9 @@
     </p>
   </span>
 </li>
+</div>
+
+       <div class="col-md-6">
 
 <li>
   <span>
@@ -54,9 +60,9 @@
         </p>
   </span>
 </li>
-</ul>
 
-
+</div>
+          </div>
     </div>
   
   
