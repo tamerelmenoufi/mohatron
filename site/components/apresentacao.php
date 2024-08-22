@@ -140,8 +140,4 @@
             </div>
                 </div>
                
-                <div class="gradiente-inicio" style="padding:15px" >
-                <div class="gradiente" >
-                    
-                    </div> 
-                </div>
+             
