@@ -138,11 +138,9 @@
           </div>
             <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-lock fa-4x"></span></div>
       </div>
+</div>
+    
 
-
-    </div>
-    </div>
-    </div>
 
 
     <div class="col">
@@ -152,15 +150,12 @@
 
 
 
-    <div class="col">
     <div class="col" style="margin-top:55px">
         
         <div class="media p-t-2">
             <div class="media-body">
               <h4 class="media-heading" style="font-size:22px;color:#fff">Gerencie o seu Conteúdo</h4>
-                <p style="font-size:12px;color:#fff">Atualize os textos, fotos e vídeos pela sua área administrativa, simples e sem código.
-
-</p>
+                <p style="font-size:12px;color:#fff">Atualize os textos, fotos e vídeos pela sua área administrativa, simples e sem código.</p>
             </div>
               <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-desktop fa-4x"></span></div>
         </div>
@@ -168,9 +163,7 @@
         <div class="media p-t-2">
             <div class="media-body">
               <h4 class="media-heading" style="font-size:22px;color:#fff">Hospedagem Profissional</h4>
-                <p style="font-size:12px;color:#fff">Servidor próprio com Datacenter no Brasil. Mais desempenho para a sua aplicação.
-  
-  </p>
+                <p style="font-size:12px;color:#fff">Servidor próprio com Datacenter no Brasil. Mais desempenho para a sua aplicação.</p>
             </div>
               <div class="media-right text-theme" style="color: #fff;padding:10px"><span class="fa fa-server fa-4x"></span></div>
         </div>
@@ -183,7 +176,6 @@
               <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-comments fa-4x"></span></div>
         </div>
   
-      </div>
     </div>
   
   </div>
