@@ -8,7 +8,7 @@
     </div>
 
     
-    <div class="col-md-6">
+    <div class="col-md-6" style="padding:15px">
 
        
     <p style="font-size:30px;color:#005992;font-weight:bold">
