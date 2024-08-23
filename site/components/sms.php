@@ -47,18 +47,18 @@ content: '';
   transition: all .3s ease-in-out 0s;
 }
 
-.button:hover, 
-.button:focus {
+.botao-sms:hover, 
+.botao-sms:focus {
   color: #313133;
   transform: translateY(-6px);
 }
 
-.button:hover::before, 
-.button:focus::before {
+.botao-sms:hover::before, 
+.botao-sms:focus::before {
   opacity: 1;
 }
 
-.button::after {
+.botao-sms::after {
   content: '';
   width: 30px; height: 30px;
   border-radius: 100%;
@@ -71,8 +71,8 @@ content: '';
   animation: ring 1.5s infinite;
 }
 
-.button:hover::after, 
-.button:focus::after {
+.botao-sms:hover::after, 
+.botao-sms:focus::after {
   animation: none;
   display: none;
 }
@@ -135,7 +135,7 @@ content: '';
       </div>
           
       <div class="wrap">
-  <button class="button">Submit</a>
+  <button class="botao-sms">Submit</button>
 </div>
 
 
