@@ -135,7 +135,7 @@ content: '';
       </div>
           
       <div class="wrap">
-  <button class="botao-sms">Submit</a>
+  <a class="botao-sms">Submit</a>
 </div>
 
 
