@@ -7,7 +7,7 @@
   justify-content: center;
 }
 
-.botaosms {
+.button {
   min-width: 300px;
   min-height: 60px;
   display: inline-flex;
@@ -21,7 +21,7 @@
   font-weight: 700;
   color: #313133;
   background: #4FD1C5;
-  background: linear-gradient(90deg, rgba(129,230,217,1) 0%, rgba(79,209,197,1) 100%);
+background: linear-gradient(90deg, rgba(129,230,217,1) 0%, rgba(79,209,197,1) 100%);
   border: none;
   border-radius: 1000px;
   box-shadow: 12px 12px 24px rgba(79,209,197,.64);
@@ -32,7 +32,7 @@
   padding: 10px;
   }
 
-.botao-sms::before {
+.button::before {
 content: '';
   border-radius: 1000px;
   min-width: calc(300px + 12px);
@@ -47,18 +47,18 @@ content: '';
   transition: all .3s ease-in-out 0s;
 }
 
-.botao-sms:hover, 
-.botao-sms:focus {
+.button:hover, 
+.button:focus {
   color: #313133;
   transform: translateY(-6px);
 }
 
-.botao-sms:hover::before, 
-.botao-sms:focus::before {
+.button:hover::before, 
+.button:focus::before {
   opacity: 1;
 }
 
-.botao-sms::after {
+.button::after {
   content: '';
   width: 30px; height: 30px;
   border-radius: 100%;
@@ -71,8 +71,8 @@ content: '';
   animation: ring 1.5s infinite;
 }
 
-.botao-sms:hover::after, 
-.botao-sms:focus::after {
+.button:hover::after, 
+.button:focus::after {
   animation: none;
   display: none;
 }
@@ -135,7 +135,7 @@ content: '';
       </div>
           
       <div class="wrap">
-  <a class="botao-sms">Submit</a>
+  <button class="button">Submit</a>
 </div>
 
 
