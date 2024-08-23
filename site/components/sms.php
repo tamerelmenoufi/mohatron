@@ -7,7 +7,7 @@
   justify-content: center;
 }
 
-.button {
+.botao-sms {
   min-width: 300px;
   min-height: 60px;
   display: inline-flex;
@@ -32,7 +32,7 @@ background: linear-gradient(90deg, rgba(129,230,217,1) 0%, rgba(79,209,197,1) 10
   padding: 10px;
   }
 
-.button::before {
+.botao-sms::before {
 content: '';
   border-radius: 1000px;
   min-width: calc(300px + 12px);
