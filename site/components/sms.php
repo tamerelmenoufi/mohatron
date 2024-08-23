@@ -18,11 +18,11 @@
 
     <div class="row g-0">
        <div class="col-md-6">
-    <p style="font-size:15px;border-left: 2px solid #005992 ">
+    <p style="font-size:15px;border-left: 3px solid #005992;padding:10px ">
           Envie e receba mensagens de texto de clientes do mundo todo de forma programática.     
     </p>
     
-    <p>
+    <p style="font-size:15px;border-left: 3px solid #005992;padding:10px ">
           Reduza as preocupações com conformidade — o mecanismo de conformidade 
           global da Vonage lida com as complexidades da comunicação mundial e adere 
           aos padrões de operadoras e redes em todo o mundo.
@@ -31,19 +31,12 @@
 
        <div class="col-md-6">
 
-<li>
-  <span>
-    <p>
-      <font style="vertical-align: inherit;">
-        <font style="vertical-align: inherit;">
+  <p style="font-size:15px;border-left: 3px solid #005992;padding:10px ">
           Emparelhe com a API Verify para adicionar uma camada extra de segurança:
              valide usuários em seus dispositivos móveis usando autenticação de
               dois fatores.
-            </font>
-          </font>
-        </p>
-  </span>
-</li>
+  </p>
+
 
 </div>
           </div>
