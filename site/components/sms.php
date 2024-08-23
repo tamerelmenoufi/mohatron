@@ -7,30 +7,31 @@
   justify-content: center;
 }
 
-.botao-sms {
+.botao-sms {    
   min-width: 300px;
-  min-height: 60px;
-  display: inline-flex;
-  font-family: 'Nunito', sans-serif;
-  font-size: 22px;
-  align-items: center;
-  justify-content: center;
-  text-transform: uppercase;
-  text-align: center;
-  letter-spacing: 1.3px;
-  font-weight: 700;
-  color: #313133;
-  background: #4FD1C5;
-background: linear-gradient(90deg, rgba(129,230,217,1) 0%, rgba(79,209,197,1) 100%);
-  border: none;
-  border-radius: 1000px;
-  box-shadow: 12px 12px 24px rgba(79,209,197,.64);
-  transition: all 0.3s ease-in-out 0s;
-  cursor: pointer;
-  outline: none;
-  position: relative;
-  padding: 10px;
-  }
+    min-height: 54px;
+    display: inline-flex;
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 1.3px;
+    font-weight: 700;
+    color: #fcfcff;
+    background: #4FD1C5;
+    background: linear-gradient(90deg, rgb(0 89 146) 0%, rgba(79, 209, 197, 1) 100%);
+    border: none;
+    border-radius: 1000px;
+    box-shadow: 12px 12px 24px rgba(79, 209, 197, .64);
+    transition: all 0.3s ease-in-out 0s;
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    padding: 10px;
+}
+  
 
 .botao-sms::before {
 content: '';
