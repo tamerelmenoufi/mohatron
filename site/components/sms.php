@@ -50,7 +50,7 @@ content: '';
 
 .botao-sms:hover, 
 .botao-sms:focus {
-  color: #313133;
+  color: #fff;
   transform: translateY(-6px);
 }
 
