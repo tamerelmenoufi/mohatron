@@ -79,7 +79,7 @@
 
 <div class=" aos-init aos-animate" style="background:#005992">
 <div class="row g-0" style="padding:25px">
-    <div class="col-sm-5 col-md-6">
+    <div class="col-sm-5 col-md-12">
 
     <p class="lead" style="text-align: left;font-size:30px;color:#fff;font-weight:bold">
     Email corporativo personalizado</p>
@@ -91,9 +91,7 @@
     <button class="button"><span>Fale com especialista</span></button>
   </div>
 
-<div class="col-sm-5 col-md-6">
-<img src="assets/img/img-apre1.jpg" class="img-responsive" style="border-radius:100px;width:100%;padding:10px">
-</div>
+
    
 
 
