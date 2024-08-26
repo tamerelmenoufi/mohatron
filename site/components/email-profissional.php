@@ -93,7 +93,7 @@
       
     
         <div>
-             <img src="assets/img/email-empresarial.jpg" class="img-fluid " style="">
+        <img src="assets/img/email-empresarial.jpg" class="img-fluid img-thumbnail " style="border-radius:25px">
          </div>
 
 
