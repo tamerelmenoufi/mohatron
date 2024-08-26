@@ -83,6 +83,11 @@
 
     <p class="lead" style="text-align: center;font-size:30px;color:#fff;font-weight:bold">
     E-mail Profissional </p>
+    <p class="o-7" style="text-align: center;font-size:15px;padding:5px;color:#fff ">
+    Para donos de pequenos negócios, um email com domínio personalizado 
+    funciona como a identidade online e canal de comunicação de marketing. 
+    Transmita profissionalismo com um endereço de e-mail corporativo com o 
+    domínio do seu negócio e conquiste a credibilidade dos seus potenciais clientes.</p>
 <div class="row g-0">
     <div class="col-sm-5 col-md-6">
       
@@ -92,11 +97,7 @@
          </div>
 
 
-    <p class="o-7" style="text-align: center;font-size:16px;padding:5px;color:#fff ">
-    Para donos de pequenos negócios, um email com domínio personalizado 
-    funciona como a identidade online e canal de comunicação de marketing. 
-    Transmita profissionalismo com um endereço de e-mail corporativo com o 
-    domínio do seu negócio e conquiste a credibilidade dos seus potenciais clientes.</p>
+   
 </div>
 
     <div class="col-sm-5 col-md-6">
