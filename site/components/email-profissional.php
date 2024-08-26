@@ -85,6 +85,12 @@
     E-mail Profissional </p>
 <div class="row g-0">
     <div class="col-sm-5 col-md-6">
+      
+    
+        <div>
+             <img src="assets/img/email-empresarial.jpg" class="img-fluid " style="">
+         </div>
+
 
     <p class="o-7" style="text-align: center;font-size:16px;padding:5px;color:#fff ">
     Para donos de pequenos negócios, um email com domínio personalizado 
