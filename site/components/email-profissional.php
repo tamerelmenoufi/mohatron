@@ -91,23 +91,23 @@
 <div class="row g-0">
     <div class="col-sm-5 col-md-6">
       
-    
-        <div>
-        <img src="assets/img/email-empresarial.jpg" class="img-fluid img-thumbnail " style="border-radius:25px">
-         </div>
-
-
-   
-</div>
-
-    <div class="col-sm-5 col-md-6">
-
     <p class="o-7" style="text-align: center;font-size:16px;padding:5px;color:#fff ">
     Não importa de onde você esteja enviando seus e-mails — seja do seu 
     celular ou computador —, nós temos suporte para todos os tipos de dispositivos. 
     Com a nossa hospedagem de email, você se conecta ao seu servidor de e-mail 
     em dispositivos iOS ou Android, ou em clientes de e-mail como Webmail e Outlook.
     </p>
+   
+</div>
+
+    <div class="col-sm-5 col-md-6">
+
+
+
+    <div>
+        <img src="assets/img/email-empresarial.jpg" class="img-fluid img-thumbnail " style="border-radius:25px">
+         </div>
+
     </div>
     
     </div>
