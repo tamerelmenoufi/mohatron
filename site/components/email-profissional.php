@@ -81,14 +81,14 @@
 <div class="row g-0" style="padding:25px">
     <div class="col-sm-5 col-md-12">
 
-    <p class="lead" style="text-align: left;font-size:30px;color:#fff;font-weight:bold">
+    <p class="lead" style="text-align: center;font-size:30px;color:#fff;font-weight:bold">
     Email corporativo personalizado</p>
 
-    <p class="o-7" style="text-align: justify;font-size:13px;padding:5px;color:#fff ">
+    <p class="o-7" style="text-align: center;font-size:13px;padding:5px;color:#fff ">
     Para donos de pequenos negócios, um email com domínio personalizado funciona como a identidade online e canal de comunicação de marketing. Transmita profissionalismo com um endereço de e-mail corporativo com o domínio do seu negócio e conquiste a credibilidade dos seus potenciais clientes.</p>
 
     
-    <button class="button"><span>Fale com especialista</span></button>
+  
   </div>
 
 
