@@ -81,7 +81,7 @@
 <div class="row g-0" style="padding:25px">
     <div class="col-sm-5 col-md-12">
 
-    <p class="lead" style="text-align: center;font-size:30px;color:#fff;font-weight:bold">
+    <p class="lead" style="text-align: center;font-size:30px;color:#fff;font-weight:bold;margin-bottom:0px">
     E-mail Profissional </p>
     <p class="o-7" style="text-align: center;font-size:17px;padding:5px;color:#fff ">
     Para donos de pequenos negócios, um email com domínio personalizado 
