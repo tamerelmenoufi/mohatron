@@ -122,7 +122,7 @@
         
         'servicos',
         'sms',
-        
+        'email-profissional',
         
        // 'noticias',
         //'galeria',
