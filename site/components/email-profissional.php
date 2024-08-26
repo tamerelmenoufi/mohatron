@@ -81,17 +81,11 @@
 <div class="row g-0" style="padding:25px">
     <div class="col-sm-5 col-md-6">
 
-    <p class="lead" style="text-align: left;color:#fff">
-        Somos especializados em desenvolvimento de Sites Profissionais, Lojas Virtuais e 
-        Marketplace para Microempreendedores Individuais, Microempresas, Empresas de Pequeno,
-         Médio e Grande Porte.</p>
+    <p class="lead" style="text-align: left;font-size:30px;color:#005992;font-weight:bold">
+    Email corporativo personalizado</p>
 
-    <p class="o-7" style="text-align: justify;color:#fff">
-    No mercado desde 2009, a Mohatron Soluções em TI desenvolve ferramentas digitais modernas,
-     dinâmicas e de alta tecnologia, sempre com foco em resultados.
-      A experiência e expertise dos nossos profissionais é o grande diferencial nos 
-      trabalhos que executamos, pois em um mercado competitivo, para a sua empresa 
-      fazer bons negócios, é necessário que a estrutura online seja profissional.</p>
+    <p class="o-7" style="text-align: justify;font-size:13px;border-left: 3px solid #fff;padding:5px;color:#fff ">
+    Para donos de pequenos negócios, um email com domínio personalizado funciona como a identidade online e canal de comunicação de marketing. Transmita profissionalismo com um endereço de e-mail corporativo com o domínio do seu negócio e conquiste a credibilidade dos seus potenciais clientes.</p>
 
     
     <button class="button"><span>Fale com especialista</span></button>
