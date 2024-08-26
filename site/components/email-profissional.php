@@ -77,7 +77,7 @@
 
 </style>
 
-<div class="container aos-init aos-animate" style="margin-top:120px">
+<div class="container aos-init aos-animate" style="background:#005992">
 <div class="row">
     <div class="col-sm-5 col-md-6">
 
