@@ -82,8 +82,8 @@
     <div class="col-sm-5 col-md-12">
 
     <p class="lead" style="text-align: center;font-size:30px;color:#fff;font-weight:bold">
-    Email corporativo personalizado</p>
-
+    E-mail Profissional </p>
+<div class="row g-0">
     <div class="col-sm-5 col-md-6">
 
     <p class="o-7" style="text-align: center;font-size:16px;padding:5px;color:#fff ">
