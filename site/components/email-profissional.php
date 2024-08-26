@@ -91,15 +91,9 @@ content: '';
   }
 }
 </style>
-  <div class="row g-0">
+  <div class="row g-0" style="background:#005992">
 
-    <div class="col-md-6">
-
-          <div>
-             <img src="assets/img/img-sms.png" class="img-fluid " style="">
-         </div>
-    </div>
-<!-- fim imagem sms --->
+    
 
 
 
@@ -141,6 +135,14 @@ content: '';
 
 
     </div>
+
+    <div class="col-md-6">
+
+          <div>
+             <img src="assets/img/img-sms.png" class="img-fluid " style="">
+         </div>
+    </div>
+<!-- fim imagem sms --->
   
   
   
