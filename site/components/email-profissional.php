@@ -77,16 +77,16 @@
 
 </style>
 
-<div class="container aos-init aos-animate" style="background:#005992">
-<div class="row">
+<div class=" aos-init aos-animate" style="background:#005992">
+<div class="row g-0" style="padding:25px">
     <div class="col-sm-5 col-md-6">
 
-    <p class="lead" style="text-align: left;">
+    <p class="lead" style="text-align: left;color:#fff">
         Somos especializados em desenvolvimento de Sites Profissionais, Lojas Virtuais e 
         Marketplace para Microempreendedores Individuais, Microempresas, Empresas de Pequeno,
          Médio e Grande Porte.</p>
 
-    <p class="o-7" style="text-align: justify;">
+    <p class="o-7" style="text-align: justify;color:#fff">
     No mercado desde 2009, a Mohatron Soluções em TI desenvolve ferramentas digitais modernas,
      dinâmicas e de alta tecnologia, sempre com foco em resultados.
       A experiência e expertise dos nossos profissionais é o grande diferencial nos 
@@ -98,7 +98,7 @@
   </div>
 
 <div class="col-sm-5 col-md-6">
-<img src="assets/img/img-apre1.jpg" class="img-responsive" style="border-radius:40px;width:100%;padding:10px">
+<img src="assets/img/img-apre1.jpg" class="img-responsive" style="border-radius:100px;width:100%;padding:10px">
 </div>
    
 
