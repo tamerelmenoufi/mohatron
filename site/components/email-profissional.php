@@ -249,7 +249,7 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
         </svg>
-        <span>Informações aqui</span>
+        <span style="font-size:14px">Informações aqui</span>
       </button>
     </div>
    
