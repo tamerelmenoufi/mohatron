@@ -210,7 +210,7 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
 
 
     <div style="text-align:right">
-        <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:400px">
+        <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:300px">
          </div>
 
     </div>
