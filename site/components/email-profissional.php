@@ -199,7 +199,7 @@ svg {
 
 .btn:hover {
   transition: 1s ease-in-out;
-  background: #1de4ad;
+  background: #0f7156;
 }
 
 .btn:hover svg {
@@ -249,7 +249,7 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
         </svg>
-        <span>Fale com especialista</span>
+        <span>Informações aqui</span>
       </button>
     </div>
    
