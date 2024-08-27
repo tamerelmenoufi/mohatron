@@ -175,8 +175,8 @@
 
 </style>
 
-
 <div class=" aos-init aos-animate" style="padding:30px;background:#006b62" >
+<div class=" container " style="" >
        <div class="row g-0 " style="padding:25px">
     <div class="col-sm-5 col-md-12">
 
@@ -187,7 +187,7 @@
     funciona como a identidade online e canal de comunicação de marketing. 
    </p>
 <div class="row g-0">
-    <div class="col-sm-5 col-md-6">
+    <div class="col-sm-5 col-md-8">
       
     <p class="o-7" style="text-align:justify;font-size:15px;padding:5px;color:#fff ">
     Transmita profissionalismo com um endereço de e-mail corporativo com o 
@@ -205,12 +205,12 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
    
 </div>
 
-    <div class="col-sm-5 col-md-6">
+    <div class="col-sm-5 col-md-4">
 
 
 
     <div style="text-align:right">
-        <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:300px">
+        <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:320px">
          </div>
 
     </div>
@@ -225,5 +225,5 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
         </div>
             </div>
                 </div>
-               
+            </div>   
              
