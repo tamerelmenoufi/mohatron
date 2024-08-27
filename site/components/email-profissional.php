@@ -209,8 +209,8 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
 
 
 
-    <div>
-        <img src="assets/img/email-profissional1.png" class="img-fluid img-thumbnail " style="border-radius:25px">
+    <div style="text-align:right:400px">
+        <img src="assets/img/email-profissional1.png" class="img-fluid  " style="border-radius:25px;height:400px">
          </div>
 
     </div>
