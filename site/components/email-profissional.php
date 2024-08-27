@@ -176,8 +176,8 @@
 </style>
 
 
-<div class="gradiente-inicio aos-init aos-animate" style="padding:30px" >
-       <div class="row g-0 gradiente" style="padding:25px">
+<div class=" aos-init aos-animate" style="padding:30px;background:#006b62" >
+       <div class="row g-0 " style="padding:25px">
     <div class="col-sm-5 col-md-12">
 
     <p class="lead" style="text-align: center;font-size:30px;color:#fff;font-weight:bold;margin-bottom:0px">
@@ -210,7 +210,7 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
 
 
     <div style="text-align:right">
-        <img src="assets/img/e-mail-1.gif" class="img-fluid rounded-circle  " style="border-radius:25px;height:400px">
+        <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:400px">
          </div>
 
     </div>
