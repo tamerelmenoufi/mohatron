@@ -193,8 +193,11 @@ section.beneficios .quadros .quadro .icone img {
       <div class="linha"></div>
     </div>
     <!-- Quadros -->
-    <div class="quadros">
-      <div class="quadro">
+    <div class="quadros ">
+     
+    <div class="row g-0">
+      
+    <div class="quadro col-md-4">
         <div class="icone um">
         <div><i class="fa-solid fa-user-lock"></i></div>
         </div>
@@ -204,7 +207,7 @@ section.beneficios .quadros .quadro .icone img {
         </div>
       </div>
 
-      <div class="quadro">
+      <div class="quadro col-md-4">
         <div class="icone dois">
           <img src="assets/img/sites.png">
         </div>
@@ -213,7 +216,8 @@ section.beneficios .quadros .quadro .icone img {
           <p>A velocidade do seu site importa. Todos os planos têm incluso o LiteSpeed para otimização e velocidade do site.</p>
         </div>
       </div>
-      <div class="quadro">
+
+      <div class="quadro col-md-4">
         <div class="icone tres">
           <img src="./assets/files/images/icone-backup-verde.svg">
         </div>
@@ -221,6 +225,8 @@ section.beneficios .quadros .quadro .icone img {
           <h3>Backup</h3>
           <p>Os seus arquivos estarão seguros na Nuvem! Todos os planos incluem backup diário para armazenar os seus sites e projetos com segurança.</p>
         </div>
+      </div>
+
       </div>
       <div class="quadro">
         <div class="icone quatro">
