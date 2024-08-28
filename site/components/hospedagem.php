@@ -209,9 +209,7 @@ section.beneficios .quadros .quadro .icone img {
 
       <div class="quadro col-md-4">
         <div class="icone um">
-          <img src="assets/img/sites.png">
-          <div><i class="fa-solid fa-bolt" style="font-size:22px;color:#fff"></i></div>
-          
+          <div><i class="fa-solid fa-bolt" style="font-size:22px;color:#fff"></i></div>         
         </div>
         <div class="texto">
           <h3>LiteSpeed</h3>
