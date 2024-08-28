@@ -124,7 +124,7 @@ section.beneficios .quadros .quadro {
     <div class="row align-items-start">
     <div class="quadro">
         <div class="icone um">
-          <img src="./assets/files/images/icone-cadeado.svg">
+        <i class="fa-solid fa-user-lock"></i>
         </div>
         <div class="texto">
           <h3>Certificado SSL</h3>
