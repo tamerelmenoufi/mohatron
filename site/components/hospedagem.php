@@ -168,7 +168,7 @@ section.beneficios .quadros .quadro .icone {
     position: absolute;
     background-color: #eefeff;
     top: 0;
-    left: 0;
+    left: 8px;
 }
 
 
@@ -177,7 +177,11 @@ section.beneficios .quadros .quadro .texto {
     flex-direction: column;
     align-items: flex-start;
     padding: 30px;
+    box-shadow: 0px 0px 6px 0px #004887;
+    border-radius: 0px 10px 10px 0px;
+    margin-right: 6px;
 }
+
 section.beneficios .quadros .quadro .icone img {
     width: 100%;
     max-width: 25px;
