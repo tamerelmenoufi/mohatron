@@ -270,7 +270,7 @@ section.beneficios .quadros .quadro .icone img {
         </div>
       </div>
       </div>
-
+      <div class="inner"><a data-ga-trigger="" data-ga-category="" data-ga-action="" data-ga-label="" href="#planos" class="button-primary">Quero contratar</a></div>
 
     </div>
   </section>
