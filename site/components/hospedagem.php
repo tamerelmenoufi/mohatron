@@ -251,11 +251,11 @@ section.beneficios .quadros .quadro .icone img {
 
       <div class="quadro col-md-4">
         <div class="icone um">
-          <img src="./assets/files/images/icone-elementor-roxo.svg">
+          <i class="fa-solid fa-bars-progress"  style="font-size:22px;color:#fff;border: solid 3px #fff;border-radius:25px;padding:8px;background: #0d77ad;"></i>
         </div>
         <div class="texto">
-          <h3>Plugins WordPress</h3>
-          <p>Os planos incluem plugins originais. Elementor PRO e WP Rocket estão disponíveis aqui na Nuvem.</p>
+          <h3>Container Docker</h3>
+          <p>Nossa plataforma oferece ambientes isolados e portáteis para suas aplicações, garantindo alta performance e escalabilidade.</p>
         </div>
       </div>
 
