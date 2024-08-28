@@ -216,7 +216,7 @@ svg {
 </style>
 
 <div class=" aos-init aos-animate" style="padding:30px;background:#006b62" >
-<div class=" container " style="" >
+<div class="  " style="" >
        <div class="row g-0 " style="padding:25px">
     <div class="col-sm-5 col-md-12">
 
@@ -241,8 +241,9 @@ svg {
 Diferente de serviços de e-mail pessoal, os seus dados estão seguros com a gente. Conte com as melhores medidas de segurança do mercado para proteger o seu e-mail de acessos não autorizados. 
 Nossos servidores têm proteção avançada para prevenir ataques de spam.
     </p>
-    
-
+ 
+<center>    
+<div>
     <div class="center">
       <button class="btn">
         <svg width="180px" height="60px" viewBox="0 0 180 60" class="border">
@@ -252,6 +253,8 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
         <span style="font-size:14px">Informações aqui</span>
       </button>
     </div>
+
+</center>
    
 </div>
 
