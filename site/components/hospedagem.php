@@ -102,8 +102,8 @@
 
   </style>
 
-<div class="gradiente-inicio" style="padding:30px" >
-       <div class="gradiente" >
+<div class="" style="padding:30px" >
+       <div class="" >
 
         <div class="">
           <p style="font-size: 30px;font-weight:bold;color:#fff;text-align:center;margin-bottom:0px">Ferramentas para a sua empresa crescer!</p>
@@ -114,10 +114,11 @@
     <div class="row align-items-start">
     <div class="media p-t-2">
             <div class="media-body">
+            <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-desktop fa-4x"></span></div>
               <h4 class="media-heading" style="font-size:22px;color:#fff">Gerencie o seu Conteúdo</h4>
                 <p style="font-size:12px;color:#fff">Atualize os textos, fotos e vídeos pela sua área administrativa, simples e sem código.</p>
             </div>
-              <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-desktop fa-4x"></span></div>
+        
         </div>  
  
   </div>
