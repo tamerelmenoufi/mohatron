@@ -193,8 +193,9 @@ section.beneficios .quadros .quadro .icone img {
 <section class="beneficios animar">
     <!-- Titulo -->
     <div class="titulo" style="text-align:center">
-      <h2>Todos os <span style="color: #0663b5;font-weight:bold">planos</span> incluem <span style="color: #0663b5;font-weight:bold">benefícios</span></h2>
-      <p>Todos os planos têm funcionalidades e bônus que vão ajudar na construção do seu site com a mais alta performance</p>
+      <h2><span style="color: #0663b5;font-weight:bold">Hospedagem</span> veloz para colocar suas 
+       <span style="color: #0663b5;font-weight:bold">ideias</span>em ação</h2>
+      <p>Este é serviço fundamental para que o público consiga acessar as suas páginas.</p>
       <div class="linha"></div>
     </div>
     <!-- Quadros -->
