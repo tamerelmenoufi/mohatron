@@ -208,7 +208,7 @@ section.beneficios .quadros .quadro .icone img {
       </div>
 
       <div class="quadro col-md-4">
-        <div class="icone dois">
+        <div class="icone um">
           <img src="assets/img/sites.png">
         </div>
         <div class="texto">
@@ -218,7 +218,7 @@ section.beneficios .quadros .quadro .icone img {
       </div>
 
       <div class="quadro col-md-4">
-        <div class="icone tres">
+        <div class="icone um">
           <img src="./assets/files/images/icone-backup-verde.svg">
         </div>
         <div class="texto">
@@ -233,7 +233,7 @@ section.beneficios .quadros .quadro .icone img {
       <div class="row g-0">
 
       <div class="quadro col-md-4">
-        <div class="icone quatro">
+        <div class="icone um">
           <img src="./assets/files/images/icone-escala.svg">
         </div>
         <div class="texto">
@@ -244,7 +244,7 @@ section.beneficios .quadros .quadro .icone img {
 
 
       <div class="quadro col-md-4">
-        <div class="icone cinco">
+        <div class="icone um">
           <img src="./assets/files/images/icone-elementor-roxo.svg">
         </div>
         <div class="texto">
@@ -255,7 +255,7 @@ section.beneficios .quadros .quadro .icone img {
 
 
       <div class="quadro col-md-4">
-        <div class="icone seis">
+        <div class="icone um">
           <img src="./assets/files/images/icone-otimizacao.svg">
         </div>
         <div class="texto">
