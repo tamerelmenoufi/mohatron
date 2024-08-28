@@ -216,4 +216,68 @@ svg {
 </style>
 
 
-<section id="funcionalidades" class="product-features-list dark-white" data-gtm-vis-recent-on-screen103454_1499="26646" data-gtm-vis-first-on-screen103454_1499="26646" data-gtm-vis-total-visible-time103454_1499="100" data-gtm-vis-has-fired103454_1499="1"><div class="inner"><hgroup class="section-title"><h2>Hospedagem segura e de alta performance com funcionalidades essenciais</h2><p>A Locaweb cuida de tudo com recursos completos e hospedagem gerenciada</p></hgroup></div><div class="extendable-list 3"><ul class="line-bottom list"><li class="item round-icon"><span class="icon-restore"></span><h4 class="title">Backup diário</h4><p>Proteção garantida com restore dos últimos 7 dias</p></li><li class="item round-icon small"><span class="icon-wordpress"></span><h4 class="title">Recursos inovadores</h4><p>Integração com Google Analytics, PageSpeed e WordPress</p></li><li class="item round-icon small"><span class="icon-rocket"></span><h4 class="title">Excelente desempenho</h4><p>Seu site sempre online e otimizado, com 99,5% de uptime garantido</p></li><li class="item round-icon small"><span class="icon-mysql"></span><h4 class="title">MySQL e PostgreSQL</h4><p>Os principais bancos de dados de sistemas online</p></li></ul></div></section>
+<section class="beneficios animar">
+    <!-- Titulo -->
+    <div class="titulo">
+      <h2>Todos os <span>planos</span> incluem <span>benefícios</span></h2>
+      <p>Todos os planos têm funcionalidades e bônus que vão ajudar na construção do seu site com a mais alta performance</p>
+      <div class="linha"></div>
+    </div>
+    <!-- Quadros -->
+    <div class="quadros">
+      <div class="quadro">
+        <div class="icone um">
+          <img src="./assets/files/images/icone-cadeado.svg">
+        </div>
+        <div class="texto">
+          <h3>Certificado SSL</h3>
+          <p>Para aumentar a segurança do seu site, todos os planos incluem certificado SSL 100% configurado dentro da sua hospedagem</p>
+        </div>
+      </div>
+      <div class="quadro">
+        <div class="icone dois">
+          <img src="./assets/files/images/icone-litespeed-azul.svg">
+        </div>
+        <div class="texto">
+          <h3>LiteSpeed</h3>
+          <p>A velocidade do seu site importa. Todos os planos têm incluso o LiteSpeed para otimização e velocidade do site.</p>
+        </div>
+      </div>
+      <div class="quadro">
+        <div class="icone tres">
+          <img src="./assets/files/images/icone-backup-verde.svg">
+        </div>
+        <div class="texto">
+          <h3>Backup</h3>
+          <p>Os seus arquivos estarão seguros na Nuvem! Todos os planos incluem backup diário para armazenar os seus sites e projetos com segurança.</p>
+        </div>
+      </div>
+      <div class="quadro">
+        <div class="icone quatro">
+          <img src="./assets/files/images/icone-escala.svg">
+        </div>
+        <div class="texto">
+          <h3>Escala</h3>
+          <p>Todos os nossos servidores possuem escala para sua necessidade. Basta solicitar para o time de suporte que aumentamos o espaço</p>
+        </div>
+      </div>
+      <div class="quadro">
+        <div class="icone cinco">
+          <img src="./assets/files/images/icone-elementor-roxo.svg">
+        </div>
+        <div class="texto">
+          <h3>Plugins WordPress</h3>
+          <p>Os planos incluem plugins originais. Elementor PRO e WP Rocket estão disponíveis aqui na Nuvem.</p>
+        </div>
+      </div>
+      <div class="quadro">
+        <div class="icone seis">
+          <img src="./assets/files/images/icone-otimizacao.svg">
+        </div>
+        <div class="texto">
+          <h3>Otimização</h3>
+          <p>Todos os servidores são otimizados! Ajudamos você a otimizar o seu site para manter a velocidade dele ainda mais rápida.</p>
+        </div>
+      </div>
+    </div>
+  </section>
