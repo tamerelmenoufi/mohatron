@@ -212,10 +212,13 @@ svg {
   font-weight: 100;
 }
 
+.fundo-verde{
+ background-image:url(assets/img/fundo-verde.png);
+}
 
 </style>
 
-<div class=" aos-init aos-animate" style="padding:30px;background:#006b62" >
+<div class=" aos-init aos-animate fundo verde" style="padding:30px;background:#006b62" >
 <div class="  " style="" >
        <div class="row g-0 " style="padding:25px">
     <div class="col-sm-5 col-md-12">
@@ -279,4 +282,4 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
             </div>
                 </div>
             </div>   
-            <img src="assets/img/fundo-verde.png" class="img-fluid  " style="">      
+               
