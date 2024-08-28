@@ -154,7 +154,7 @@ section.beneficios .quadros .quadro {
     text-decoration: none;
 }
 section.beneficios .quadros .quadro .icone.um {
-    background-color: #FFF3D5;
+    background-color: #004887;
 }
 section.beneficios .quadros .quadro .icone {
     display: flex;
@@ -199,7 +199,7 @@ section.beneficios .quadros .quadro .icone img {
       
     <div class="quadro col-md-4" >
         <div class="icone um">
-        <div><i class="fa-solid fa-user-lock"></i></div>
+        <div><i class="fa-solid fa-user-lock" style="font-size:22px;color:#fff"></i></div>
         </div>
         <div class="texto">
           <h3>Certificado SSL</h3>
