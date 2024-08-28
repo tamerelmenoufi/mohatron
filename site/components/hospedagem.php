@@ -193,7 +193,7 @@ section.beneficios .quadros .quadro .icone img {
       </div>
       <div class="quadro">
         <div class="icone dois">
-          <img src="./assets/files/images/icone-litespeed-azul.svg">
+          <img src="assets/img/sites.png">
         </div>
         <div class="texto">
           <h3>LiteSpeed</h3>
