@@ -197,7 +197,7 @@ section.beneficios .quadros .quadro .icone img {
      
     <div class="row g-0">
       
-    <div class="quadro col-md-4" style="margin:10px">
+    <div class="quadro col-md-4" >
         <div class="icone um">
         <div><i class="fa-solid fa-user-lock"></i></div>
         </div>
@@ -207,7 +207,7 @@ section.beneficios .quadros .quadro .icone img {
         </div>
       </div>
 
-      <div class="quadro col-md-4" style="margin:10px">
+      <div class="quadro col-md-4">
         <div class="icone dois">
           <img src="assets/img/sites.png">
         </div>
@@ -217,7 +217,7 @@ section.beneficios .quadros .quadro .icone img {
         </div>
       </div>
 
-      <div class="quadro col-md-4" style="margin:10px">
+      <div class="quadro col-md-4">
         <div class="icone tres">
           <img src="./assets/files/images/icone-backup-verde.svg">
         </div>
@@ -232,7 +232,7 @@ section.beneficios .quadros .quadro .icone img {
 
       <div class="row g-0">
 
-      <div class="quadro col-md-4" style="margin:10px">
+      <div class="quadro col-md-4">
         <div class="icone quatro">
           <img src="./assets/files/images/icone-escala.svg">
         </div>
@@ -243,7 +243,7 @@ section.beneficios .quadros .quadro .icone img {
       </div>
 
 
-      <div class="quadro col-md-4" style="margin:10px">
+      <div class="quadro col-md-4">
         <div class="icone cinco">
           <img src="./assets/files/images/icone-elementor-roxo.svg">
         </div>
@@ -254,7 +254,7 @@ section.beneficios .quadros .quadro .icone img {
       </div>
 
 
-      <div class="quadro col-md-4" style="margin:10px">
+      <div class="quadro col-md-4">
         <div class="icone seis">
           <img src="./assets/files/images/icone-otimizacao.svg">
         </div>
