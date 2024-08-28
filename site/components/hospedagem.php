@@ -116,8 +116,8 @@
             <div class="media-body">
           
               <h4 class="media-heading" style="font-size:22px;color:#000">Gerencie o seu Conteúdo</h4>
-              <div class="media-right text-theme" style="color: #000;text-shadow: 2px 2px #000;padding:10px"><span class="fa fa-desktop fa-4x"></span></div>
-                <p style="font-size:12px;color:#000">Atualize os textos, fotos e vídeos pela sua área administrativa, simples e sem código.</p>
+            <p style="font-size:12px;color:#000">Atualize os textos, fotos e vídeos pela sua área administrativa, simples e sem código.</p>
+            <div class="media-right text-theme" style="color: #000;text-shadow: 2px 2px #000;padding:10px"><span class="fa fa-desktop fa-4x"></span></div>
             </div>
         
         </div>  
