@@ -221,8 +221,19 @@ svg {
     -o-background-size: cover;
     background-size: cover;sx
 }
+.fundo-verde2{
+ background-image:url(assets/img/fundo-verde2.png);
+ background-repeat: no-repeat center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;sx
+}
 
 </style>
+
+<div class="fundo-verde2 d-none d-sm-block" style="height:120px">
 
 <div class=" aos-init aos-animate" style="padding:30px;background:#006b62;padding-bottom:0px" >
 <div class="  " style="" >
@@ -286,7 +297,7 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
                 </div>
             </div> 
             
-            <div class="fundo-verde" style="height:192px">
+            <div class="fundo-verde d-none d-sm-block" style="height:120px">
 
             </div>  
                
