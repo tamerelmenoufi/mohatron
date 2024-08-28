@@ -126,15 +126,20 @@ section.beneficios .quadros {
     width: 100%;
     margin: 0 0 10px 0;
 }
-section.beneficios .quadros .quadro {
-    display: flex;
-    width: calc(33.33% - 10px);
-    margin: 20px 0 0 0;
-    background-color: var(--cor-branco);
-    box-shadow: 0 5px 30px 0 #0906200c;
-    padding: 0 0 0 60px;
-    position: relative;
-    border-radius: 10px;
+* {
+    scrollbar-color: #acadb8 #696a73;
+    scrollbar-width: thin;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    text-decoration: none;
 }
 
   </style>
