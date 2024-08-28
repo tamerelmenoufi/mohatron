@@ -99,6 +99,16 @@
     vertical-align: top;
 }
 
+section.beneficios .quadros .quadro {
+    display: flex;
+    width: calc(33.33% - 10px);
+    margin: 20px 0 0 0;
+    background-color: var(--cor-branco);
+    box-shadow: 0 5px 30px 0 #0906200c;
+    padding: 0 0 0 60px;
+    position: relative;
+    border-radius: 10px;
+}
 
   </style>
 
@@ -112,73 +122,16 @@
 
   <div class="container text-center">
     <div class="row align-items-start">
-      
-    <div class="col" style="margin-top:55px">
-        
-      <div class="media p-t-2">
-          <div class="media-body">
-            <h4 class="media-heading" style="font-size:22px;color:#fff">Sites com Design Moderno</h4>
-              <p style="font-size:12px;color:#fff">Estrutura profissional para ilustrar o seu produto ou serviço a altura do seu negócio!</p>
-          </div>
-            <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-laptop fa-4x"></span></div>
-      </div>
-
-      <div class="media p-t-2">
-          <div class="media-body">
-            <h4 class="media-heading" style="font-size:22px;color:#fff">Layout Responsivo</h4>
-              <p style="font-size:12px;color:#fff">O seu site se ajusta automaticamente na abertura em smartphones, tablets e PC.</p>
-          </div>
-<div class="media-right text-theme" style="color: #fff;padding:10px"><span class="fa fa-mobile fa-4x"></span></div>
-      </div>
-
-      <div class="media p-t-2">
-          <div class="media-body">
-            <h4 class="media-heading" style="font-size:22px;color:#fff">Seu Site Seguro</h4>
-              <p style="font-size:12px;color:#fff">Programações atualizadas, certificados de segurança SSL com criptografia de 2048 bits.</p>
-          </div>
-            <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-lock fa-4x"></span></div>
-      </div>
-      
-</div>
-    
-
-
-
-    <div class="col">
-    <img src="assets/img/sites.png" class="img-responsive" style="height:350px">
-    </div>
-
-
-
-
-    <div class="col" style="margin-top:55px">
-        
-        <div class="media p-t-2">
-            <div class="media-body">
-              <h4 class="media-heading" style="font-size:22px;color:#fff">Gerencie o seu Conteúdo</h4>
-                <p style="font-size:12px;color:#fff">Atualize os textos, fotos e vídeos pela sua área administrativa, simples e sem código.</p>
-            </div>
-              <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-desktop fa-4x"></span></div>
+    <div class="quadro">
+        <div class="icone um">
+          <img src="./assets/files/images/icone-cadeado.svg">
         </div>
-  
-        <div class="media p-t-2">
-            <div class="media-body">
-              <h4 class="media-heading" style="font-size:22px;color:#fff">Hospedagem Profissional</h4>
-                <p style="font-size:12px;color:#fff">Servidor próprio com Datacenter no Brasil. Mais desempenho para a sua aplicação.</p>
-            </div>
-              <div class="media-right text-theme" style="color: #fff;padding:10px"><span class="fa fa-server fa-4x"></span></div>
+        <div class="texto">
+          <h3>Certificado SSL</h3>
+          <p>Para aumentar a segurança do seu site, todos os planos incluem certificado SSL 100% configurado dentro da sua hospedagem</p>
         </div>
-  
-        <div class="media p-t-2">
-            <div class="media-body">
-              <h4 class="media-heading" style="font-size:22px;color:#fff">Suporte Técnico</h4>
-                <p style="font-size:12px;color:#fff">Suporte técnico com equipe profissional, experiente e especializada em tecnologia.</p>
-            </div>
-              <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-comments fa-4x"></span></div>
-        </div>
-  
-    </div>
-  
+      </div>  
+ 
   </div>
 </div>
 
