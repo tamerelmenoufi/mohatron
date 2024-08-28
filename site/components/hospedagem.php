@@ -224,7 +224,7 @@ section.beneficios .quadros .quadro .icone img {
 
       <div class="quadro col-md-4">
         <div class="icone um">
-        <i class="fa-solid fa-crate-empty"  style="font-size:22px;color:#fff" > </i>
+        <i class="fa-solid fa-cloud-arrow-down"   style="font-size:22px;color:#fff;border: solid 3px #fff;border-radius:25px;padding:10px;background: #0d77ad;" > </i>
         </div>
         <div class="texto">
           <h3>Backup</h3>
