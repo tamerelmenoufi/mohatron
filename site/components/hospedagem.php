@@ -82,6 +82,12 @@
 .gradiente{
   
 }
+.media-body, .media-left, .media-right {
+    display: table-cell;
+    vertical-align: top;
+}
+
+
 
 @keyframes mygradient {
   0% {
