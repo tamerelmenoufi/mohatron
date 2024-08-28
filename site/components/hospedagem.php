@@ -203,7 +203,7 @@ section.beneficios .quadros .quadro .icone img {
       
     <div class="quadro col-md-4" >
         <div class="icone um">
-        <div><i class="fa-solid fa-user-lock" style="font-size:22px;color:#fff"></i></div>
+        <div><i class="fa-solid fa-user-lock" style="font-size:22px;color:#fff;border: solid 4px #fff;border-radius:25px;padding:10px;background: #0d77ad;"></i></div>
         </div>
         <div class="texto">
           <h3>Certificado SSL</h3>
@@ -213,7 +213,7 @@ section.beneficios .quadros .quadro .icone img {
 
       <div class="quadro col-md-4">
         <div class="icone um">
-          <div><i class="fa-solid fa-bolt" style="font-size:22px;color:#fff"></i></div>         
+          <div><i class="fa-solid fa-bolt" style="font-size:22px;color:#fff;border: solid 4px #fff;border-radius:25px;padding:10px;background: #0d77ad;"></i></div>         
         </div>
         <div class="texto">
           <h3>LiteSpeed</h3>
