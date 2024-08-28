@@ -141,6 +141,27 @@ section.beneficios .quadros {
     vertical-align: baseline;
     text-decoration: none;
 }
+section.beneficios .quadros .quadro .icone.um {
+    background-color: #FFF3D5;
+}
+section.beneficios .quadros .quadro .icone {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 30px 0 0 0;
+    width: 60px;
+    min-width: 60px;
+    height: 100%;
+    border-radius: 10px;
+    position: absolute;
+    background-color: #eefeff;
+    top: 0;
+    left: 0;
+}
+* {
+    scrollbar-color: #acadb8 #696a73;
+    scrollbar-width: thin;
+}
 
   </style>
 
