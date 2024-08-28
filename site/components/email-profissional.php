@@ -286,7 +286,7 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
                 </div>
             </div> 
             
-            <div class="fundo-verde">
+            <div class="fundo-verde" style="height:192px">
 
             </div>  
                
