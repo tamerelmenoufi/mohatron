@@ -214,6 +214,12 @@ svg {
 
 .fundo-verde{
  background-image:url(assets/img/fundo-verde.png);
+ background-repeat: no-repeat center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;sx
 }
 
 </style>
