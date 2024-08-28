@@ -166,6 +166,10 @@ section.beneficios .quadros .quadro .texto {
     align-items: flex-start;
     padding: 30px;
 }
+section.beneficios .quadros .quadro .icone img {
+    width: 100%;
+    max-width: 25px;
+}
   </style>
 
 
