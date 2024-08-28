@@ -1,78 +1,7 @@
-<style>
-.bt-azul{
-    
-    display: inline-block;
-    cursor: pointer;
-    position: relative;
-    z-index: 1;
-    outline: none !important;
-    border: none;
-    background: #144397;
-    color: #fff !important;
-    -webkit-border-radius: 30px;
-    -moz-border-radius: 30px;
-    border-radius: 30px;
-}
+  <!-- ======= Recent Blog Posts Section ======= -->
 
-.bt-azul:hover{
-    
-    display: inline-block;
-    cursor: pointer;
-    position: relative;
-    z-index: 1;
-    outline: none !important;
-    border: none;
-    background: #32589b;
-    color: #fff !important;
-    -webkit-border-radius: 30px;
-    -moz-border-radius: 30px;
-    border-radius: 30px;
-    -webkit-animation: pulse 500ms;
-    animation: pulse 500ms;
+    <style>
 
-}
-.button {
-    border-radius: 4px;
-    background-color: #f9fafb;
-    border: none;
-    color: #0668bd;
-    text-align: center;
-    font-size: 14px;
-    padding: 9px;
-    transition: all 0.5s;
-    cursor: pointer;
-    margin: 5px;
-    border-radius: 25px;
-    border-bottom: 4px solid #045ba8bf;
-    border-top: 4px solid #045ba8bf;
-  
-}
-.button span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-.button span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-.button:hover span {
-  padding-right: 25px;
-}
-
-.button:hover span:after {
-  opacity: 1;
-  right: 0;
-}
-
- 
 .recent-blog-posts .post-box .post-title {
     font-size: 24px;
     color: var(--color-secondary);
@@ -170,114 +99,89 @@
     vertical-align: top;
 }
 
-.center {
-  width: 180px;
-  height: 60px;
-  position: absolute;
-}
 
-.btn {
-  width: 180px;
-  height: 60px;
-  cursor: pointer;
-  background: transparent;
-  border: 1px solid #91C9FF;
-  outline: none;
-  transition: 1s ease-in-out;
-}
+  </style>
 
-svg {
-  position: absolute;
-  left: 0;
-  top: 0;
-  fill: none;
-  stroke: #fff;
-  stroke-dasharray: 150 480;
-  stroke-dashoffset: 150;
-  transition: 1s ease-in-out;
-}
+<div class="gradiente-inicio" style="padding:30px" >
+       <div class="gradiente" >
 
-.btn:hover {
-  transition: 1s ease-in-out;
-  background: #0f7156;
-}
+        <div class="">
+          <p style="font-size: 30px;font-weight:bold;color:#fff;text-align:center;margin-bottom:0px">Ferramentas para a sua empresa crescer!</p>
+          <p style="font-size:16px;color:#fff;text-align:center" >Ferramentas digitais modernas, dinâmicas e acessíveis!</p>
+        </div>
 
-.btn:hover svg {
-  stroke-dashoffset: -480;
-}
+  <div class="container text-center">
+    <div class="row align-items-start">
+      
+    <div class="col" style="margin-top:55px">
+        
+      <div class="media p-t-2">
+          <div class="media-body">
+            <h4 class="media-heading" style="font-size:22px;color:#fff">Sites com Design Moderno</h4>
+              <p style="font-size:12px;color:#fff">Estrutura profissional para ilustrar o seu produto ou serviço a altura do seu negócio!</p>
+          </div>
+            <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-laptop fa-4x"></span></div>
+      </div>
 
-.btn span {
-  color: white;
-  font-size: 18px;
-  font-weight: 100;
-}
+      <div class="media p-t-2">
+          <div class="media-body">
+            <h4 class="media-heading" style="font-size:22px;color:#fff">Layout Responsivo</h4>
+              <p style="font-size:12px;color:#fff">O seu site se ajusta automaticamente na abertura em smartphones, tablets e PC.</p>
+          </div>
+<div class="media-right text-theme" style="color: #fff;padding:10px"><span class="fa fa-mobile fa-4x"></span></div>
+      </div>
 
-
-</style>
+      <div class="media p-t-2">
+          <div class="media-body">
+            <h4 class="media-heading" style="font-size:22px;color:#fff">Seu Site Seguro</h4>
+              <p style="font-size:12px;color:#fff">Programações atualizadas, certificados de segurança SSL com criptografia de 2048 bits.</p>
+          </div>
+            <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-lock fa-4x"></span></div>
+      </div>
+      
+</div>
+    
 
 
-<section class="beneficios animar">
-    <!-- Titulo -->
-    <div class="titulo">
-      <h2>Todos os <span>planos</span> incluem <span>benefícios</span></h2>
-      <p>Todos os planos têm funcionalidades e bônus que vão ajudar na construção do seu site com a mais alta performance</p>
-      <div class="linha"></div>
+
+    <div class="col">
+    <img src="assets/img/sites.png" class="img-responsive" style="height:350px">
     </div>
-    <!-- Quadros -->
-    <div class="quadros">
-      <div class="quadro">
-        <div class="icone um">
-          <img src="./assets/files/images/icone-cadeado.svg">
+
+
+
+
+    <div class="col" style="margin-top:55px">
+        
+        <div class="media p-t-2">
+            <div class="media-body">
+              <h4 class="media-heading" style="font-size:22px;color:#fff">Gerencie o seu Conteúdo</h4>
+                <p style="font-size:12px;color:#fff">Atualize os textos, fotos e vídeos pela sua área administrativa, simples e sem código.</p>
+            </div>
+              <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-desktop fa-4x"></span></div>
         </div>
-        <div class="texto">
-          <h3>Certificado SSL</h3>
-          <p>Para aumentar a segurança do seu site, todos os planos incluem certificado SSL 100% configurado dentro da sua hospedagem</p>
+  
+        <div class="media p-t-2">
+            <div class="media-body">
+              <h4 class="media-heading" style="font-size:22px;color:#fff">Hospedagem Profissional</h4>
+                <p style="font-size:12px;color:#fff">Servidor próprio com Datacenter no Brasil. Mais desempenho para a sua aplicação.</p>
+            </div>
+              <div class="media-right text-theme" style="color: #fff;padding:10px"><span class="fa fa-server fa-4x"></span></div>
         </div>
-      </div>
-      <div class="quadro">
-        <div class="icone dois">
-          <img src="./assets/files/images/icone-litespeed-azul.svg">
+  
+        <div class="media p-t-2">
+            <div class="media-body">
+              <h4 class="media-heading" style="font-size:22px;color:#fff">Suporte Técnico</h4>
+                <p style="font-size:12px;color:#fff">Suporte técnico com equipe profissional, experiente e especializada em tecnologia.</p>
+            </div>
+              <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-comments fa-4x"></span></div>
         </div>
-        <div class="texto">
-          <h3>LiteSpeed</h3>
-          <p>A velocidade do seu site importa. Todos os planos têm incluso o LiteSpeed para otimização e velocidade do site.</p>
-        </div>
-      </div>
-      <div class="quadro">
-        <div class="icone tres">
-          <img src="./assets/files/images/icone-backup-verde.svg">
-        </div>
-        <div class="texto">
-          <h3>Backup</h3>
-          <p>Os seus arquivos estarão seguros na Nuvem! Todos os planos incluem backup diário para armazenar os seus sites e projetos com segurança.</p>
-        </div>
-      </div>
-      <div class="quadro">
-        <div class="icone quatro">
-          <img src="./assets/files/images/icone-escala.svg">
-        </div>
-        <div class="texto">
-          <h3>Escala</h3>
-          <p>Todos os nossos servidores possuem escala para sua necessidade. Basta solicitar para o time de suporte que aumentamos o espaço</p>
-        </div>
-      </div>
-      <div class="quadro">
-        <div class="icone cinco">
-          <img src="./assets/files/images/icone-elementor-roxo.svg">
-        </div>
-        <div class="texto">
-          <h3>Plugins WordPress</h3>
-          <p>Os planos incluem plugins originais. Elementor PRO e WP Rocket estão disponíveis aqui na Nuvem.</p>
-        </div>
-      </div>
-      <div class="quadro">
-        <div class="icone seis">
-          <img src="./assets/files/images/icone-otimizacao.svg">
-        </div>
-        <div class="texto">
-          <h3>Otimização</h3>
-          <p>Todos os servidores são otimizados! Ajudamos você a otimizar o seu site para manter a velocidade dele ainda mais rápida.</p>
-        </div>
-      </div>
+  
     </div>
-  </section>
+  
+  </div>
+</div>
+
+        
+          </div>
+      </div>
