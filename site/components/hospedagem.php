@@ -132,7 +132,7 @@ section.beneficios .quadros {
 }
 section.beneficios .quadros .quadro {
     display: flex;
-    width: calc(33.33% - 10px);
+ 
     margin: 20px 0 0 0;
     background-color: var(--cor-branco);
     box-shadow: 0 5px 30px 0 #0906200c;
