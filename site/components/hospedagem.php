@@ -262,7 +262,7 @@ section.beneficios .quadros .quadro .icone img {
 
       <div class="quadro col-md-4">
         <div class="icone um">
-        <i class="fa-solid fa-spinner-scale" style="font-size:22px;color:#fff;border: solid 3px #fff;border-radius:25px;padding:8px;background: #0d77ad;"></i>
+        <i class="fa-solid fa-spinner" style="font-size:22px;color:#fff;border: solid 3px #fff;border-radius:25px;padding:8px;background: #0d77ad;"></i>
         </div>
         <div class="texto">
           <h3>Otimização</h3>
