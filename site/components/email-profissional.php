@@ -224,7 +224,7 @@ svg {
 
 </style>
 
-<div class=" aos-init aos-animate" style="padding:30px;background:#006b62" >
+<div class=" aos-init aos-animate" style="padding:30px;background:#006b62;padding-bottom:0px" >
 <div class="  " style="" >
        <div class="row g-0 " style="padding:25px">
     <div class="col-sm-5 col-md-12">
