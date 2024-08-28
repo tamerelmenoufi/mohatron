@@ -144,29 +144,69 @@ section.beneficios .quadros {
 
   </style>
 
-<div class="" style="padding:30px" >
-       <div class="" >
 
-        <div class="">
-          <p style="font-size: 30px;font-weight:bold;color:#fff;text-align:center;margin-bottom:0px">Ferramentas para a sua empresa crescer!</p>
-          <p style="font-size:16px;color:#fff;text-align:center" >Ferramentas digitais modernas, dinâmicas e acessíveis!</p>
-        </div>
-
-        <section class="beneficios animar">
-    <div class="row align-items-start">
-    <div class="quadro">
+<section class="beneficios animar">
+    <!-- Titulo -->
+    <div class="titulo">
+      <h2>Todos os <span>planos</span> incluem <span>benefícios</span></h2>
+      <p>Todos os planos têm funcionalidades e bônus que vão ajudar na construção do seu site com a mais alta performance</p>
+      <div class="linha"></div>
+    </div>
+    <!-- Quadros -->
+    <div class="quadros">
+      <div class="quadro">
         <div class="icone um">
-        <i class="fa-solid fa-user-lock"></i>
+          <img src="./assets/files/images/icone-cadeado.svg">
         </div>
         <div class="texto">
           <h3>Certificado SSL</h3>
           <p>Para aumentar a segurança do seu site, todos os planos incluem certificado SSL 100% configurado dentro da sua hospedagem</p>
         </div>
       </div>
- 
-  </div>
-</section>
-
-        
-          </div>
+      <div class="quadro">
+        <div class="icone dois">
+          <img src="./assets/files/images/icone-litespeed-azul.svg">
+        </div>
+        <div class="texto">
+          <h3>LiteSpeed</h3>
+          <p>A velocidade do seu site importa. Todos os planos têm incluso o LiteSpeed para otimização e velocidade do site.</p>
+        </div>
       </div>
+      <div class="quadro">
+        <div class="icone tres">
+          <img src="./assets/files/images/icone-backup-verde.svg">
+        </div>
+        <div class="texto">
+          <h3>Backup</h3>
+          <p>Os seus arquivos estarão seguros na Nuvem! Todos os planos incluem backup diário para armazenar os seus sites e projetos com segurança.</p>
+        </div>
+      </div>
+      <div class="quadro">
+        <div class="icone quatro">
+          <img src="./assets/files/images/icone-escala.svg">
+        </div>
+        <div class="texto">
+          <h3>Escala</h3>
+          <p>Todos os nossos servidores possuem escala para sua necessidade. Basta solicitar para o time de suporte que aumentamos o espaço</p>
+        </div>
+      </div>
+      <div class="quadro">
+        <div class="icone cinco">
+          <img src="./assets/files/images/icone-elementor-roxo.svg">
+        </div>
+        <div class="texto">
+          <h3>Plugins WordPress</h3>
+          <p>Os planos incluem plugins originais. Elementor PRO e WP Rocket estão disponíveis aqui na Nuvem.</p>
+        </div>
+      </div>
+      <div class="quadro">
+        <div class="icone seis">
+          <img src="./assets/files/images/icone-otimizacao.svg">
+        </div>
+        <div class="texto">
+          <h3>Otimização</h3>
+          <p>Todos os servidores são otimizados! Ajudamos você a otimizar o seu site para manter a velocidade dele ainda mais rápida.</p>
+        </div>
+      </div>
+    </div>
+  </section>
