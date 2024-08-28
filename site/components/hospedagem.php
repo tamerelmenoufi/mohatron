@@ -152,6 +152,7 @@ section.beneficios .quadros .quadro {
     font: inherit;
     vertical-align: baseline;
     text-decoration: none;
+    color: #18446b;
 }
 section.beneficios .quadros .quadro .icone.um {
     background-color: #004887;
