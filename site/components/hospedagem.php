@@ -184,13 +184,14 @@ section.beneficios .quadros .quadro .icone img {
     <div class="quadros">
       <div class="quadro">
         <div class="icone um">
-        <i class="fa-solid fa-user-lock"></i>
+        <div><i class="fa-solid fa-user-lock"></i></div>
         </div>
         <div class="texto">
           <h3>Certificado SSL</h3>
           <p>Para aumentar a segurança do seu site, todos os planos incluem certificado SSL 100% configurado dentro da sua hospedagem</p>
         </div>
       </div>
+
       <div class="quadro">
         <div class="icone dois">
           <img src="assets/img/sites.png">
