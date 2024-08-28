@@ -209,7 +209,7 @@ section.beneficios .quadros .quadro .icone img {
         </div>
         <div class="texto">
           <h3>Certificado SSL</h3>
-          <p>Para aumentar a segurança do seu site, todos os planos incluem certificado SSL 100% configurado dentro da sua hospedagem</p>
+          <p>Para aumentar a segurança do seu site, todos os planos incluem certificado SSL 100% configurado dentro da sua hospedagem.</p>
         </div>
       </div>
 
@@ -244,7 +244,7 @@ section.beneficios .quadros .quadro .icone img {
         </div>
         <div class="texto">
           <h3>Escala</h3>
-          <p>Todos os nossos servidores possuem escala para sua necessidade. Basta solicitar para o time de suporte que aumentamos o espaço</p>
+          <p>Todos os nossos servidores possuem escala para sua necessidade. Basta solicitar para o time de suporte que aumentamos o espaço.</p>
         </div>
       </div>
 
@@ -255,7 +255,7 @@ section.beneficios .quadros .quadro .icone img {
         </div>
         <div class="texto">
           <h3>Container Docker</h3>
-          <p>Nossa plataforma oferece ambientes isolados e portáteis para suas aplicações, garantindo alta performance e escalabilidade.</p>
+          <p>Nossa plataforma oferece ambientes isolados e portáteis para suas aplicações, garantindo alta performance.</p>
         </div>
       </div>
 
