@@ -123,6 +123,7 @@
         'servicos',
         'sms',
         'email-profissional',
+        'hospedagem',
         
        // 'noticias',
         //'galeria',
