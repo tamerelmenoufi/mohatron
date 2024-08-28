@@ -171,17 +171,17 @@ section.beneficios .quadros .quadro .icone {
     left: 8px;
 }
 
-
 section.beneficios .quadros .quadro .texto {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding: 30px;
-    box-shadow: 0px 0px 6px 0px #004887;
+    padding-left: 20px;
     border-radius: 0px 10px 10px 0px;
     margin-right: 6px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+    background: #5e9bd114;
 }
-
 section.beneficios .quadros .quadro .icone img {
     width: 100%;
     max-width: 25px;
