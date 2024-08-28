@@ -104,7 +104,38 @@
     display: table-cell;
     vertical-align: top;
 }
+section.beneficios {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 60px 60px 60px 60px;
+    background: linear-gradient(90deg, var(--degrade-claro));
+    background: -webkit-linear-gradient(90deg, var(--degrade-claro));
+    overflow: hidden;
+}
+section.beneficios.animar .quadros {
+    animation: quadrosBeneficios 1s ease-in-out;
+}
 
+section.beneficios .quadros {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0 0 10px 0;
+}
+section.beneficios .quadros .quadro {
+    display: flex;
+    width: calc(33.33% - 10px);
+    margin: 20px 0 0 0;
+    background-color: var(--cor-branco);
+    box-shadow: 0 5px 30px 0 #0906200c;
+    padding: 0 0 0 60px;
+    position: relative;
+    border-radius: 10px;
+}
 
   </style>
 
@@ -116,20 +147,20 @@
           <p style="font-size:16px;color:#fff;text-align:center" >Ferramentas digitais modernas, dinâmicas e acessíveis!</p>
         </div>
 
-  <div class="container text-center">
+        <section class="beneficios animar">
     <div class="row align-items-start">
-    <div class="media p-t-2">
-            <div class="media-body">
-          
-              <h4 class="media-heading" style="font-size:22px;color:#000">Gerencie o seu Conteúdo</h4>
-            <p style="font-size:12px;color:#000">Atualize os textos, fotos e vídeos pela sua área administrativa, simples e sem código.</p>
-            <div class="media-right text-theme" style="color: #000;text-shadow: 2px 2px #000;padding:10px"><span class="fa fa-desktop fa-4x"></span></div>
-            </div>
-        
-        </div>  
+    <div class="quadro">
+        <div class="icone um">
+        <i class="fa-solid fa-user-lock"></i>
+        </div>
+        <div class="texto">
+          <h3>Certificado SSL</h3>
+          <p>Para aumentar a segurança do seu site, todos os planos incluem certificado SSL 100% configurado dentro da sua hospedagem</p>
+        </div>
+      </div>
  
   </div>
-</div>
+</section>
 
         
           </div>
