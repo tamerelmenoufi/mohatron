@@ -99,16 +99,6 @@
     vertical-align: top;
 }
 
-section.beneficios .quadros .quadro {
-    display: flex;
-    width: calc(33.33% - 10px);
-    margin: 20px 0 0 0;
-    background-color: var(--cor-branco);
-    box-shadow: 0 5px 30px 0 #0906200c;
-    padding: 0 0 0 60px;
-    position: relative;
-    border-radius: 10px;
-}
 
   </style>
 
@@ -122,15 +112,13 @@ section.beneficios .quadros .quadro {
 
   <div class="container text-center">
     <div class="row align-items-start">
-    <div class="quadro">
-        <div class="icone um">
-        <i class="fa-solid fa-user-lock"></i>
-        </div>
-        <div class="texto">
-          <h3>Certificado SSL</h3>
-          <p>Para aumentar a segurança do seu site, todos os planos incluem certificado SSL 100% configurado dentro da sua hospedagem</p>
-        </div>
-      </div>  
+    <div class="media p-t-2">
+            <div class="media-body">
+              <h4 class="media-heading" style="font-size:22px;color:#fff">Gerencie o seu Conteúdo</h4>
+                <p style="font-size:12px;color:#fff">Atualize os textos, fotos e vídeos pela sua área administrativa, simples e sem código.</p>
+            </div>
+              <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-desktop fa-4x"></span></div>
+        </div>  
  
   </div>
 </div>
