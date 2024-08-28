@@ -158,11 +158,14 @@ section.beneficios .quadros .quadro .icone {
     top: 0;
     left: 0;
 }
-* {
-    scrollbar-color: #acadb8 #696a73;
-    scrollbar-width: thin;
-}
 
+
+section.beneficios .quadros .quadro .texto {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 30px;
+}
   </style>
 
 
