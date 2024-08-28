@@ -187,8 +187,8 @@ section.beneficios .quadros .quadro .icone img {
 
 <section class="beneficios animar">
     <!-- Titulo -->
-    <div class="titulo">
-      <h2>Todos os <span>planos</span> incluem <span>benefícios</span></h2>
+    <div class="titulo" style="text-align:center">
+      <h2>Todos os <span style="color: #0663b5;font-weight:bold">planos</span> incluem <span style="color: #0663b5;font-weight:bold">benefícios</span></h2>
       <p>Todos os planos têm funcionalidades e bônus que vão ajudar na construção do seu site com a mais alta performance</p>
       <div class="linha"></div>
     </div>
@@ -228,7 +228,11 @@ section.beneficios .quadros .quadro .icone img {
       </div>
 
       </div>
-      <div class="quadro">
+
+
+      <div class="row g-0">
+
+      <div class="quadro col-md-4">
         <div class="icone quatro">
           <img src="./assets/files/images/icone-escala.svg">
         </div>
@@ -237,7 +241,9 @@ section.beneficios .quadros .quadro .icone img {
           <p>Todos os nossos servidores possuem escala para sua necessidade. Basta solicitar para o time de suporte que aumentamos o espaço</p>
         </div>
       </div>
-      <div class="quadro">
+
+
+      <div class="quadro col-md-4">
         <div class="icone cinco">
           <img src="./assets/files/images/icone-elementor-roxo.svg">
         </div>
@@ -246,7 +252,9 @@ section.beneficios .quadros .quadro .icone img {
           <p>Os planos incluem plugins originais. Elementor PRO e WP Rocket estão disponíveis aqui na Nuvem.</p>
         </div>
       </div>
-      <div class="quadro">
+
+
+      <div class="quadro col-md-4">
         <div class="icone seis">
           <img src="./assets/files/images/icone-otimizacao.svg">
         </div>
@@ -255,5 +263,8 @@ section.beneficios .quadros .quadro .icone img {
           <p>Todos os servidores são otimizados! Ajudamos você a otimizar o seu site para manter a velocidade dele ainda mais rápida.</p>
         </div>
       </div>
+      </div>
+
+
     </div>
   </section>
