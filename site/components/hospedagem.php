@@ -223,7 +223,7 @@ section.beneficios .quadros .quadro .icone img {
 
       <div class="quadro col-md-4">
         <div class="icone um">
-          <img src="./assets/files/images/icone-backup-verde.svg">
+        <i class="fa-solid fa-crate-empty"  style="font-size:22px;color:#fff"/i>
         </div>
         <div class="texto">
           <h3>Backup</h3>
