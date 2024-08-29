@@ -195,12 +195,32 @@ section.beneficios .quadros .quadro .icone img {
 
 <section  id="email-marketing" class="bg" style="padding:0px">
 <div class=" aos-init aos-animate container" >
-  <div class="row g-0 " style="padding:25px">
+  <div class="row g-0 1coluna" style="padding:25px">
    
   
-  <div class="col-sm-5 col-md-12" style="background:#fff;border-radius:25px;height:450px">
+  <div class="col-md-8 offset-md-2" style="height:450px">
+
+      <div class="row g-0 2coluna" style="padding:25px">
+
+      <div class="col-md-6 " style="">
+<p style="color:#fff;font-size:15px;text-align:justify">
+Desfrute de ferramentas de marketing por correio eletrónico potentes e 
+fáceis de utilizar, adequadas a empresas de qualquer dimensão. 
+Todas as suas necessidades de marketing por correio eletrónico
+ estão num único local - geração de leads, gestão de contactos, 
+ conceção de correio eletrónico, criação de campanhas, relatórios e análises, e muito mais.
+</p>
+      </div>
+    
+      <div class="col-md-6 " style="">
 
       </div>
+  
+       <!--fimdorow--></div>
+
+
+
+  <!--fimdaprimeiracoluna8--></div>
 
 
 
