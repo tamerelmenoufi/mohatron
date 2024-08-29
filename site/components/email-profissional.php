@@ -232,7 +232,7 @@ svg {
 }
 
 </style>
-<section  id="email-profissional" class="">
+<section  id="email-profissional" class="" style="padding:0px">
 <div class="fundo-verde2 d-none d-sm-block" style="height:112px"></div> 
 <div class=" aos-init aos-animate" style="padding:30px;background:#006b62;padding-bottom:0px" >
 <div class="  " style="" >

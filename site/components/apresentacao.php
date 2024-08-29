@@ -77,7 +77,7 @@
 
 </style>
 
-<section  id="apresentacao" class="">
+<section  id="apresentacao" class="" style="padding:0px">
 <div class="container aos-init aos-animate" style="margin-top:120px">
 <div class="row">
     <div class="col-sm-5 col-md-6">
