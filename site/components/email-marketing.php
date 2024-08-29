@@ -194,26 +194,27 @@ section.beneficios .quadros .quadro .icone img {
 .animated-word {
     font-family: revert;
     letter-spacing: 0.4em;
-    font-weight: 600;
+    font-weight: bold;
     font-size: 16px;
     text-align: center;
-    color: #ffffff;
+    color: #144160;
     cursor: pointer;
     max-width: 600px;
     width: 100%;
     outline: 2px solid;
-    outline-color: rgb(255 255 255 / 55%);
-    outline-offset: 10px;
+    outline-color: rgb(227 203 0);
     transition: all 800ms cubic-bezier(0.6, 2, 0, 0.8);
     border-radius: 25px;
+    background: #e3cb00;
+    padding: 10px;
 }
 
 .animated-word:hover {
-    color: rgb(255 227 14 / 70%);
+    color: rgb(249 250 252);
     outline-color: rgb(230 255 15 / 0%);
     outline-offset: 500px;
+    text-shadow: 0px 2px 2px #000;
 }
-
 
   </style>
 
@@ -267,7 +268,7 @@ Crie fantásticas campanhas de marketing por correio eletrónico do início ao f
  
 </p>
 
-<div class="">
+<div class="" >
 	<p class="animated-word">Conheça os planos</p>
 </div>
       </div>
