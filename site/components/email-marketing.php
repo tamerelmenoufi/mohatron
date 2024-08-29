@@ -202,7 +202,7 @@ section.beneficios .quadros .quadro .icone img {
 
 
   <h2 style="color:#fff;text-align:center"> Alcance suas metas com o nosso serviço de 
-  <span style="color: #ffc107;font-weight:bold">E-mail Marketing</span> </h2>
+  <span style="color: #e3cb00;font-weight:bold">E-mail Marketing</span> </h2>
       
 
   <div class=" " style="">
@@ -219,7 +219,7 @@ Todas as suas necessidades de marketing por correio eletrónico
   <div class="row g-0 2coluna" style="padding:25px">
 
   <div class=" col-md-6" style="">
-  <img src="assets/img/email-m.png" class="img-fluid " style="height:300px;margin-bottom:10px"/>
+  <img src="assets/img/email-m.png" class="img-fluid " style="height:350px;margin-bottom:10px"/>
 
       </div>
 
