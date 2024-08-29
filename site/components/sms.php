@@ -91,6 +91,8 @@ content: '';
   }
 }
 </style>
+
+<section  id="sms" class="">
   <div class="row g-0">
 
     <div class="col-md-6">
@@ -146,3 +148,4 @@ content: '';
   
     </div>
   </div><!--fim de tudo--->
+          </section >
