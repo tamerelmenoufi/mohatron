@@ -259,7 +259,7 @@ FALE COM ESPECIALISTA
                 </div>
             
                 <div class="col-md-12" style="text-align:center" >
-                    <span><a id="ocultar" style="border-radius:16px;margin:5px;font-size:16px;" class="btn btn-warning pull-right"  role="button">Aceitar</a></span>
+                    <span><a id="ocultar" style="border-radius:16px;margin:5px;font-size:16px;height:auto" class="btn btn-warning pull-right"  role="button">Aceitar</a></span>
                 </div> 
             </div>  
             
