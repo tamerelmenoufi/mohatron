@@ -232,7 +232,7 @@ svg {
 }
 
 </style>
-<div class="fundo-verde d-none d-sm-block" style="height:120px"></div> 
+<div class="fundo-verde2 d-none d-sm-block" style="height:120px"></div> 
 <div class=" aos-init aos-animate" style="padding:30px;background:#006b62;padding-bottom:0px" >
 <div class="  " style="" >
        <div class="row g-0 " style="padding:25px">
