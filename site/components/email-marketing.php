@@ -194,5 +194,17 @@ section.beneficios .quadros .quadro .icone img {
 
 
 <section  id="email-marketing" class="bg" style="padding:0px">
+<div class=" aos-init aos-animate container" >
+  <div class="row g-0 " style="padding:25px">
+   
+  
+  <div class="col-sm-5 col-md-12" style="background:#fff;border-radius:25px;height:450px">
 
+      </div>
+
+
+
+
+</div>
+</div>
   </section>
