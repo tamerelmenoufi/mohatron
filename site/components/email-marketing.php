@@ -223,13 +223,13 @@ Todas as suas necessidades de marketing por correio eletrónico
       </div>
 
 
-  <div class=" col-md-4" style="">
-<p style="color:#fff;font-size:15px;text-align:justify">
-Desfrute de ferramentas de marketing por correio eletrónico potentes e 
-fáceis de utilizar, adequadas a empresas de qualquer dimensão. 
-Todas as suas necessidades de marketing por correio eletrónico
- estão num único local - geração de leads, gestão de contactos, 
- conceção de correio eletrónico, criação de campanhas, relatórios e análises, e muito mais.
+  <div class=" col-md-6" style="">
+<p style="color:#fff;font-size:13px;text-align:justify">
+Crie fantásticas campanhas de marketing por correio eletrónico do início ao fim.
+ Adicione e gira os seus contactos, escolha o esquema e o assunto do e-mail e, 
+ em seguida, personalize, configure e programe o envio de e-mails. 
+ Utilize funcionalidades como a otimização do tempo de envio e 
+ analise os resultados da sua campanha em tempo real.
 </p>
       </div>
     
