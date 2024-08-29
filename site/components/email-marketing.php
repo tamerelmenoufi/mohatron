@@ -218,6 +218,8 @@ Todas as suas necessidades de marketing por correio eletrónico
   
        <!--fimdorow--></div>
 
+         <img src="assets/img/email-m.png" class="img-fluid " style=""/>
+
 
 
   <!--fimdaprimeiracoluna8--></div>
