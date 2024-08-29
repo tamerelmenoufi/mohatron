@@ -218,7 +218,7 @@ Todas as suas necessidades de marketing por correio eletrónico
   <div class="row g-0 2coluna" style="padding:25px">
 
   <div class=" col-md-6" style="">
-  <img src="assets/img/email-m.png" class="img-fluid " style="height:300px"/>
+  <img src="assets/img/email-m.png" class="img-fluid " style="height:300px;margin-bottom:10px"/>
 
       </div>
 
