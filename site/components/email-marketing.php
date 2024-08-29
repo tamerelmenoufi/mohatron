@@ -212,7 +212,7 @@ fáceis de utilizar, adequadas a empresas de qualquer dimensão.
 Todas as suas necessidades de marketing por correio eletrónico
  estão num único local - geração de leads, gestão de contactos, 
  conceção de correio eletrónico, criação de campanhas, relatórios e análises, e muito mais.
- Você pode alcançar uma grande quantidade de pessoas de forma direta e imediata, com uma lista de contatos bem segmentada.
+ 
 </p>
       </div>
   
@@ -231,6 +231,7 @@ Crie fantásticas campanhas de marketing por correio eletrónico do início ao f
  em seguida, personalize, configure e programe o envio de e-mails. 
  Utilize funcionalidades como a otimização do tempo de envio e 
  analise os resultados da sua campanha em tempo real.
+ Você pode alcançar uma grande quantidade de pessoas de forma direta e imediata, com uma lista de contatos bem segmentada.
 </p>
       </div>
     
