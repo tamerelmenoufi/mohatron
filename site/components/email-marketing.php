@@ -206,7 +206,7 @@ section.beneficios .quadros .quadro .icone img {
       
 
   <div class=" " style="">
-<p style="color:#fff;font-size:15px;text-align:justify">
+<p style="color:#fff;font-size:15px;text-align:center">
 Desfrute de ferramentas de marketing por correio eletrónico potentes e 
 fáceis de utilizar, adequadas a empresas de qualquer dimensão. 
 Todas as suas necessidades de marketing por correio eletrónico
@@ -224,7 +224,7 @@ Todas as suas necessidades de marketing por correio eletrónico
 
 
   <div class=" col-md-6" style="">
-<p style="color:#fff;font-size:13px;text-align:justify">
+<p style="color:#fff;font-size: 14px;text-align:justify;border-radius:10px;border-right: 10px solid #e3cb00;padding:15px;background: #ffc10782;font-family: italic!important;">
 Crie fantásticas campanhas de marketing por correio eletrónico do início ao fim.
  Adicione e gira os seus contactos, escolha o esquema e o assunto do e-mail e, 
  em seguida, personalize, configure e programe o envio de e-mails. 
