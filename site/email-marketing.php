@@ -2,16 +2,15 @@
     include("{$_SERVER['DOCUMENT_ROOT']}/site/assets/lib/includes.php");
 ?><!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
 
   <title>Mohatron Soluções em TI</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
-  
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
 
@@ -37,7 +36,7 @@
   <!-- <link href="assets/css/variables-pink.css" rel="stylesheet"> -->
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/main.css?1" rel="stylesheet">
+  <link href="assets/css/main.css" rel="stylesheet">
 
   <!-- =======================================================
   * Template Name: HeroBiz - v2.1.0
@@ -68,37 +67,6 @@
 </head>
 
 <body>
-
-<style>
-  .btn-warning {
-    color: #dee2e6;
-    background-color: #0d6efd;
-    border-color: #0d6efd;
-}
-
-.rodape1:hover {
-    background: #004585;
-    color:#fff;
-}
-
-.rodape1 {
-    color: #004585;
-    margin-right: 45px;
-    position: fixed;
-    visibility: hidden;
-    opacity: 0;
-    right: 15px;
-    bottom: 50px;
-    z-index: 995;
-    background: #c7c7c7;
-    width: auto;
-    /* height: 29px; */
-    border-radius: 42px;
-    transition: all 0.4s;
-    padding: 10px;
-    font-weight: bold;
-}
-  </style>
 <?php include("assets/lib/scripts_body.php"); ?>
 <div class="popup">
     <span><i class="bi bi-x"></i></span>
@@ -111,62 +79,48 @@
     $componentes = [
         'menu',
         // 'banner_principal',
-         //'banner_principal_scroll',
-          'apresentacao',
-          //'depoimentos',
-          //'revolucionando',
-          //'sobre',
-         //  'video',
+        //'banner_principal_scroll',
         // 'banner_principal2',
         // 'banner_principal3',
-        
-        'servicos',
-        'sms',
-        'email-profissional',
-        'hospedagem',
-        'email-marketing',
-
-        
-       // 'noticias',
+        //'sobre',
+        //'time',
+        //'noticias',
         //'galeria',
         //'banner_depoimentos',
-
-
+        
         // 'pagina_interna',
         // 'pagina_interna2',
         // 'mais_noticias',
         // 'noticias_detalhes',
+         // 'noticia_categoria',
         // 'produtos_servicos',
+         //'apresentacao',
+         //'sms', 
         // 'clientes',
+        // 'email-profissional',
+         'hospedagem',
         // 'destaque',
         // 'video',
         // 'solucoes',
         // 'produtos_servicos2',
         // 'planos',
         // 'faq',
-        //
         //'contato',
-        'rodape'
+        'rodape',
+
     ];
 
     foreach($componentes as $i => $v){
         include("components/{$v}.php");
     }
 
-
-
 ?>
 </main><!-- End #main -->
 
- <!--- <a href="#" style="color: #fff ;background-color: #154fb7;border-color: #154fb7;" class="scroll-top d-flex align-items-center justify-content-center btn btn-primary">
+  <a href="#" style="background-color: #534ab3;border-color: #534ab3" class="scroll-top d-flex align-items-center justify-content-center">
     <i class="bi bi-arrow-up-short"></i></a>
 
-    <a href="<?=$UrlWhatsApp?>" style="" class=" rodape1 scroll-top   active">
-FALE COM ESPECIALISTA
-    </a>
-  <div id="preloader"></div> -->
-
-
+  <div id="preloader"></div>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -183,109 +137,22 @@ FALE COM ESPECIALISTA
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-  <script src="assets/js/js.js?opc123"></script>
-
-
+  <script src="assets/js/js.js"></script>
   <script>
     $(function(){
-
-    // $.dialog({
-    //   content:'url:popup.php',
-    //   title:'<h1 class="w-100 text-center">Dia de Antecipação FGTS</h1>',
-    //   columnClass:'col-12'
-    // });
-
-
-      $('.contagem').each(function () {
-        console.log($(this).attr("valor"));
-          $(this).prop('Counter',0).animate({
-              Counter: $(this).attr("valor")
-          }, {
-              duration: 5000,
-              easing: 'swing',
-              step: function (now) {
-                  tipo = $(this).attr("tipo")
-                  if(tipo == 'moeda'){
-                      $(this).text(Math.ceil(now).toLocaleString('pt-br',{style: 'currency', currency: 'BRL'}));
-                  }else{
-                      $(this).text(Math.ceil(now));
-                  }
-                  
-              }
-          });
-      });   
 
       $.ajax({
         url:"assets/lib/log_acessos.php",
         success:function(dados){
           //Retorno da função
           // console.log(dados);
-        },
-        error:function(){
-          console.log('Error');
         }
       });
-
 
       setTimeout(() => {
         $("#loom-companion-mv3").remove();
       }, 1000);
     })
   </script>
-
-  <!-- SCRIPT DA POLITICA DE PRIVACIDADE -->
-  <?php
-        if($_GET['u'] != 'politica_privacidade'){
-        ?>
-           
-            <div
-            style="margin:0px;position:fixed!important; top:0; right:0; left:0; bottom:0;
-            background-color:#000000d6;z-index:99999999999;"
-            id="exemplo1_fundo"
-            >  
-            </div>
-        <?php
-        }
-        ?>       
-            
-            <div class=" "
-            style=" margin:0px;position:fixed!important; bottom:0;
-            background-color:#000000d6;z-index:999999999999;padding:20px;width:100%;color:#fff;font-weight:bold"
-            id="exemplo1"
-            >  
-                <div class="col-md-12" style="text-align:center" >
-                    Este site utiliza cookies confiáveis e inofensivos para garantir uma melhor experiência de navegação. <br> 
-                    <a style="font-size:16px;" href="#">Política de Privacidade. </a>
-                </div>
-            
-                <div class="col-md-12" style="text-align:center" >
-                    <span><a id="ocultar" style="border-radius:16px;margin:5px;font-size:16px;" class="btn btn-warning pull-right"  role="button">Aceitar</a></span>
-                </div> 
-            </div>  
-            
-        <script>
-            $(function(){
-                
-                verifica = window.localStorage.getItem('aceita_cookie');
-                
-                if(verifica === '1'){
-                    $("#exemplo1, #exemplo1_fundo").hide();
-                }
-                
-                $("#ocultar").click(function () {
-                    $("#exemplo1, #exemplo1_fundo").hide();
-                    window.localStorage.setItem('aceita_cookie', '1');
-                });
-                
-                
-                
-            })
-        </script>
-        <!-- SCRIPT DA POLITICA DE PRIVACIDADE -->
-
-
-
-
 </body>
-
 </html>
