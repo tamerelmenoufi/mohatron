@@ -203,9 +203,27 @@ section.beneficios .quadros .quadro .icone img {
 
   <h2 style="color:#fff;text-align:center"> Alcance suas metas com o nosso serviço de 
   <span style="color: #ffc107;font-weight:bold">E-mail Marketing</span> </h2>
-      <div class="row g-0 2coluna" style="padding:25px">
+      
 
-      <div class="col-md-12 " style="">
+  <div class=" " style="">
+<p style="color:#fff;font-size:15px;text-align:justify">
+Desfrute de ferramentas de marketing por correio eletrónico potentes e 
+fáceis de utilizar, adequadas a empresas de qualquer dimensão. 
+Todas as suas necessidades de marketing por correio eletrónico
+ estão num único local - geração de leads, gestão de contactos, 
+ conceção de correio eletrónico, criação de campanhas, relatórios e análises, e muito mais.
+</p>
+      </div>
+  
+  <div class="row g-0 2coluna" style="padding:25px">
+
+  <div class=" col-md-6" style="">
+  <img src="assets/img/email-m.png" class="img-fluid " style="height:300px"/>
+
+      </div>
+
+
+  <div class=" col-md-4" style="">
 <p style="color:#fff;font-size:15px;text-align:justify">
 Desfrute de ferramentas de marketing por correio eletrónico potentes e 
 fáceis de utilizar, adequadas a empresas de qualquer dimensão. 
@@ -215,11 +233,11 @@ Todas as suas necessidades de marketing por correio eletrónico
 </p>
       </div>
     
+      
   
        <!--fimdorow--></div>
 
-         <img src="assets/img/email-m.png" class="img-fluid " style="height:300px"/>
-
+        
 
 
   <!--fimdaprimeiracoluna8--></div>
