@@ -30,116 +30,95 @@
     -webkit-animation: pulse 500ms;
     animation: pulse 500ms;
 
+}.wrap {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.button {
-    border-radius: 4px;
-    background-color: #f9fafb;
+
+.botao-sms {    
+  min-width: 300px;
+    min-height: 54px;
+    display: inline-flex;
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 1.3px;
+    font-weight: 700;
+    color: #fcfcff;
+    background: #4FD1C5;
+    background: linear-gradient(90deg, rgb(0 89 146) 0%, rgba(79, 209, 197, 1) 100%);
     border: none;
-    color: #0668bd;
-    text-align: center;
-    font-size: 14px;
-    padding: 9px;
-    transition: all 0.5s;
+    border-radius: 1000px;
+    box-shadow: 12px 12px 24px rgba(79, 209, 197, .64);
+    transition: all 0.3s ease-in-out 0s;
     cursor: pointer;
-    margin: 5px;
-    border-radius: 25px;
-    border-bottom: 4px solid #045ba8bf;
-    border-top: 4px solid #045ba8bf;
-  
-}
-.button span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-.button span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-.button:hover span {
-  padding-right: 25px;
-}
-
-.button:hover span:after {
-  opacity: 1;
-  right: 0;
-}
-
- 
-.recent-blog-posts .post-box .post-title {
-    font-size: 24px;
-    color: var(--color-secondary);
-    font-weight: 700;
-    margin: 15px 0 0 0;
+    outline: none;
     position: relative;
-    transition: 0.3s;
-}
-
-.recent-blog-posts .post-box .post-title:hover {
-    font-size: 24px;
-    color: #fff;
-    font-weight: 700;
-    margin: 15px 0 0 0;
-    position: relative;
-    transition: 0.3s;
-}
-.botaobranco {
     padding: 10px;
-    padding-left: 35px;
-    padding-right: 35px;
-    border-radius: 0;
-    font-size: 17px;
-    color: #144397;
-    background-color: #ffffff;
-    border-color: #ffffff;
-    margin: 10px;
 }
-.botaobranco:hover {
-    color: #fff;
-    background-color: #1f62d9;
-    border-color: #2468e1;
-}
-    .botaoroxo:hover {
-    color: #fff;
-    background-color: #574ec2;
-    border-color: #574ec2;
-}
- .botaoroxo {
-    color: #fff;
-    background-color: #393287;
-    border-color: #393287;
-}
-.botao {
-    display: inline-block;
-    font-weight: 400;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: middle;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    border: 1px solid transparent;
-    padding: 0.375rem 0.75rem;
-    font-size: 1rem;
-    line-height: 1.5;
-    border-radius: 0.25rem;
-    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, 
-    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  
 
+.botao-sms::before {
+content: '';
+  border-radius: 1000px;
+  min-width: calc(300px + 12px);
+  min-height: calc(60px + 12px);
+  border: 6px solid #00FFCB;
+  box-shadow: 0 0 60px rgba(0,255,203,.64);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: all .3s ease-in-out 0s;
+}
+
+.botao-sms:hover, 
+.botao-sms:focus {
+  color: #fff;
+  transform: translateY(-6px);
+}
+
+.botao-sms:hover::before, 
+.botao-sms:focus::before {
+  opacity: 1;
+}
+
+.botao-sms::after {
+  content: '';
+  width: 30px; height: 30px;
+  border-radius: 100%;
+  border: 6px solid #00FFCB;
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: ring 1.5s infinite;
+}
+
+.botao-sms:hover::after, 
+.botao-sms:focus::after {
+  animation: none;
+  display: none;
+}
+
+@keyframes ring {
+  0% {
+    width: 30px;
+    height: 30px;
+    opacity: 1;
   }
-
-  .recent-blog-posts .post-box .post-img {
-    overflow: hidden;
-    position: relative;
-    border-radius: 0px;
+  100% {
+    width: 300px;
+    height: 300px;
+    opacity: 0;
+  }
 }
 
 .gradiente-inicio{
@@ -282,10 +261,10 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
 
 
 
-    <div style="text-align:right">
-        <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:300px">
-         </div>
-
+       
+    <div class="wrap">
+  <button class="botao-sms">Saiba mais</button>
+</div>
     </div>
     
     </div>
