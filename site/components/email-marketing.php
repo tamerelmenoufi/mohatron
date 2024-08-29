@@ -194,7 +194,7 @@ section.beneficios .quadros .quadro .icone img {
 
 
 <section  id="email-marketing" class="bg" style="padding:0px">
-<div class=" aos-init aos-animate container" >
+<div class=" aos-init aos-animate" >
   <div class="row g-0 1coluna" style="padding:25px">
    
   
@@ -202,7 +202,7 @@ section.beneficios .quadros .quadro .icone img {
 
 
   <h2 style="color:#fff"> Alcance suas metas com o nosso serviço de 
-  <span style="color: #fff;font-weight:bold">E-mail Marketing</span> </h2>
+  <span style="color: #ffc107;font-weight:bold">E-mail Marketing</span> </h2>
       <div class="row g-0 2coluna" style="padding:25px">
 
       <div class="col-md-6 " style="">
