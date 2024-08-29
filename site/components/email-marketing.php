@@ -232,7 +232,7 @@ Crie fantásticas campanhas de marketing por correio eletrónico do início ao f
  Utilize funcionalidades como a otimização do tempo de envio e 
  analise os resultados da sua campanha em tempo real.
  Você pode alcançar uma grande quantidade de pessoas de forma direta e imediata, com uma lista de contatos bem segmentada.
- <div class="grid gap-y-[40px] pt-[40px] desktop:pt-[45px]"><div class="grid gap-y-[16px]"><div class="grid grid-cols-[48px_auto] items-center gap-x-[17px]"><img alt="Email Designer feature icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" style="color:transparent" src="https://cms.elasticemail.com/wp-content/uploads/components-icons/template-builder-green.svg"><p dir="ltr" class="text-[18px] leading-[29px] font-mulish font-bold text-snow-900">Modelos de correio eletrónico</p></div><div class="grid grid-cols-[48px_auto] items-center gap-x-[17px]"><img alt="Campaign Creator feature icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" style="color:transparent" src="https://cms.elasticemail.com/wp-content/uploads/components-icons/campaign.svg"><p dir="ltr" class="text-[18px] leading-[29px] font-mulish font-bold text-snow-900">Criador da campanhas</p></div><div class="grid grid-cols-[48px_auto] items-center gap-x-[17px]"><img alt="Contact Management feature icon" loading="lazy" width="40" height="40" decoding="async" data-nimg="1" style="color:transparent" src="https://cms.elasticemail.com/wp-content/uploads/components-icons/contact-management.svg"><p dir="ltr" class="text-[18px] leading-[29px] font-mulish font-bold text-snow-900">Gestão de contactos</p></div></div></div>
+<p> <i style="color:#fff"class="fa-solid fa-send-backward"></i> Modelos de correio eletrónico</p>
 
 
 
