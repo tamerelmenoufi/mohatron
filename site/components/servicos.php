@@ -120,7 +120,8 @@
             <h4 class="media-heading" style="font-size:22px;color:#fff">Sites com Design Moderno</h4>
               <p style="font-size:12px;color:#fff">Estrutura profissional para ilustrar o seu produto ou serviço a altura do seu negócio!</p>
           </div>
-            <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-laptop fa-4x"></span></div>
+            <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px">
+              <span class="fa fa-laptop fa-4x" style="color:#fff"></span></div>
       </div>
 
       <div class="media p-t-2">
@@ -128,7 +129,8 @@
             <h4 class="media-heading" style="font-size:22px;color:#fff">Layout Responsivo</h4>
               <p style="font-size:12px;color:#fff">O seu site se ajusta automaticamente na abertura em smartphones, tablets e PC.</p>
           </div>
-<div class="media-right text-theme" style="color: #fff;padding:10px"><span class="fa fa-mobile fa-4x"></span></div>
+<div class="media-right text-theme" style="color: #fff;padding:10px">
+  <span class="fa fa-mobile fa-4x" style="color:#fff"></span></div>
       </div>
 
       <div class="media p-t-2">
@@ -136,7 +138,8 @@
             <h4 class="media-heading" style="font-size:22px;color:#fff">Seu Site Seguro</h4>
               <p style="font-size:12px;color:#fff">Programações atualizadas, certificados de segurança SSL com criptografia de 2048 bits.</p>
           </div>
-            <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-lock fa-4x"></span></div>
+            <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px">
+              <span class="fa fa-lock fa-4x" style="color:#fff"></span></div>
       </div>
       
 </div>
@@ -158,7 +161,8 @@
               <h4 class="media-heading" style="font-size:22px;color:#fff">Gerencie o seu Conteúdo</h4>
                 <p style="font-size:12px;color:#fff">Atualize os textos, fotos e vídeos pela sua área administrativa, simples e sem código.</p>
             </div>
-              <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-desktop fa-4x"></span></div>
+              <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px">
+                <span class="fa fa-desktop fa-4x" style="color:#fff"></span></div>
         </div>
   
         <div class="media p-t-2">
@@ -166,7 +170,8 @@
               <h4 class="media-heading" style="font-size:22px;color:#fff">Hospedagem Profissional</h4>
                 <p style="font-size:12px;color:#fff">Servidor próprio com Datacenter no Brasil. Mais desempenho para a sua aplicação.</p>
             </div>
-              <div class="media-right text-theme" style="color: #fff;padding:10px"><span class="fa fa-server fa-4x"></span></div>
+              <div class="media-right text-theme" style="color: #fff;padding:10px">
+                <span class="fa fa-server fa-4x" style="color:#fff"></span></div>
         </div>
   
         <div class="media p-t-2">
@@ -174,7 +179,8 @@
               <h4 class="media-heading" style="font-size:22px;color:#fff">Suporte Técnico</h4>
                 <p style="font-size:12px;color:#fff">Suporte técnico com equipe profissional, experiente e especializada em tecnologia.</p>
             </div>
-              <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px"><span class="fa fa-comments fa-4x"></span></div>
+              <div class="media-right text-theme" style="color: #fff;text-shadow: 2px 2px #86b7fe;padding:10px">
+                <span class="fa fa-comments fa-4x" style="color:#fff"></span></div>
         </div>
   
     </div>
