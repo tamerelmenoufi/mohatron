@@ -198,14 +198,14 @@ section.beneficios .quadros .quadro .icone img {
   <div class="row g-0 1coluna" style="padding:25px">
    
   
-  <div class="col-md-8 offset-md-2" style="height:450px">
+  <div class="col-md-8 offset-md-2" style="">
 
 
   <h2 style="color:#fff"> Alcance suas metas com o nosso serviço de 
   <span style="color: #ffc107;font-weight:bold">E-mail Marketing</span> </h2>
       <div class="row g-0 2coluna" style="padding:25px">
 
-      <div class="col-md-6 " style="">
+      <div class="col-md-12 " style="">
 <p style="color:#fff;font-size:15px;text-align:justify">
 Desfrute de ferramentas de marketing por correio eletrónico potentes e 
 fáceis de utilizar, adequadas a empresas de qualquer dimensão. 
@@ -215,9 +215,6 @@ Todas as suas necessidades de marketing por correio eletrónico
 </p>
       </div>
     
-      <div class="col-md-6 " style="">
-
-      </div>
   
        <!--fimdorow--></div>
 
