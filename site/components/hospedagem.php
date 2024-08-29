@@ -180,7 +180,7 @@ section.beneficios .quadros .quadro .icone img {
   </style>
 
 
-<section  id="hospedagem" class="beneficios animar" style="padding:0px">
+<section  id="hospedagem" class="beneficios animar" style="padding:10px">
 
     <!-- Titulo -->
     <div class="titulo" style="text-align:center">
@@ -266,7 +266,7 @@ section.beneficios .quadros .quadro .icone img {
 
     </div>
 
-    <div class="wrap2" style="margin-top:25px">
+    <div class="wrap2" style="margin-top:25px;margin-bottom:25px">
   <button class="botao-sms2">Contrate agora</button>
 </div>
   </section>
