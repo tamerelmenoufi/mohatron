@@ -228,17 +228,17 @@ Todas as suas necessidades de marketing por correio eletrónico
 <p style="color:#fff;font-size: 14px;text-align:justify;border-radius:10px;border-right: 10px solid #e3cb00;padding:15px;background: #ffc10782;font-family: italic!important;">
 Crie fantásticas campanhas de marketing por correio eletrónico do início ao fim.
  Adicione e gira os seus contactos, escolha o esquema e o assunto do e-mail e, 
- em seguida, personalize, configure e programe o envio de e-mails. 
+ em seguida, personalize, configure e programe o envio de e-mails.
+ 
+</p>
+
+<p style="color:#fff;font-size: 14px;text-align:justify;border-radius:10px;border-right: 10px solid #e3cb00;padding:15px;background: #ffc10782;font-family: italic!important;">
+
  Utilize funcionalidades como a otimização do tempo de envio e 
  analise os resultados da sua campanha em tempo real.
  Você pode alcançar uma grande quantidade de pessoas de forma direta e imediata, com uma lista de contatos
  bem segmentada.
-
- <br><b><i style="color:#fff"class="fa-solid fa-backward"></i> Modelos de correio eletrónico</b>
  
-
-
-
 </p>
       </div>
     
