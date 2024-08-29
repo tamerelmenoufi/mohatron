@@ -231,8 +231,11 @@ Crie fantásticas campanhas de marketing por correio eletrónico do início ao f
  em seguida, personalize, configure e programe o envio de e-mails. 
  Utilize funcionalidades como a otimização do tempo de envio e 
  analise os resultados da sua campanha em tempo real.
- Você pode alcançar uma grande quantidade de pessoas de forma direta e imediata, com uma lista de contatos bem segmentada.
-<p> <i style="color:#fff"class="fa-solid fa-send-backward"></i> Modelos de correio eletrónico</p>
+ Você pode alcançar uma grande quantidade de pessoas de forma direta e imediata, com uma lista de contatos
+ bem segmentada.
+
+ <i style="color:#fff"class="fa-solid fa-send-backward"></i> Modelos de correio eletrónico</p>
+<p> 
 
 
 
