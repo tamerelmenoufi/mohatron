@@ -265,7 +265,7 @@ section.beneficios .quadros .quadro .icone img {
 
     </div>
 
-    <div class="wrap2">
+    <div class="wrap2" style="margin-top:25px">
   <button class="botao-sms2">Contrate agora</button>
 </div>
   </section>
