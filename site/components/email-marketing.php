@@ -192,25 +192,26 @@ section.beneficios .quadros .quadro .icone img {
 
 
 .animated-word {
-	font-family: Helvetica;
-	letter-spacing: 0.4em;
-	font-weight: 600;
-	font-size: 100px;
-	text-align: center;
-	color: #202125;
-  cursor: pointer;
-  max-width: 600px; 
-  width: 100%; 
-  outline: 3px solid;
-  outline-color: rgba(71, 126, 232,0.5);
-  outline-offset: 70px;
-  transition: all 600ms cubic-bezier(0.2, 0, 0, 0.8);
+    font-family: revert;
+    letter-spacing: 0.4em;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    color: #ffffff;
+    cursor: pointer;
+    max-width: 600px;
+    width: 100%;
+    outline: 2px solid;
+    outline-color: rgb(255 255 255 / 55%);
+    outline-offset: 10px;
+    transition: all 800ms cubic-bezier(0.6, 2, 0, 0.8);
+    border-radius: 25px;
 }
 
 .animated-word:hover {
-	color: rgba(71, 126, 232, 0.7);
-  outline-color: rgba(71, 126, 232, 0);
-  outline-offset: 300px;
+    color: rgb(255 227 14 / 70%);
+    outline-color: rgb(230 255 15 / 0%);
+    outline-offset: 500px;
 }
 
 
@@ -267,7 +268,7 @@ Crie fantásticas campanhas de marketing por correio eletrónico do início ao f
 </p>
 
 <div class="">
-	<p class="animated-word">BEZY</p>
+	<p class="animated-word">Conheça os planos</p>
 </div>
       </div>
     
