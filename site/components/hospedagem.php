@@ -1,14 +1,14 @@
   <!-- ======= Recent Blog Posts Section ======= -->
 
     <style>
-.wrap {
+.wrap2 {
   height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.botao-sms {    
+.botao-sms2 {    
   min-width: 300px;
     min-height: 54px;
     display: inline-flex;
@@ -21,11 +21,10 @@
     letter-spacing: 1.3px;
     font-weight: 700;
     color: #fcfcff;
-    background: #4FD1C5;
-    background: linear-gradient(90deg, rgb(0 89 146) 0%, rgba(79, 209, 197, 1) 100%);
+    background: linear-gradient(90deg, #0776ff 0%, #1a3653 100%);
     border: none;
     border-radius: 1000px;
-    box-shadow: 12px 12px 24px rgba(79, 209, 197, .64);
+    box-shadow: 12px 12px 24px rgb(0 0 0 / 64%);
     transition: all 0.3s ease-in-out 0s;
     cursor: pointer;
     outline: none;
@@ -34,12 +33,12 @@
 }
   
 
-.botao-sms::before {
+.botao-sms2::before {
 content: '';
   border-radius: 1000px;
   min-width: calc(300px + 12px);
   min-height: calc(60px + 12px);
-  border: 6px solid #00FFCB;
+  border: 6px solid #005b94;
   box-shadow: 0 0 60px rgba(0,255,203,.64);
   position: absolute;
   top: 50%;
@@ -49,18 +48,18 @@ content: '';
   transition: all .3s ease-in-out 0s;
 }
 
-.botao-sms:hover, 
-.botao-sms:focus {
+.botao-sms2:hover, 
+.botao-sms2:focus {
   color: #fff;
   transform: translateY(-6px);
 }
 
-.botao-sms:hover::before, 
-.botao-sms:focus::before {
+.botao-sms2:hover::before, 
+.botao-sms2:focus::before {
   opacity: 1;
 }
 
-.botao-sms::after {
+.botao-sms2::after {
   content: '';
   width: 30px; height: 30px;
   border-radius: 100%;
@@ -73,8 +72,8 @@ content: '';
   animation: ring 1.5s infinite;
 }
 
-.botao-sms:hover::after, 
-.botao-sms:focus::after {
+.botao-sms2:hover::after, 
+.botao-sms2:focus::after {
   animation: none;
   display: none;
 }
@@ -266,7 +265,7 @@ section.beneficios .quadros .quadro .icone img {
 
     </div>
 
-    <div class="wrap">
-  <button class="botao-sms">Contrate agora</button>
+    <div class="wrap2">
+  <button class="botao-sms2">Contrate agora</button>
 </div>
   </section>
