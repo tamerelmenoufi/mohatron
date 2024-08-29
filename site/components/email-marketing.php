@@ -234,7 +234,7 @@ Crie fantásticas campanhas de marketing por correio eletrónico do início ao f
  Você pode alcançar uma grande quantidade de pessoas de forma direta e imediata, com uma lista de contatos
  bem segmentada.
 
- <p><i style="color:#fff"class="fa-solid fa-send-backward"></i> Modelos de correio eletrónico</p>
+ <b><i style="color:#fff"class="fa-solid fa-send-backward"></i> Modelos de correio eletrónico</b>
  
 
 
