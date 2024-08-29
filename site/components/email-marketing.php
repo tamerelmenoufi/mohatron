@@ -180,7 +180,7 @@ section.beneficios .quadros .quadro .icone img {
 
 .bg{
 
-  background-image: url(assets/img/bg.jpg);
+  background-image: url(assets/img/bg1.jpg);
     background-repeat: no-repeat center fixed;
     background-size: cover;
     -webkit-background-size: cover;
