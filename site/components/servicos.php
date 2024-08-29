@@ -102,6 +102,8 @@
 
   </style>
 
+<section  id="servicos" class="">
+
 <div class="gradiente-inicio" style="padding:30px" >
        <div class="gradiente" >
 
@@ -191,3 +193,4 @@
         
           </div>
       </div>
+</section>
