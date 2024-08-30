@@ -82,9 +82,6 @@
 
 <div class="container aos-init aos-animate" style="margin-top:120px">
 
-<p style="font-size:30px;color:#005992;font-weight:bold">
-Fale com especialista!
-    </p>
 
 <div class="row">
     <div class="col-sm-5 col-md-6">
@@ -105,6 +102,9 @@ Fale com especialista!
 
 <div class="col-sm-5 col-md-6">
 
+<p style="font-size:30px;color:#005992;font-weight:bold">
+Fale com especialista!
+    </p>
 
 
 <div class="col-md-12">
