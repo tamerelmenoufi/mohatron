@@ -114,7 +114,9 @@
           <input type="text" class="form-control" id="inputFone" placeholder="Telefone" pattern="\([0-9]{2}\)[0-9]{4,6}-[0-9]{3,4}$" required>
         <div class="help-block with-errors"></div>
         </div>
-        <button type="submit" class="btn btn-primary">Enviar</button>
+        <button type="" class="" style="background:#000;color:#fff;border:2px solid #fff;
+         border-radius:10px
+        ">Enviar</button>
      </form>
   </div>
   <div class="col-md-4"></div>
