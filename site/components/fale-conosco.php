@@ -104,17 +104,19 @@
 
 
 
-<form class=" g-3 needs-validation" novalidate>
+<form class="row g-3 needs-validation" novalidate>
   <div class="">
     <label for="validationCustom01" class="form-label">Nome Completo</label>
-    <input type="text" class="form-control" id="validationCustom01" value="Nome Completo" required>
-   
-  </div>
-  <div class="">
-    <label for="validationCustom02" class="form-label">Seu E-mail</label>
-    <input type="text" class="form-control" id="validationCustom02" value="E-mail" required>
+    <input type="text" class="form-control" id="validationCustom01" value="Mark" required>
     <div class="valid-feedback">
-     Correto
+      Correto
+    </div>
+  </div>
+  <div class="col-md-4">
+    <label for="validationCustom02" class="form-label">Last name</label>
+    <input type="text" class="form-control" id="validationCustom02" value="Otto" required>
+    <div class="valid-feedback">
+      Looks good!
     </div>
   </div>
   <div class="col-md-4">
