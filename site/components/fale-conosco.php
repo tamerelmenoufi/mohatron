@@ -102,7 +102,19 @@
 
 
 
-
+<div class="col-md-12">
+    <label for="validationCustom04" class="form-label">Serviço</label>
+    <select class="form-select" id="validationCustom04" required>
+      <option selected disabled value="">Selecione...</option>
+      <option>Hospedagem</option>
+      <option>Sms</option>
+      <option>E-mail Marketing</option>
+      <option>E-mail Profissional</option>
+    </select>
+    <div class="valid-feedback">
+     Correto
+    </div>
+  </div>
 
 <form class="row g-3 needs-validation" novalidate>
   <div class="col-md-12">
@@ -129,23 +141,8 @@
   </div>
   
   
-  <div class="col-md-12">
-    <label for="validationCustom04" class="form-label">State</label>
-    <select class="form-select" id="validationCustom04" required>
-      <option selected disabled value="">Choose...</option>
-      <option>...</option>
-    </select>
-    <div class="invalid-feedback">
-     Correto
-    </div>
-  </div>
-  <div class="col-md-3">
-    <label for="validationCustom05" class="form-label">Zip</label>
-    <input type="text" class="form-control" id="validationCustom05" required>
-    <div class="invalid-feedback">
-      Please provide a valid zip.
-    </div>
-  </div>
+
+  
   <div class="col-12">
     <div class="form-check">
       <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
