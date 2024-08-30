@@ -102,12 +102,14 @@
 
 
 <div class="form-floating mb-3">
-  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com"
+  style="border-radius:25px">
   <label for="floatingInput">Nome Completo</label>
 </div>
 
 <div class="form-floating mb-3">
-  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com"
+  style="border-radius:25px">
   <label for="floatingInput">Email address</label>
 </div>
 
