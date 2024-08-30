@@ -101,31 +101,20 @@
 <div class="col-sm-5 col-md-6">
 
 
-<div class="form-floating mb-3">
-  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com"
-  style="border-radius:25px">
-  <label for="floatingInput">Nome Completo</label>
-</div>
 
-<div class="form-group">
-  <label class="form-label">Email Address</label>
-  <input type="text" class="form-control" data-inputmask="'alias': 'email'" />
-  <small class="text-muted">e.g "support@adminkit.io"</small>
-</div>
 
-<form class="row g-3 needs-validation" novalidate>
-  <div class="col-md-4">
-    <label for="validationCustom01" class="form-label">First name</label>
-    <input type="text" class="form-control" id="validationCustom01" value="Mark" required>
-    <div class="valid-feedback">
-      Looks good!
-    </div>
+
+<form class=" g-3 needs-validation" novalidate>
+  <div class="">
+    <label for="validationCustom01" class="form-label">Nome Completo</label>
+    <input type="text" class="form-control" id="validationCustom01" value="Nome Completo" required>
+   
   </div>
-  <div class="col-md-4">
-    <label for="validationCustom02" class="form-label">Last name</label>
-    <input type="text" class="form-control" id="validationCustom02" value="Otto" required>
+  <div class="">
+    <label for="validationCustom02" class="form-label">Seu E-mail</label>
+    <input type="text" class="form-control" id="validationCustom02" value="E-mail" required>
     <div class="valid-feedback">
-      Looks good!
+     Correto
     </div>
   </div>
   <div class="col-md-4">
