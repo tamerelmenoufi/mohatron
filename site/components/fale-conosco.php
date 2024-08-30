@@ -143,7 +143,8 @@
   
 
   <div class="col-12">
-    <button class="bt-azul" type="submit" style="" >Solicitar</button>
+    <button class="bt-azul"  style="padding:15px;text-align:center;border-radius:0px;border-left: 10px #ced4da solid;border-right: 10px #ced4da solid;"type="submit" style="" >
+      Solicitar Atendimento</button>
   </div>
 </form>
 
