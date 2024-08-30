@@ -105,11 +105,11 @@
 
 
 <form class="row g-3 needs-validation" novalidate>
-  <div class="">
-    <label for="validationCustom01" class="form-label">Nome Completo</label>
+  <div class="col-md-4">
+    <label for="validationCustom01" class="form-label">First name</label>
     <input type="text" class="form-control" id="validationCustom01" value="Mark" required>
     <div class="valid-feedback">
-      Correto
+      Looks good!
     </div>
   </div>
   <div class="col-md-4">
