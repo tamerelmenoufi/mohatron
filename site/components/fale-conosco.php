@@ -119,31 +119,32 @@ Fale com especialista!
 
 <form class="row g-3 needs-validation" novalidate>
   <div class="col-md-12">
-    <label for="validationCustom01" class="form-label" style="margin-top:10px;color:#fff">Nome Completo</label>
-    <input style="border-radius:25px" type="text" class="form-control" id="validationCustom01" value="" required>
+    <input style="border-radius:25px" type="text" placeholder="Nome completo"
+    class="form-control" id="validationCustom01" value="" required>
     <div class="valid-feedback">
       Correto
     </div>
   </div>
+
   <div class="col-md-12">
-    <label for="validationCustom02" class="form-label" style="margin-top:10px;color:#fff">E-mail</label>
-    <input style="border-radius:25px" type="text" class="form-control" id="validationCustom02" value="" required>
+    <input style="border-radius:25px" type="text" placeholder="E-mail"
+    class="form-control" id="validationCustom02" value="" required>
     <div style="color:#fff" class="valid-feedback">
       Correto
     </div>
   </div>
 
   <div class="col-md-12">
-    <label for="validationCustom02" class="form-label" style="margin-top:10px;color:#fff">Telefone</label>
-    <input style="border-radius:25px" type="text" class="form-control" id="validationCustom02" value="" required>
+    <input style="border-radius:25px" type="text" class="form-control"placeholder="Telefone"
+     id="validationCustom02" value="" required>
     <div style="color:#fff" class="valid-feedback">
       Correto
     </div>
   </div>
   
   <div class="col-md-12">
-    <label for="validationCustom04" class="form-label" style="color:#fff">Assunto</label>
-    <select style="border-radius:25px" class="form-select" id="validationCustom04" required>
+    <select style="border-radius:25px" class="form-select" id="validationCustom04" placeholder="Assunto"
+    required>
       <option style="color:#fff" selected disabled value="">Selecione...</option>
       <option >Solicitar Orçamento</option>
       <option >Hospedagem</option>
@@ -157,8 +158,8 @@ Fale com especialista!
   </div>
 
   <div class="col-md-12">
-    <label for="validationCustom04" class="form-label" style="color:#fff">Mensagem</label>
-  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Sua Mensagem"
+   rows="3"></textarea>
     <div style="color:#fff" class="valid-feedback">
      Correto
     </div>
