@@ -71,7 +71,11 @@
   opacity: 1;
   right: 0;
 }
-
+.back {
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,181,255,1) 100%);
+padding:15px
+}
  
 
 
@@ -100,7 +104,7 @@
 
   </div>
 
-<div class="col-sm-5 col-md-6">
+<div class="col-sm-5 col-md-6 back">
 
 <p style="font-size:30px;color:#005992;font-weight:bold;text-align:center">
 Fale com especialista!
