@@ -102,7 +102,7 @@
 
 <div class="col-md-12">
     <label for="validationCustom04" class="form-label">Serviço que você deseja</label>
-    <select class="form-select" id="validationCustom04" required>
+    <select style="border-radius:25px" class="form-select" id="validationCustom04" required>
       <option selected disabled value="">Selecione...</option>
       <option>Hospedagem</option>
       <option>Sms</option>
@@ -116,15 +116,15 @@
 
 <form class="row g-3 needs-validation" novalidate>
   <div class="col-md-12">
-    <label for="validationCustom01" class="form-label">Nome Completo</label>
-    <input type="text" class="form-control" id="validationCustom01" value="" required>
+    <label for="validationCustom01" class="form-label" style="margin-top:10px">Nome Completo</label>
+    <input style="border-radius:25px" type="text" class="form-control" id="validationCustom01" value="" required>
     <div class="valid-feedback">
       Correto
     </div>
   </div>
   <div class="col-md-12">
     <label for="validationCustom02" class="form-label">E-mail</label>
-    <input type="text" class="form-control" id="validationCustom02" value="" required>
+    <input style="border-radius:25px" type="text" class="form-control" id="validationCustom02" value="" required>
     <div class="valid-feedback">
       Correto
     </div>
@@ -132,7 +132,7 @@
 
   <div class="col-md-12">
     <label for="validationCustom02" class="form-label">Telefone</label>
-    <input type="text" class="form-control" id="validationCustom02" value="" required>
+    <input style="border-radius:25px" type="text" class="form-control" id="validationCustom02" value="" required>
     <div class="valid-feedback">
       Correto
     </div>
@@ -141,19 +141,9 @@
   
 
   
+
   <div class="col-12">
-    <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
-      <label class="form-check-label" for="invalidCheck">
-        Agree to terms and conditions
-      </label>
-      <div class="invalid-feedback">
-        You must agree before submitting.
-      </div>
-    </div>
-  </div>
-  <div class="col-12">
-    <button class="btn btn-primary" type="submit">Submit form</button>
+    <button class="bt-azul" type="submit" style="" >Solicitar</button>
   </div>
 </form>
 
