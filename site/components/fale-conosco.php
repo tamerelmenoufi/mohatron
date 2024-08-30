@@ -7,8 +7,8 @@
     z-index: 1;
     outline: none !important;
     border: none;
-    background: #144397;
-    color: #fff !important;
+    background: #fff;
+    color: #144397 !important;
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
     border-radius: 30px;
@@ -22,8 +22,8 @@
     z-index: 1;
     outline: none !important;
     border: none;
-    background: #32589b;
-    color: #fff !important;
+    background: #fffeff;
+    color: #144397 !important;
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
     border-radius: 30px;
@@ -107,48 +107,48 @@
 
 <div class="col-sm-5 col-md-6 back">
 
-<p style="font-size:30px;color:#005992;font-weight:bold;text-align:center">
+<p style="font-size:30px;color:#fff;font-weight:bold;text-align:center">
 Fale com especialista!
     </p>
-    <p style="font-size:14px;color:#005992;text-align:center">
+    <p style="font-size:14px;color:#fff;text-align:center">
     Agende uma conversa com um de nossos especialistas e receba uma análise.
     </p>
 
 
 <div class="col-md-12">
-    <label for="validationCustom04" class="form-label">Serviço que você deseja</label>
+    <label for="validationCustom04" class="form-label" style="color:#fff">Serviço que você deseja</label>
     <select style="border-radius:25px" class="form-select" id="validationCustom04" required>
-      <option selected disabled value="">Selecione...</option>
-      <option>Hospedagem</option>
+      <option style="color:#fff" selected disabled value="">Selecione...</option>
+      <option >Hospedagem</option>
       <option>Sms</option>
       <option>E-mail Marketing</option>
       <option>E-mail Profissional</option>
     </select>
-    <div class="valid-feedback">
+    <div style="color:#fff" class="valid-feedback">
      Correto
     </div>
   </div>
 
 <form class="row g-3 needs-validation" novalidate>
   <div class="col-md-12">
-    <label for="validationCustom01" class="form-label" style="margin-top:10px">Nome Completo</label>
+    <label for="validationCustom01" class="form-label" style="margin-top:10px;color:#fff">Nome Completo</label>
     <input style="border-radius:25px" type="text" class="form-control" id="validationCustom01" value="" required>
     <div class="valid-feedback">
       Correto
     </div>
   </div>
   <div class="col-md-12">
-    <label for="validationCustom02" class="form-label">E-mail</label>
+    <label for="validationCustom02" class="form-label" style="margin-top:10px;color:#fff">E-mail</label>
     <input style="border-radius:25px" type="text" class="form-control" id="validationCustom02" value="" required>
-    <div class="valid-feedback">
+    <div style="color:#fff" class="valid-feedback">
       Correto
     </div>
   </div>
 
   <div class="col-md-12">
-    <label for="validationCustom02" class="form-label">Telefone</label>
+    <label for="validationCustom02" class="form-label" style="margin-top:10px;color:#fff">Telefone</label>
     <input style="border-radius:25px" type="text" class="form-control" id="validationCustom02" value="" required>
-    <div class="valid-feedback">
+    <div style="color:#fff" class="valid-feedback">
       Correto
     </div>
   </div>
@@ -158,7 +158,7 @@ Fale com especialista!
   
 
   <div class="col-12" style="text-align:right">
-    <button class="bt-azul"  style="padding:15px;text-align:center;border-radius:0px;border-left: 10px #ced4da solid;border-right: 10px #ced4da solid;"type="submit" style="" >
+    <button class="bt-branco"  style="padding:15px;text-align:center;border-radius:0px;border-left: 10px #ced4da solid;border-right: 10px #ced4da solid;"type="submit" style="" >
       Solicitar Atendimento</button>
   </div>
 </form>
