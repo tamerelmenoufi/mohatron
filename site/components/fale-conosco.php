@@ -100,7 +100,8 @@
 
 <div class="col-sm-5 col-md-6">
 
-<div>
+<div id="rd-column-joq3m2m1" class="bricks--column rd-column">
+  <div>
     
 <style type="text/css" rel="stylesheet">
   
@@ -519,6 +520,7 @@
 
 
   </div>
+</div>
 
 
 </div>
