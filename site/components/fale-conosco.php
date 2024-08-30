@@ -101,26 +101,19 @@
 <div class="col-sm-5 col-md-6">
 
 
-<div class="row">
-  <div class="col-md-12">
-     <form data-toggle="validator" role="form" id="myForm" name="myForm">
-        <div class="form-group">
-          <label for="inputName" class="control-label">Name</label>
-          <input type="text" class="form-control" id="inputName" placeholder="Guj" required>
-        <div class="help-block with-errors"></div>
-        </div>        
-        <div class="form-group">
-          <label for="inputFone" class="control-label">Telefone</label>
-          <input type="text" class="form-control" id="inputFone" placeholder="Telefone" pattern="\([0-9]{2}\)[0-9]{4,6}-[0-9]{3,4}$" required>
-        <div class="help-block with-errors"></div>
-        </div>
-        <button type="" class="" style="background:#000;color:#fff;border:2px solid #fff;
-         border-radius:10px
-        ">Enviar</button>
-     </form>
-  </div>
-  <div class="col-md-4"></div>
+<div class="form-floating mb-3">
+  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com"
+  style="border-radius:25px">
+  <label for="floatingInput">Nome Completo</label>
 </div>
+
+<div class="form-floating mb-3">
+  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com"
+  style="border-radius:25px">
+  <label for="floatingInput">Seu Email </label>
+</div>
+
+
 
 
 
@@ -134,9 +127,3 @@
                 </div>
                
 </section>
-
-<script>
-
-$('#myForm').validator();
-$('#inputFone').mask("(99)9999-9999");
-</script>
