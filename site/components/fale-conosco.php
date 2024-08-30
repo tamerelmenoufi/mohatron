@@ -323,4 +323,8 @@
     "icon": $form-feedback-icon-invalid
   )
 );
+
+@each $state, $data in $form-validation-states {
+  @include form-validation-state($state, $data...);
+}
 </script>
