@@ -140,3 +140,26 @@
                 </div>
                
 </section>
+
+<script type="text/javascript">
+    var origConversionSuccess = window.conversionSuccess;
+    const lpConversionForm = document.getElementById('conversion-form')
+
+    conversionSuccess = function(resp) {
+      if (window.origConversionSuccess) window.origConversionSuccess(resp);
+
+      
+        alert("Cadastro efetuado com sucesso! Entraremos em contato.");
+      
+
+      
+
+      let redirectTo = (lpConversionForm.dataset.assetAction)
+        ? atob(lpConversionForm.dataset.assetAction)
+        : $("input[name='redirect_to']").val();
+
+      if (redirectTo && redirectTo.length > 0) {
+        top.location.href = redirectTo;
+      }
+    }
+</script>
