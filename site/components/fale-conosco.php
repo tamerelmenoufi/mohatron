@@ -105,8 +105,8 @@
 <p style="font-size:30px;color:#005992;font-weight:bold">
 Fale com especialista!
     </p>
-    <p style="font-size:16px;color:#005992;">
-    Agende uma conversa com um de nossos especialistas e receba uma análise gratuita.
+    <p style="font-size:14px;color:#005992;">
+    Agende uma conversa com um de nossos especialistas e receba uma análise.
     </p>
 
 
