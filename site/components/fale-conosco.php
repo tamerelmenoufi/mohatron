@@ -102,10 +102,10 @@
 
 <div class="col-sm-5 col-md-6">
 
-<p style="font-size:30px;color:#005992;font-weight:bold">
+<p style="font-size:30px;color:#005992;font-weight:bold;text-align:center">
 Fale com especialista!
     </p>
-    <p style="font-size:14px;color:#005992;">
+    <p style="font-size:14px;color:#005992;text-align:center">
     Agende uma conversa com um de nossos especialistas e receba uma análise.
     </p>
 
