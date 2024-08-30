@@ -113,7 +113,20 @@
   <label for="floatingInput">Email address</label>
 </div>
 
+<div class="bricks-form__field  with-select-flags " data-step="1" data-is-conditional="false" data-conditional-rules="W10=
+">
+  <label for="rd-phone_field-lzmrk4t6" class="bricks-form__label">
+    Telefone (Whatsapp)*
+  </label>
+  <div class="phone-input-group">
+    
+      <div class="select2-container form-control phone-country" id="s2id_autogen1"><a href="javascript:void(0)" class="select2-choice" tabindex="-1">   <span class="select2-chosen" id="select2-chosen-2" aria-label="Escolha seu país"><img class="flag" width="26" src="https://dk9suync0k2va.cloudfront.net/js/rd/stable/flags/4x3/br.svg?t=1560538149"></span><abbr class="select2-search-choice-close"></abbr>   <span class="select2-arrow" role="presentation"><b role="presentation"></b></span></a><label for="s2id_autogen2" class="select2-offscreen"></label><input class="select2-focusser select2-offscreen" type="text" aria-haspopup="true" role="button" aria-labelledby="select2-chosen-2" id="s2id_autogen2"></div><div class="form-control phone-country" data-type="countries" tabindex="-1" title="" style="display: none;"></div>
+      <div class="country-field" value="BR"></div>
+    
 
+    <input id="rd-phone_field-lzmrk4t6" class="bricks-form__input required phone js-phone js-field-cf_telefone_whatsapp" name="cf_telefone_whatsapp" data-input-mask="INTERNATIONAL_MASK" data-use-type="STRING" type="tel" placeholder="Telefone (Whatsapp) *" required="required" data-country="BR" data-last-country-code="55">
+  </div>
+</div>
 
 
 
