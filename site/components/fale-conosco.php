@@ -76,6 +76,7 @@
     background: linear-gradient(90deg, rgb(0 71 134) 0%, rgb(33 50 66) 35%, rgb(0 71 134) 100%);
     padding: 15px;
     border-radius: 25px;
+    border:6px solid #ced4da;
 }
  
 
@@ -157,8 +158,8 @@ Fale com especialista!
 
   
 
-  <div class="col-12" style="text-align:right">
-    <button class="bt-branco"  style="padding:15px;text-align:center;border-radius:0px;border-left: 10px #ced4da solid;border-right: 10px #ced4da solid;"type="submit" style="" >
+  <div class="col-12" style="text-align:center">
+    <button class="bt-branco"  style="padding:12px;text-align:center;border-radius:0px;border-left: 10px #ced4da solid;border-right: 10px #ced4da solid;"type="submit" style="" >
       Solicitar Atendimento</button>
   </div>
 </form>
