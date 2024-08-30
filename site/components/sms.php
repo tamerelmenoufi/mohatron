@@ -92,7 +92,7 @@ content: '';
 }
 </style>
 
-<section  id="sms" class="">
+<section  id="sms" class="" style="padding:0px">
   <div class="row g-0">
 
     <div class="col-md-6">
