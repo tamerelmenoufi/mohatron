@@ -72,9 +72,10 @@
   right: 0;
 }
 .back {
-  background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,181,255,1) 100%);
-padding:15px
+  background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgb(0 71 134) 0%, rgb(33 50 66) 35%, rgb(0 71 134) 100%);
+    padding: 15px;
+    border-radius: 25px;
 }
  
 
