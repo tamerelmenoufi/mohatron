@@ -159,7 +159,7 @@ Fale com especialista!
   
 
   <div class="col-12" style="text-align:center">
-    <button class="bt-branco"  style="padding:12px;text-align:center;border-radius:0px;border-left: 10px #ced4da solid;border-right: 10px #ced4da solid;"type="submit" style="" >
+    <button class="bt-branco"  style="font-weight:bold;padding:12px;text-align:center;border-radius:0px;border-left: 10px #ced4da solid;border-right: 10px #ced4da solid;"type="submit" style="" >
       Solicitar Atendimento</button>
   </div>
 </form>
