@@ -107,43 +107,36 @@
 <form class="row g-3 needs-validation" novalidate>
   <div class="col-md-12">
     <label for="validationCustom01" class="form-label">Nome Completo</label>
-    <input type="text" class="form-control" id="validationCustom01" value="Mark" required>
+    <input type="text" class="form-control" id="validationCustom01" value="" required>
     <div class="valid-feedback">
       Correto
     </div>
   </div>
   <div class="col-md-12">
     <label for="validationCustom02" class="form-label">E-mail</label>
-    <input type="text" class="form-control" id="validationCustom02" value="Otto" required>
+    <input type="text" class="form-control" id="validationCustom02" value="" required>
     <div class="valid-feedback">
       Correto
     </div>
   </div>
-  <div class="col-md-4">
-    <label for="validationCustomUsername" class="form-label">Username</label>
-    <div class="input-group has-validation">
-      <span class="input-group-text" id="inputGroupPrepend">@</span>
-      <input type="text" class="form-control" id="validationCustomUsername" aria-describedby="inputGroupPrepend" required>
-      <div class="invalid-feedback">
-        Please choose a username.
-      </div>
+
+  <div class="col-md-12">
+    <label for="validationCustom02" class="form-label">Telefone</label>
+    <input type="text" class="form-control" id="validationCustom02" value="" required>
+    <div class="valid-feedback">
+      Correto
     </div>
   </div>
-  <div class="col-md-6">
-    <label for="validationCustom03" class="form-label">City</label>
-    <input type="text" class="form-control" id="validationCustom03" required>
-    <div class="invalid-feedback">
-      Please provide a valid city.
-    </div>
-  </div>
-  <div class="col-md-3">
+  
+  
+  <div class="col-md-12">
     <label for="validationCustom04" class="form-label">State</label>
     <select class="form-select" id="validationCustom04" required>
       <option selected disabled value="">Choose...</option>
       <option>...</option>
     </select>
     <div class="invalid-feedback">
-      Please select a valid state.
+     Correto
     </div>
   </div>
   <div class="col-md-3">
