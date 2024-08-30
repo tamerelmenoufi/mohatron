@@ -159,7 +159,6 @@ Fale com especialista!
   <div class="col-md-12">
     <label for="validationCustom04" class="form-label" style="color:#fff">Mensagem</label>
   <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-</div>
     <div style="color:#fff" class="valid-feedback">
      Correto
     </div>
