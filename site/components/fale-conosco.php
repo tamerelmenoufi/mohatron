@@ -116,19 +116,6 @@ Fale com especialista!
     </p>
 
 
-<div class="col-md-12">
-    <label for="validationCustom04" class="form-label" style="color:#fff">Serviço que você deseja</label>
-    <select style="border-radius:25px" class="form-select" id="validationCustom04" required>
-      <option style="color:#fff" selected disabled value="">Selecione...</option>
-      <option >Hospedagem</option>
-      <option>Sms</option>
-      <option>E-mail Marketing</option>
-      <option>E-mail Profissional</option>
-    </select>
-    <div style="color:#fff" class="valid-feedback">
-     Correto
-    </div>
-  </div>
 
 <form class="row g-3 needs-validation" novalidate>
   <div class="col-md-12">
@@ -154,7 +141,30 @@ Fale com especialista!
     </div>
   </div>
   
-  
+  <div class="col-md-12">
+    <label for="validationCustom04" class="form-label" style="color:#fff">Assunto</label>
+    <select style="border-radius:25px" class="form-select" id="validationCustom04" required>
+      <option style="color:#fff" selected disabled value="">Selecione...</option>
+      <option >Solicitar Orçamento</option>
+      <option >Hospedagem</option>
+      <option>Sms</option>
+      <option>E-mail Marketing</option>
+      <option>E-mail Profissional</option>
+    </select>
+    <div style="color:#fff" class="valid-feedback">
+     Correto
+    </div>
+  </div>
+
+  <div class="col-md-12">
+    <label for="validationCustom04" class="form-label" style="color:#fff">Mensagem</label>
+  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+</div>
+    <div style="color:#fff" class="valid-feedback">
+     Correto
+    </div>
+  </div>
+
 
   
 
