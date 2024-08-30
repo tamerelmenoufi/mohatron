@@ -180,7 +180,7 @@ section.beneficios .quadros .quadro .icone img {
   </style>
 
 
-<section  id="hospedagem" class="beneficios animar" style="padding:10px">
+<section  id="hospedagem" class="beneficios animar" style="padding:10px;margin-top:25px">
 
     <!-- Titulo -->
     <div class="titulo" style="text-align:center">

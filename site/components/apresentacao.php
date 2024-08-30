@@ -95,7 +95,6 @@
       fazer bons negócios, é necessário que a estrutura online seja profissional.</p>
 
     
-    <button class="button"><span>Fale com especialista</span></button>
   </div>
 
 <div class="col-sm-5 col-md-6">
