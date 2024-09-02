@@ -158,7 +158,7 @@ Fale com especialista!
   </div>
 
   <div class="col-md-12">
-  <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Sua Mensagem"
+  <textarea  id="validationCustom02" class="form-control" id="exampleFormControlTextarea1" placeholder="Sua Mensagem"
    rows="3"></textarea>
     <div style="color:#fff" class="valid-feedback">
      Correto
