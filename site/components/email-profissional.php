@@ -270,7 +270,7 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
         </svg>
-        <span style="font-size:14px">Informações aqui</span>
+        <span titulo="E-mail Profissional" style="font-size:14px">Informações aqui</span>
 </a>
       </button>
     </div>
@@ -300,16 +300,3 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
             
             <div  class="fundo-verde d-none d-sm-block" style="height:115px"></div>  
 </section>
-
-<script>
-  $('a.teste').on('click', function(e) {
-    e.preventDefault();
-    var id = $(this).attr('href'),
-    targetOffset = $(id).offset().top;
-
-
-    $('html, body').animate({ 
-    scrollTop: targetOffset - 50 //altura que para antes do topo da tela
-    }, 500,'swing');
-});
-  </script>

@@ -269,7 +269,7 @@ Crie fantásticas campanhas de marketing por correio eletrónico do início ao f
 </p>
 
 <div class="" >
-	<p class="animated-word"><a class="teste" title="segmentos" href="#mostrar_planos">
+	<p class="animated-word"><a titulo="E-mail Marketing" class="teste" title="segmentos" href="#mostrar_planos">
     Conheça os planos
 </a>
   </p>
@@ -291,15 +291,4 @@ Crie fantásticas campanhas de marketing por correio eletrónico do início ao f
 </div>
 </div>
   </section>
-  <script>
-  $('a.teste').on('click', function(e) {
-    e.preventDefault();
-    var id = $(this).attr('href'),
-    targetOffset = $(id).offset().top;
-
-
-    $('html, body').animate({ 
-    scrollTop: targetOffset - 50 //altura que para antes do topo da tela
-    }, 500,'swing');
-});
-  </script>
+  
