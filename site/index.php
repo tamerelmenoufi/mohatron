@@ -120,8 +120,9 @@
         
         'servicos',
         'sms',
-        'email-marketing',
+       
         'email-profissional',
+        'email-marketing',
         'hospedagem',
         
         
