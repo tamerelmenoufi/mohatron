@@ -267,6 +267,22 @@ section.beneficios .quadros .quadro .icone img {
     </div>
 
     <div class="wrap2" style="margin-top:25px;margin-bottom:25px">
-  <button class="botao-sms2">Contrate agora</button>
+  <button class="botao-sms2"><a class="teste" title="segmentos" href="#mostrar_planos">
+    Contrate agora
+</a>
+  </button>
 </div>
   </section>
+
+  <script>
+  $('a.teste').on('click', function(e) {
+    e.preventDefault();
+    var id = $(this).attr('href'),
+    targetOffset = $(id).offset().top;
+
+
+    $('html, body').animate({ 
+    scrollTop: targetOffset - 50 //altura que para antes do topo da tela
+    }, 500,'swing');
+});
+  </script>
