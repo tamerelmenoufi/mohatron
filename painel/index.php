@@ -28,7 +28,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="img/icone.png" rel="icon">
     <meta name="google" content="notranslate">
-    <title>capitalsolucoes - Painel de controle</title>
+    <title>Mohatron - Painel de controle</title>
     <?php
     include("lib/header.php");
     ?>
