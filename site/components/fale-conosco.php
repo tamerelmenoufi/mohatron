@@ -80,7 +80,7 @@
 }
  
 .quadrado{
-  animation: go-back 1s infinite alternate;
+  animation: go-back 6s infinite alternate;
 }
 
 @keyframes go-back {
