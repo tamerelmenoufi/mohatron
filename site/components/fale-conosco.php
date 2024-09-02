@@ -209,18 +209,6 @@ Fale com especialista!
                
 </section>
 
-$('a.teste').on('click', function(e) {
-    e.preventDefault();
-    var id = $(this).attr('href'),
-    targetOffset = $(id).offset().top;
-
-
-    $('html, body').animate({ 
-    scrollTop: targetOffset - 50 //altura que para antes do topo da tela
-    }, 500,'swing');
-});
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-
 <a class="teste" title="segmentos" href="#mostrar_planos">Confira os planos</a>
         
 <DIV style="height: 200vh;"></DIV>
@@ -229,7 +217,6 @@ $('a.teste').on('click', function(e) {
 
 <DIV style="height: 500px; background:tomato;"> div com 500px de altura</DIV>
 
-        
 
 <script>
   // Example starter JavaScript for disabling form submissions if there are invalid fields
@@ -251,4 +238,16 @@ $('a.teste').on('click', function(e) {
     }, false)
   })
 })()
+
+
+$('a.teste').on('click', function(e) {
+    e.preventDefault();
+    var id = $(this).attr('href'),
+    targetOffset = $(id).offset().top;
+
+
+    $('html, body').animate({ 
+    scrollTop: targetOffset - 50 //altura que para antes do topo da tela
+    }, 500,'swing');
+});
 </script>
