@@ -36,7 +36,7 @@
   <style>
 body {
 
-    background: url(img/fundopncred.jpg);
+    background: url(img/bg-painel.jpg);
     background-repeat: no-repeat center fixed;
     background-size: cover;
     -webkit-background-size: cover;
