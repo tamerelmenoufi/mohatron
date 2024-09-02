@@ -145,12 +145,12 @@ Fale com especialista!
   <div class="col-md-12">
     <select style="border-radius:25px" class="form-select" id="validationCustom04" placeholder="Assunto"
     required>
-      <option style="color:#fff" selected disabled value="">Selecione...</option>
-      <option >Solicitar Orçamento</option>
-      <option >Hospedagem</option>
-      <option>Sms</option>
-      <option>E-mail Marketing</option>
-      <option>E-mail Profissional</option>
+      <option  style="color:#fff" selected disabled >Selecione...</option>
+      <option  value="Solicitar Orçamento" >Solicitar Orçamento</option>
+      <option  value="Hospedagem">Hospedagem</option>
+      <option  value="Sms" >Sms</option>
+      <option  value="E-mail Marketing">E-mail Marketing</option>
+      <option  value="E-mail Profissional">E-mail Profissional</option>
     </select>
     <div style="color:#fff" class="valid-feedback">
      Correto
