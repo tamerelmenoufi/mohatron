@@ -98,6 +98,7 @@
     suporte especializado em redes, sistemas, informações, nuvem, monitoramento,
      segurança e muito mais.</p>
 
+     <img src="assets/img/SUPORTE.png" class="img-responsive" style="">
   </div>
 
 <div class="col-sm-5 col-md-6 back">
