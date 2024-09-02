@@ -23,7 +23,7 @@ background:none;
 <footer id="footer" class="footer" style="background:#004786">
 
 
-<div style="text-align:center;font-size:14px;padding-bottom:2px;margin-top:40px;padding:25px">
+<div style="text-align:center;font-size:14px;padding-bottom:2px;margin-top:40px;padding:25px;color:#fff">
   <div class="row g-0"><div class="col-md-6 text-center text-md-end">
   &copy; Copyright <strong><span>Mohatron Soluções em TI </span></strong>.
 </div><div class="col-md-6 text-center text-md-start">
