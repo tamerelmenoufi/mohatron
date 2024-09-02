@@ -122,8 +122,9 @@
         'sms',
        
         'email-profissional',
-        'email-marketing',
         'hospedagem',
+        'email-marketing',
+       
         
         
         
