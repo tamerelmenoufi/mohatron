@@ -92,7 +92,7 @@
 <div class="row">
     <div class="col-sm-5 col-md-6">
 
-    <p class="" style="text-align: left;">
+    <p class="" style="text-align: left;font-style: oblique;">
       <b style="color: #05447d;font-size:34px;font-style: oblique;">A Mohatron</b><br>
     oferece serviços e soluções em TI para a sua empresa, com profissionais qualificados e 
     suporte especializado em redes, sistemas, informações, nuvem, monitoramento,
