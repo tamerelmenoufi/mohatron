@@ -296,5 +296,5 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
                 </div>
             </div> 
             
-            <div class="fundo-verde d-none d-sm-block" style="height:115px"></div>  
+            <div id="mostrar_planos" class="fundo-verde d-none d-sm-block" style="height:115px"></div>  
 </section>
