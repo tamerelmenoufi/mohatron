@@ -79,7 +79,9 @@
     border:6px solid #ced4da;
 }
  
-
+.animacao{
+  animation: go-back 1s infinite alternate;
+}
 
 </style>
 
@@ -98,7 +100,7 @@
     suporte especializado em redes, sistemas, informações, nuvem, monitoramento,
      segurança e muito mais.</p>
 
-     <img src="assets/img/SUPORTE.png" class="img-fluid " style="">
+     <img src="assets/img/SUPORTE.png" class="img-fluid animacao " style="">
   </div>
 
 <div class="col-sm-5 col-md-6 back">
