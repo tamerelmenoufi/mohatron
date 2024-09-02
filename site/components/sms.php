@@ -153,16 +153,3 @@ content: '';
     </div>
   </div><!--fim de tudo--->
           </section >
-
-          <script>
-  $('a.teste').on('click', function(e) {
-    e.preventDefault();
-    var id = $(this).attr('href'),
-    targetOffset = $(id).offset().top;
-
-
-    $('html, body').animate({ 
-    scrollTop: targetOffset - 50 //altura que para antes do topo da tela
-    }, 500,'swing');
-});
-  </script>
