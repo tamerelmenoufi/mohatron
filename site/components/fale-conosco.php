@@ -113,7 +113,7 @@
 <section  id="fale-conosco" class="" style="padding:0px">
 
 
-<div class="container aos-init aos-animate" style="margin-top:120px">
+<div id="mostrar_planos" class="container aos-init aos-animate" style="margin-top:120px">
 
 
 <div class="row">
@@ -209,13 +209,7 @@ Fale com especialista!
                
 </section>
 
-<a class="teste" title="segmentos" href="#mostrar_planos">Confira os planos</a>
-        
-<DIV style="height: 200vh;"></DIV>
 
-<section > conteudo </section>
-
-<DIV style="height: 500px; background:tomato;"> div com 500px de altura</DIV>
 
 
 <script>
@@ -240,14 +234,5 @@ Fale com especialista!
 })()
 
 
-$('a.teste').on('click', function(e) {
-    e.preventDefault();
-    var id = $(this).attr('href'),
-    targetOffset = $(id).offset().top;
 
-
-    $('html, body').animate({ 
-    scrollTop: targetOffset - 50 //altura que para antes do topo da tela
-    }, 500,'swing');
-});
 </script>

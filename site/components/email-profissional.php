@@ -265,11 +265,13 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
 <div>
     <div class="center">
       <button class="btn">
+        <a class="teste" title="segmentos" href="#mostrar_planos">
         <svg width="180px" height="60px" viewBox="0 0 180 60" class="border">
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
         </svg>
         <span style="font-size:14px">Informações aqui</span>
+</a>
       </button>
     </div>
 
@@ -296,5 +298,18 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
                 </div>
             </div> 
             
-            <div id="mostrar_planos" class="fundo-verde d-none d-sm-block" style="height:115px"></div>  
+            <div  class="fundo-verde d-none d-sm-block" style="height:115px"></div>  
 </section>
+
+<script>
+  $('a.teste').on('click', function(e) {
+    e.preventDefault();
+    var id = $(this).attr('href'),
+    targetOffset = $(id).offset().top;
+
+
+    $('html, body').animate({ 
+    scrollTop: targetOffset - 50 //altura que para antes do topo da tela
+    }, 500,'swing');
+});
+  </script>
