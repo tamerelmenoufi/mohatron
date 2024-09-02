@@ -79,10 +79,35 @@
     border:6px solid #ced4da;
 }
  
-.animacao{
+.quadrado{
   animation: go-back 1s infinite alternate;
 }
 
+@keyframes go-back {
+  from {
+    transform: translateX(35px);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+    .loading {
+      
+
+      /* Aqui declaramos nossa animação inline */
+      animation: rotate 3s infinite linear;
+    }
+    
+    @keyframes rotate {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(359deg);
+      }
+    }
+ 
 </style>
 
 <section  id="fale-conosco" class="" style="padding:0px">
@@ -100,7 +125,7 @@
     suporte especializado em redes, sistemas, informações, nuvem, monitoramento,
      segurança e muito mais.</p>
 
-     <img src="assets/img/SUPORTE.png" class="img-fluid animacao " style="">
+     <img src="assets/img/SUPORTE.png" class="img-fluid quadrado " style="">
   </div>
 
 <div class="col-sm-5 col-md-6 back">
