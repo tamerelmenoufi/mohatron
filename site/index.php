@@ -237,6 +237,12 @@ FALE COM ESPECIALISTA
 
     $('a.teste').on('click', function(e) {
       e.preventDefault();
+
+
+      titulo = $(this).attr("titulo");
+      $("#fale_consoco").val(titulo);
+      console.log(titulo);
+
       var id = $(this).attr('href'),
       targetOffset = $(id).offset().top;
 
@@ -244,9 +250,6 @@ FALE COM ESPECIALISTA
       scrollTop: targetOffset - 50 //altura que para antes do topo da tela
 
 
-      titulo = $(this).attr("titulo");
-
-      $("#fale_consoco").val(titulo);
 
 
     }, 500,'swing');
