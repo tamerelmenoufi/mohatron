@@ -165,7 +165,7 @@ Fale com especialista!
   </div>
   
   <div class="col-md-12">
-    <select style="border-radius:25px" class="form-select" id="validationCustom04" placeholder="Assunto"
+    <select style="border-radius:25px" class="form-select" id="fale_consoco" placeholder="Assunto"
     required>
       <option style="color:#fff" selected disabled >Selecione...</option>
       <option value="Solicitar Orçamento" >Solicitar Orçamento</option>
