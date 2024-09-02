@@ -92,16 +92,11 @@
 <div class="row">
     <div class="col-sm-5 col-md-6">
 
-    <p class="lead" style="text-align: left;">
-      <b style="color:#000;font-size:34px">A Mohatron</b><br>
-    oferece serviços e soluções em TI para a sua empresa, com profissionais qualificados e suporte especializado em redes, sistemas, informações, nuvem, monitoramento, segurança e muito mais.</p>
-
-    <p class="o-7" style="text-align: justify;">
-    No mercado desde 2009, a Mohatron Soluções em TI desenvolve ferramentas digitais modernas,
-     dinâmicas e de alta tecnologia, sempre com foco em resultados.
-      A experiência e expertise dos nossos profissionais é o grande diferencial nos 
-      trabalhos que executamos, pois em um mercado competitivo, para a sua empresa 
-      fazer bons negócios, é necessário que a estrutura online seja profissional.</p>
+    <p class="" style="text-align: left;">
+      <b style="color: #05447d;font-size:34px;font-style: oblique;">A Mohatron</b><br>
+    oferece serviços e soluções em TI para a sua empresa, com profissionais qualificados e 
+    suporte especializado em redes, sistemas, informações, nuvem, monitoramento,
+     segurança e muito mais.</p>
 
   </div>
 
