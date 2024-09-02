@@ -138,8 +138,8 @@ content: '';
       </div>
           
       <div class="wrap">
-        <a class="teste" title="segmentos" href="#mostrar_planos">
-  <button titulo="sms" class="botao-sms">  
+        <a class="teste" titulo="sms" title="segmentos" href="#mostrar_planos">
+  <button class="botao-sms">  
     Saiba mais
   </button>
 </a>
