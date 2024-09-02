@@ -137,11 +137,12 @@ content: '';
     </p>
       </div>
           
-      <div class="wrap"><a class="teste" title="segmentos" href="#mostrar_planos">
+      <div class="wrap">
+        <a class="teste" title="segmentos" href="#mostrar_planos">
   <button class="botao-sms">  
     Saiba mais
-          
-  </button></a>
+  </button>
+</a>
 </div>
 
 
