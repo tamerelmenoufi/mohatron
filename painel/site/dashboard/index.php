@@ -1,9 +1,9 @@
 <?php
     include("{$_SERVER['DOCUMENT_ROOT']}/painel/lib/includes.php");
 
-    if($_POST['delete']){
+    if($_POST['deletar']){
 
-        mysqli_query($con,"delete from contatos where codigo = '{$_POST['delete']}'");
+        mysqli_query($con,"delete from contatos where codigo = '{$_POST['deletar']}'");
 
     }
 ?>
@@ -77,7 +77,7 @@ while($d = mysqli_fetch_object($result)){
         })
 
         $("button[delete]").click(function(){
-            delete = $(this).attr("delete");
+            deletar = $(this).attr("delete");
             $.confirm({
                 title:"Deletar Pedido",
                 type:"red",
@@ -86,7 +86,7 @@ while($d = mysqli_fetch_object($result)){
                         Carregando();
                         $.ajax({
                             url:"site/usuarios/index.php",
-                            data:{delete},
+                            data:{deletar},
                             success:function(dados){
                                 $("#paginaHome").html(dados);
                             }
