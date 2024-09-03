@@ -1,5 +1,27 @@
 <?php
     include("{$_SERVER['DOCUMENT_ROOT']}/site/assets/lib/includes.php");
+
+
+    if($_POST['acao'] == 'envio_formulario'){
+
+      $query = "insert into contatos set 
+                                        nome = '',
+                                        email = '',
+                                        telefone = '',
+                                        fale_conosco = '',
+                                        mensagem = '',
+                                        data = NOW()
+      ";
+      if(mysqli_query($con, $query)){
+        echo "Sua solicitação foi enviada com sucess!";
+      }else{
+        echo "Ocorreu um erro no envio, favor tentar novamente!";
+      }
+
+      exit();
+    }
+
+
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
@@ -253,6 +275,36 @@ FALE COM ESPECIALISTA
 
 
     }, 500,'swing');
+
+
+    $(".enviar_solicitacao").click(function(){
+
+      nome = $("#nome").val();
+      email = $("#email").val();
+      telefone = $("#telefone").val();
+      fale_consoco = $("#fale_consoco").val();
+      mensagem = $("#mensagem").val();
+
+      $.ajax({
+        url:"index.php",
+        type:"POST",
+        data:{ 
+          nome,
+          email,
+          telefone,
+          fale_consoco,
+          mensagem,
+          acao:'envio_formulario'
+        },
+        success:function(dados){
+          $.alert(dados);
+        }
+      })
+
+    })
+
+
+
 });
   </script>
 

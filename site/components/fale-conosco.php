@@ -142,7 +142,7 @@ Fale com especialista!
 <form class="row g-3 needs-validation" novalidate>
   <div class="col-md-12">
     <input style="border-radius:25px" type="text" placeholder="Nome completo"
-    class="form-control" id="validationCustom01" value="" required>
+    class="form-control" id="nome" value="" required>
     <div class="valid-feedback">
       Correto
     </div>
@@ -150,7 +150,7 @@ Fale com especialista!
 
   <div class="col-md-12">
     <input style="border-radius:25px" type="text" placeholder="E-mail"
-    class="form-control" id="validationCustom02" value="" required>
+    class="form-control" id="email" value="" required>
     <div style="color:#fff" class="valid-feedback">
       Correto
     </div>
@@ -158,7 +158,7 @@ Fale com especialista!
 
   <div class="col-md-12">
     <input style="border-radius:25px" type="text" class="form-control"placeholder="Telefone"
-     id="validationCustom02" value="" required>
+     id="telefone" value="" required>
     <div style="color:#fff" class="valid-feedback">
       Correto
     </div>
@@ -180,8 +180,8 @@ Fale com especialista!
   </div>
 
   <div class="col-md-12">
-  <textarea  id="validationCustom02" class="form-control" id="exampleFormControlTextarea1" placeholder="Sua Mensagem"
-   rows="3"></textarea>
+  <textarea  id="mensagem" class="form-control" id="exampleFormControlTextarea1" placeholder="Sua Mensagem"
+   rows="3" required></textarea>
     <div style="color:#fff" class="valid-feedback">
      Correto
     </div>
@@ -191,7 +191,7 @@ Fale com especialista!
   
 
   <div class="col-12" style="text-align:center">
-    <button class="bt-branco"  style="font-weight:bold;padding:12px;text-align:center;border-radius:0px;border-left: 10px #ced4da solid;border-right: 10px #ced4da solid;"type="submit" style="" >
+    <button class="bt-branco enviar_solicitacao"  style="font-weight:bold;padding:12px;text-align:center;border-radius:0px;border-left: 10px #ced4da solid;border-right: 10px #ced4da solid;"type="submit" style="" >
       Solicitar Atendimento</button>
   </div>
 </form>
