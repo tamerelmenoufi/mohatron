@@ -9,9 +9,29 @@
   border-bottom:1px solid #d7d7d7;
   cursor:pointer;
 }
+.menu-cinza:hover{
+  padding:8px;
+  font-size:15px;
+  border-bottom:1px solid #d7d7d7;
+  cursor:pointer;
+  background:#1b4a65;
+}
 
 .texto-cinza{
   color:#5e5e5e;
+}
+
+.texto-cinza:hover{
+  color:#fff;
+}
+.offcanvas.offcanvas-start {
+    top: 0;
+    left: 0;
+    width: var(--bs-offcanvas-width);
+    border-right: var(--bs-offcanvas-border-width) solid var(--bs-offcanvas-border-color);
+    transform: translateX(-100%);
+    border-radius: 2px 35px 35px 2px;
+    border-right: 9px solid #1b4a65;
 }
 
 </style>
