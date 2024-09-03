@@ -345,7 +345,7 @@ FALE COM ESPECIALISTA
             
             <div class=" "
             style=" margin:0px;position:fixed!important; bottom:0;
-            background-color:#000000d6;z-index:999999999999;padding:20px;width:100%;color:#fff;font-weight:bold"
+            background-color:#000000d6;z-index:999999999999;padding:25px;width:100%;color:#fff;font-weight:bold"
             id="exemplo1"
             >  
                 <div class="col-md-9" style="" >
@@ -354,7 +354,7 @@ FALE COM ESPECIALISTA
                 </div>
             
                 <div class="col-md-3" style="" >
-                    <span><a id="ocultar" style="border-radius:16px;margin:5px;font-size:16px;" class="btn btn-warning pull-right"  role="button">Aceitar</a></span>
+                    <span><a id="ocultar" style="border-radius:16px;margin:5px;font-size:16px;background: #3176f6;height:40px" class="btn btn-warning pull-right"  role="button">Aceitar</a></span>
                 </div> 
             </div>  
             
