@@ -9,7 +9,7 @@
 </style>
 
 <nav class="navbar navbar-expand bg-light p-0">
-  <div class="container-fluid">
+  <div class="container-fluid" style="padding:9px">
     <div data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
       <div class="d-flex justify-content-start" style="height:50px">
         <i class="fa-solid fa-bars" style="font-size: 16px;margin-right:10px;margin-top: 15px;"></i>
