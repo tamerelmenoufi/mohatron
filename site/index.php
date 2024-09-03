@@ -255,7 +255,7 @@ FALE COM ESPECIALISTA
       setTimeout(() => {
         $("#loom-companion-mv3").remove();
       }, 1000);
-    })
+
 
     /*
     $('a.teste').on('click', function(e) {
@@ -319,8 +319,6 @@ FALE COM ESPECIALISTA
       })
 
     })
-
-
 
 });
   </script>
