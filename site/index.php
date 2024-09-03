@@ -263,7 +263,7 @@ FALE COM ESPECIALISTA
 
       titulo = $(this).attr("titulo");
       $("#fale_consoco").val(titulo);
-
+      console.log(titulo)
       var id = $(this).attr('href'),
       targetOffset = $(id).offset().top;
 
