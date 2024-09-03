@@ -10,7 +10,7 @@
         Solicitações
     </div>
     <div class="row g-0"> 
-    <table style="table table-hover">
+    <table class="table table-hover m-3">
         <thead>
             <tr>
                 <th>Produto</th>
