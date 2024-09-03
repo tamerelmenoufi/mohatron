@@ -85,7 +85,7 @@ while($d = mysqli_fetch_object($result)){
                     'sim':function(){
                         Carregando();
                         $.ajax({
-                            url:"site/usuarios/index.php",
+                            url:"site/dashboard/index.php",
                             data:{deletar},
                             success:function(dados){
                                 $("#paginaHome").html(dados);
