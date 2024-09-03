@@ -286,6 +286,17 @@ FALE COM ESPECIALISTA
       fale_consoco = $("#fale_consoco").val();
       mensagem = $("#mensagem").val();
 
+      if(
+           !nome 
+        || !email 
+        || !telefone  
+        || !fale_consoco  
+        || !mensagem 
+      ){
+        $.alert('Preencha os campos obrigatórios!');
+        return false;
+      }
+
       $.ajax({
         url:"index.php",
         type:"POST",
