@@ -70,6 +70,30 @@
     transition: 0.3s;
     position: relative;
     }
+
+
+    @media (max-width: 1279px) {
+    .navbar ul {
+        position: absolute;
+        inset: 0;
+        padding: 10px 0;
+        margin: 0;
+        background: rgb(255 255 255 / 90%);
+        overflow-y: auto;
+        transition: 0.3s;
+        z-index: 9998;
+    }
+}
+
+@media (max-width: 1279px) {
+    .mobile-nav-active .navbar:before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        background: rgb(94 128 189);
+        z-index: 9996;
+    }
+}
 </style>
 
   <!-- ======= Header ======= -->
