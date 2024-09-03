@@ -7,7 +7,7 @@
 
 <div class="card m-3">
     <div class="card-header">
-        Solicitações
+       <h3>Solicitações</h3>
     </div>
     <div class="row g-0"> 
     <table class="table table-hover">
