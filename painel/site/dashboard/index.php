@@ -1,5 +1,11 @@
 <?php
     include("{$_SERVER['DOCUMENT_ROOT']}/painel/lib/includes.php");
+
+    if($_POST['delete']){
+
+        mysqli_query($con,"delete from contatos where codigo = '{$_POST['delete']}'");
+
+    }
 ?>
 <style>
 
@@ -43,6 +49,10 @@ while($d = mysqli_fetch_object($result)){
                     <button detalhes="<?=$d->mensagem?>" class="btn btn-warning btn-sm">
                     <i class="fa-regular fa-window-restore"></i>
                     </button>
+
+                    <button delete="<?=$d->codigo?>" class="btn btn-danger btn-sm ms-3">
+                    <i class="fa-solid fa-trash-can"></i>
+                    </button>
                 </td>
             </tr>
 <?php
@@ -64,6 +74,29 @@ while($d = mysqli_fetch_object($result)){
         $("button[detalhes]").click(function(){
             mensagem = $(this).attr("detalhes");
             $.dialog(mensagem);
+        })
+
+        $("button[delete]").click(function(){
+            delete = $(this).attr("delete");
+            $.confirm({
+                title:"Deletar Pedido",
+                type:"red",
+                buttons:{
+                    'sim':function(){
+                        Carregando();
+                        $.ajax({
+                            url:"site/usuarios/index.php",
+                            data:{delete},
+                            success:function(dados){
+                                $("#paginaHome").html(dados);
+                            }
+                        });
+                    },
+                    'Não':function(){
+
+                    }
+                }
+            })
         })
 
 
