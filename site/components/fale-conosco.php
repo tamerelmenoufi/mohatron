@@ -149,7 +149,7 @@ Fale com especialista!
   </div>
 
   <div class="col-md-12">
-    <input style="border-radius:25px" type="text" placeholder="E-mail"
+    <input style="border-radius:25px" type="mail" placeholder="E-mail"
     class="form-control" id="email" value="" required>
     <div style="color:#fff" class="valid-feedback">
       Correto
