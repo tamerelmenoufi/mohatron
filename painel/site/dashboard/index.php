@@ -28,7 +28,7 @@ $query = "select * from contatos order by codigo desc";
 
 $result = mysqli_query($con, $query);
 
-while($d = mysql_fetch_object($result)){
+while($d = mysqli_fetch_object($result)){
 
 ?> 
             <tr>
