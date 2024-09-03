@@ -167,7 +167,7 @@ Fale com especialista!
   <div class="col-md-12">
     <select style="border-radius:25px" class="form-select" id="fale_conosco" placeholder="Assunto"
     required>
-      <option style="color:#fff" selected disabled >Selecione...</option>
+      <option style="color:#fff" selected value="" >Selecione...</option>
       <option value="Solicitar Orçamento" >Solicitar Orçamento</option>
       <option value="Hospedagem">Hospedagem</option>
       <option value="sms" >SMS</option>
