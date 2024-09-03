@@ -13,6 +13,7 @@
     <table class="table table-hover">
         <thead>
             <tr>
+                <th>Pedido</th>
                 <th>Produto</th>
                 <th>Cliente</th>
                 <th>Telefone</th>
@@ -32,6 +33,7 @@ while($d = mysqli_fetch_object($result)){
 
 ?> 
             <tr>
+                <td>#<?=str_pad($d->codigo, 5, '0', STR_PAD_LEFT)?></td>
                 <td><?=$d->fale_conosco?></td>
                 <td><?=$d->nome?></td>
                 <td><?=$d->telefone?></td>
