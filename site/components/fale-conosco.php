@@ -158,7 +158,7 @@ Fale com especialista!
 
   <div class="col-md-12">
     <input style="border-radius:25px" type="text" class="form-control"placeholder="Telefone"
-     id="telefone" value="" maxlength="15" required>
+     id="telefone" value="" maxlength="15" inputmode="numeric" required>
     <div style="color:#fff" class="valid-feedback">
       Correto
     </div>
