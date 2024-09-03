@@ -12,6 +12,7 @@
                                         mensagem = '',
                                         data = NOW()
       ";
+      
       if(mysqli_query($con, $query)){
         echo "Sua solicitação foi enviada com sucess!";
       }else{
