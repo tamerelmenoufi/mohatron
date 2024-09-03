@@ -5,14 +5,14 @@
     if($_POST['acao'] == 'envio_formulario'){
 
       $query = "insert into contatos set 
-                                        nome = '',
-                                        email = '',
-                                        telefone = '',
-                                        fale_conosco = '',
-                                        mensagem = '',
+                                        nome = '{$_POST['nome']}',
+                                        email = '{$_POST['email']}',
+                                        telefone = '{$_POST['telefone']}',
+                                        fale_conosco = '{$_POST['fale_conosco']}',
+                                        mensagem = '{$_POST['mensagem']}',
                                         data = NOW()
       ";
-      
+
       if(mysqli_query($con, $query)){
         echo "Sua solicitação foi enviada com sucess!";
       }else{
