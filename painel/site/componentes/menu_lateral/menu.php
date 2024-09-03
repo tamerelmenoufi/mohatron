@@ -31,7 +31,7 @@
       </div>
     </div>
     <?php
-    if($_SESSION['ProjectPainel']->perfil == 'adm'){
+    //if($_SESSION['ProjectPainel']->perfil == 'adm'){
     ?>
     <div class="row mb-1 menu-cinza">
       <div class="col">
@@ -41,7 +41,8 @@
       </div>
     </div>
     <?php
-    }
+    //}
+    /*
     if($_SESSION['ProjectPainel']->perfil == 'adm' or $_SESSION['ProjectPainel']->perfil == 'site'){
 
     ?>
@@ -130,6 +131,7 @@
     </div>
     <?php
     }
+    //*/
     ?>
 
 
