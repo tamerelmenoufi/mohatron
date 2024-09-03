@@ -125,7 +125,14 @@
     suporte especializado em redes, sistemas, informações, nuvem, monitoramento,
      segurança e muito mais.</p>
 
-     <p style="font-size:20px;margin-bottom:2px">   <i style="color:#05447d;font-size:25px" class="fa-brands fa-whatsapp"></i>+55 43 98846-3771</p>
+     <p style="font-size:20px;margin-bottom:2px">  
+      
+     <i style="color:#05447d;font-size:25px" class="fa-brands fa-whatsapp"></i>
+     
+     <a href="https://api.whatsapp.com/send?phone=5543988463771&text=Ola,%20equipe%20Mohatron.%0AGostaria%20de%20informa%C3%A7%C3%B5es%20referente%20aos%20servi%C3%A7os%20que%20sua%20empresa%20disponibiliza.">
+      +55 43 98846-3771</a></p>
+
+
      <p style="font-size:20px;margin-bottom:2px">   <i style="color:#05447d;font-size:30px" class="fa-solid fa-at"></i>atendimento@mohatron.com.br</p>
 
      <img src="assets/img/SUPORTE.png" class="img-fluid quadrado " style="">
