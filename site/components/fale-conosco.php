@@ -135,7 +135,7 @@
 
      <p style="font-size:17px;margin-bottom:2px">   
       <i style="color:#05447d;font-size:25px" class="fa-solid fa-at"></i>
-      <a href="mailto:atendimento@mohatron.com.br" style="color:#05447d;">atendimento@mohatron.com.br</a></p>
+      <a href="mailto:atendimento@mohatron.com.br?subject=Gostaria de informações!" style="color:#05447d;">atendimento@mohatron.com.br</a></p>
 
      <img src="assets/img/SUPORTE.png" class="img-fluid quadrado " style="">
   </div>
