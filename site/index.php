@@ -283,14 +283,14 @@ FALE COM ESPECIALISTA
       nome = $("#nome").val();
       email = $("#email").val();
       telefone = $("#telefone").val();
-      fale_consoco = $("#fale_consoco").val();
+      fale_conosco = $("#fale_conosco").val();
       mensagem = $("#mensagem").val();
 
       if(
            !nome 
         || !email 
         || !telefone  
-        || !fale_consoco  
+        || !fale_conosco  
         || !mensagem 
       ){
         $.alert('Preencha os campos obrigatórios!');
@@ -304,7 +304,7 @@ FALE COM ESPECIALISTA
           nome,
           email,
           telefone,
-          fale_consoco,
+          fale_conosco,
           mensagem,
           acao:'envio_formulario'
         },
