@@ -257,7 +257,7 @@ FALE COM ESPECIALISTA
       }, 1000);
     })
 
-
+    /*
     $('a.teste').on('click', function(e) {
       e.preventDefault();
 
@@ -271,6 +271,16 @@ FALE COM ESPECIALISTA
       scrollTop: targetOffset - 50 //altura que para antes do topo da tela
 
     }, 500,'swing');
+    //*/
+
+
+    $('a.teste').click(function(){
+
+      titulo = $(this).attr("titulo");
+      $("#fale_conosco").val(titulo);
+      console.log(titulo)
+      
+    });    
 
 
     $(".enviar_solicitacao").click(function(){
