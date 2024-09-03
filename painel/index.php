@@ -35,14 +35,8 @@
   </head>
   <style>
 body {
-
-    background: url(img/bg-painel.jpg) center;
-    background-repeat: no-repeat center fixed;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background: rgb(4,60,96);
+    background: linear-gradient(90deg, rgba(4,60,96,1) 13%, rgba(0,32,54,1) 52%, rgba(18,104,154,1) 100%);
 }
 .popupWappBg{
     position:fixed;
