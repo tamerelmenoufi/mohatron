@@ -315,6 +315,11 @@ FALE COM ESPECIALISTA
         },
         success:function(dados){
           $.alert(dados);
+          $("#nome").val('');
+          $("#email").val('');
+          $("#telefone").val('');
+          $("#fale_conosco").val('');
+          $("#mensagem").val('');
         }
       })
 
