@@ -169,7 +169,7 @@
 
             <div class="form-floating mb-2">
                 <input type="text" class="form-control" id="login" placeholder="Digite seu login" required autofocus>
-                <label for="login">xxxLogin</label>
+                <label for="login">Login</label>
             </div>
 
             <div class="form-floating mb-2">
