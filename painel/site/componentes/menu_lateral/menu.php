@@ -15,12 +15,17 @@
   border-bottom:1px solid #d7d7d7;
   cursor:pointer;
   background:#1b4a65;
-  color:#fff;
+  color:#fff!important;
 }
 
 .texto-cinza{
   color:#5e5e5e;
 }
+
+.texto-cinza:hover{
+  color:#fff;
+}
+
 
 .offcanvas.offcanvas-start {
     top: 0;
