@@ -148,7 +148,7 @@
 <div class="">
     <div class="container">
     <div class="row g-0">
-    <div class="card card-container col-md-6">
+    <div class="col-md-6">
         <img class="img-fluid" src="img/rede.png" style="" />
 </div>
         
