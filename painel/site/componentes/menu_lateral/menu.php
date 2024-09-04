@@ -63,6 +63,14 @@
         </a>
       </div>
     </div>
+
+    <div class="row mb-1 menu-cinza">
+      <div class="col">
+        <a url="site/menu/index.php" class="text-decoration-none texto-cinza" data-bs-dismiss="offcanvas" aria-label="Close">
+          <i class="fa-solid fa-bars-staggered"></i> Menus
+        </a>
+      </div>
+    </div>
     <?php
     //}
     /*
