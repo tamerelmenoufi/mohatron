@@ -147,8 +147,9 @@
 
 <div class="">
     <div class="container">
-    <div class="row g-0">
+    <div class="row g-0" style="margin-top:50px">
     <div class="col-md-6">
+    <img class="img-fluid" src="img/mohatronlogo-painel-controle.png" style="" />
         <img class="img-fluid" src="img/rede.png" style="" />
 </div>
         
