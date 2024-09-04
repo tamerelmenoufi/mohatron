@@ -47,9 +47,11 @@
 .card-container.card {
     width: 350px;
     padding: 40px 40px;
-    border-radius:5px;
+    border-radius: 5px;
+    opacity: 0.96;
+    border-radius: 21px;
+    background: #fff;
 }
-
 
 /*
  * Card component
@@ -198,6 +200,8 @@
         </div><!-- /card-container -->
     </div><!-- /container -->
 </div>
+
+
 
 <script>
     $(function(){
