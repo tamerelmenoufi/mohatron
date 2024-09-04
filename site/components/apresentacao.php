@@ -91,11 +91,11 @@
         </div>
       
         <div class=" col-md-4">
-      <p style="margin-bottom:3px"><span style="font-size:14px"><span style="color:#012c47"><span style="font-family:Times New Roman,Times,serif">A MOHATRON Soluções em Tecnologia da Informação é constituída por equipe de desenvolvedores especializados em tecnologia voltada para plataforma WEB, abrangendo todos os meios de acessos.</span></span></span></p>
+      <p style="color: #012c47;font-family:Times New Roman,Times,serif;text-align: justify;margin-bottom:3px">A MOHATRON Soluções em Tecnologia da Informação é constituída por equipe de desenvolvedores especializados em tecnologia voltada para plataforma WEB, abrangendo todos os meios de acessos.</p>
 
-<p style="margin-bottom:3px"><span style="font-size:14px"><span style="color:#012c47"><span style="font-family:Times New Roman,Times,serif">Em sua trajetória que se iniciou no ano de 2005, a MOHATRON&nbsp;trabalhou com desenvolvimento de web sites e portais institucionais, atendendo, em parceria com empresas privadas e governamentais, projetos dinâmicos que oferecem integração com sistemas, dando assim início as atividades de foco atual.</span></span></span></p>
+<p style="color: #012c47;font-family:Times New Roman,Times,serif;text-align: justify;margin-bottom:3px">Em sua trajetória que se iniciou no ano de 2005, a MOHATRON&nbsp;trabalhou com desenvolvimento de web sites e portais institucionais, atendendo, em parceria com empresas privadas e governamentais, projetos dinâmicos que oferecem integração com sistemas, dando assim início as atividades de foco atual.</p>
 
-<p><span style="font-size:14px"><span style="color:#012c47"><span style="font-family:Times New Roman,Times,serif">Após alguns anos, a MOHATRON iniciou uma nova etapa com novos focos, visando atendimento&nbsp;diferenciado&nbsp;aos seus clientes.&nbsp;</span></span></span></p>
+<p style="color: #012c47;font-family:Times New Roman,Times,serif;text-align: justify">Após alguns anos, a MOHATRON iniciou uma nova etapa com novos focos, visando atendimento&nbsp;diferenciado&nbsp;aos seus clientes.&nbsp;</p>
 
  
         </div>
