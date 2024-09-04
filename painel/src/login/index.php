@@ -148,7 +148,7 @@
 <div class="">
     <div class="container">
     <div class="row g-0" style="margin-top:50px">
-    <div class="col-md-6">
+    <div class="col-md-6" style="text-align:right">
     <img class="img-fluid" src="img/mohatronlogo-painel-controle.png" style="" />
         <img class="img-fluid" src="img/rede.png" style="" />
 </div>
@@ -157,14 +157,14 @@
         <div class="card card-container col-md-6">
             <!-- <img class="profile-img-card" src="//lh3.googleusercontent.com/-6V8xOA6M7BA/AAAAAAAAAAI/AAAAAAAAAAA/rzlHcD0KYwo/photo.jpg?sz=120" alt="" /> -->
             <!--<img id="profile-img" class="profile-img-card" src="img/logo-site-painel.png" style="width:250px;" />-->
-                <p style="color:#012c47;font-size:25px;text-align:center"> PAINEL DE CONTROLE</p>
+                <p style="color:#012c47;font-size:25px;text-align:center;font-weight:bold"> PAINEL DE CONTROLE</p>
             <div class="form-floating mb-2">
-                <input type="text" class="form-control" id="login" placeholder="Digite seu login" required autofocus>
+                <input style="border-radius:25px" type="text" class="form-control" id="login" placeholder="Digite seu login" required autofocus>
                 <label for="login">Login</label>
             </div>
 
             <div class="form-floating mb-2">
-                <input type="password" class="form-control" id="senha" placeholder="Digite sua Senha" required>
+                <input style="border-radius:25px" type="password" class="form-control" id="senha" placeholder="Digite sua Senha" required>
                 <label for="senha">Senha</label>
             </div>
             <div id="remember" class="checkbox mb-2 mt-2">
