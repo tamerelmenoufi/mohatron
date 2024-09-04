@@ -265,12 +265,12 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
 <div>
     <div class="center">
       <button class="btn">
-        <a class="teste" title="segmentos" href="#mostrar_planos">
+        <a titulo="E-mail Profissional"  class="teste" title="segmentos" href="#mostrar_planos">
         <svg width="180px" height="60px" viewBox="0 0 180 60" class="border">
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
         </svg>
-        <span titulo="E-mail Profissional" style="font-size:14px">Informações aqui</span>
+        <span style="font-size:14px">Informações aqui</span>
 </a>
       </button>
     </div>

@@ -267,8 +267,8 @@ section.beneficios .quadros .quadro .icone img {
     </div>
 
     <div class="wrap2" style="margin-top:25px;margin-bottom:25px">
-    <a class="teste" title="segmentos" href="#mostrar_planos">
-  <button titulo="Hospedagem" class="botao-sms2">
+    <a titulo="Hospedagem" class="teste" title="segmentos" href="#mostrar_planos">
+  <button  class="botao-sms2">
     Contrate agora
   </button>
   </a>
