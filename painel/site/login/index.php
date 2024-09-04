@@ -165,15 +165,15 @@
     <div class="container">
         <div class="card card-container">
             <!-- <img class="profile-img-card" src="//lh3.googleusercontent.com/-6V8xOA6M7BA/AAAAAAAAAAI/AAAAAAAAAAA/rzlHcD0KYwo/photo.jpg?sz=120" alt="" /> -->
-          
+            <img id="profile-img" class="profile-img-card" src="img/logo-site-painel.png" style="width:160px;" /> 
 
             <div class="form-floating mb-2">
-                <input style="border-radius:25px" type="text" class="form-control" id="login" placeholder="Digite seu login" required autofocus>
+                <input type="text" class="form-control" id="login" placeholder="Digite seu login" required autofocus>
                 <label for="login">Login</label>
             </div>
 
             <div class="form-floating mb-2">
-                <input style="border-radius:25px" type="password" class="form-control" id="senha" placeholder="Digite sua Senha" required>
+                <input type="password" class="form-control" id="senha" placeholder="Digite sua Senha" required>
                 <label for="senha">Senha</label>
             </div>
             <div id="remember" class="checkbox mb-2 mt-2">
