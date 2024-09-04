@@ -49,6 +49,7 @@
     padding: 40px 40px;
     border-radius:45px;
     opacity: 0.96;
+    background:#fff;
 }
 
 
