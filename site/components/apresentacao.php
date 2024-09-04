@@ -91,9 +91,9 @@
         </div>
       
         <div class=" col-md-4">
-      <p style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify;margin-bottom:3px">A MOHATRON Soluções em Tecnologia da Informação é constituída por equipe de desenvolvedores especializados em tecnologia voltada para plataforma WEB, abrangendo todos os meios de acessos.</p>
+      <p style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify;margin-bottom:9px">A MOHATRON Soluções em Tecnologia da Informação é constituída por equipe de desenvolvedores especializados em tecnologia voltada para plataforma WEB, abrangendo todos os meios de acessos.</p>
 
-<p style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify;margin-bottom:3px">Em sua trajetória que se iniciou no ano de 2005, a MOHATRON&nbsp;trabalhou com desenvolvimento de web sites e portais institucionais, atendendo, em parceria com empresas privadas e governamentais, projetos dinâmicos que oferecem integração com sistemas, dando assim início as atividades de foco atual.</p>
+<p style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify;margin-bottom:12px">Em sua trajetória que se iniciou no ano de 2005, a MOHATRON&nbsp;trabalhou com desenvolvimento de web sites e portais institucionais, atendendo, em parceria com empresas privadas e governamentais, projetos dinâmicos que oferecem integração com sistemas, dando assim início as atividades de foco atual.</p>
 
 <p style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify">Após alguns anos, a MOHATRON iniciou uma nova etapa com novos focos, visando atendimento&nbsp;diferenciado&nbsp;aos seus clientes.&nbsp;</p>
 
