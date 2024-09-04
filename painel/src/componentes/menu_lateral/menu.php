@@ -22,7 +22,7 @@
     <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
   </div>
   <div class="offcanvas-body">
-    <h4 style="color:#393287">Mohatron - Painel de Controle</h4>
+    <h4 style="color:#012c47">Mohatron - Painel de Controle</h4>
 
     <div class="row mb-1 menu-cinza">
       <div class="col">
