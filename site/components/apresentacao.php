@@ -85,30 +85,30 @@
         <div class=" col-md-4">
   
     <img class="img-fluid" src="assets/img/quem-s.jpeg" style="padding: 7px;border-radius:25px">
-      <p style="color: #012c47;font-family:Times New Roman,Times,serif;font-size:18px;border-left: #0076aa solid 3px;padding: 10px;"> SOMOS MOVIDOS <br>
+      <p style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;font-size:18px;border-left: #0076aa solid 3px;padding: 10px;"> SOMOS MOVIDOS <br>
       POR EXCELÊNCIA.
       </p>
         </div>
       
         <div class=" col-md-4">
-      <p style="color: #012c47;font-family:Times New Roman,Times,serif;text-align: justify;margin-bottom:3px">A MOHATRON Soluções em Tecnologia da Informação é constituída por equipe de desenvolvedores especializados em tecnologia voltada para plataforma WEB, abrangendo todos os meios de acessos.</p>
+      <p style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify;margin-bottom:3px">A MOHATRON Soluções em Tecnologia da Informação é constituída por equipe de desenvolvedores especializados em tecnologia voltada para plataforma WEB, abrangendo todos os meios de acessos.</p>
 
-<p style="color: #012c47;font-family:Times New Roman,Times,serif;text-align: justify;margin-bottom:3px">Em sua trajetória que se iniciou no ano de 2005, a MOHATRON&nbsp;trabalhou com desenvolvimento de web sites e portais institucionais, atendendo, em parceria com empresas privadas e governamentais, projetos dinâmicos que oferecem integração com sistemas, dando assim início as atividades de foco atual.</p>
+<p style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify;margin-bottom:3px">Em sua trajetória que se iniciou no ano de 2005, a MOHATRON&nbsp;trabalhou com desenvolvimento de web sites e portais institucionais, atendendo, em parceria com empresas privadas e governamentais, projetos dinâmicos que oferecem integração com sistemas, dando assim início as atividades de foco atual.</p>
 
-<p style="color: #012c47;font-family:Times New Roman,Times,serif;text-align: justify">Após alguns anos, a MOHATRON iniciou uma nova etapa com novos focos, visando atendimento&nbsp;diferenciado&nbsp;aos seus clientes.&nbsp;</p>
+<p style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify">Após alguns anos, a MOHATRON iniciou uma nova etapa com novos focos, visando atendimento&nbsp;diferenciado&nbsp;aos seus clientes.&nbsp;</p>
 
  
         </div>
         
           <div class=" col-md-4">
   
-      <p style="margin-bottom:3px" style="color: #012c47;font-family:Times New Roman,Times,serif;text-align: justify"> Oferecendo soluções customizadas, atendendo expectativas voltadas em focos específicos.</p> <br>
+      <p style="margin-bottom:3px" style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify"> Oferecendo soluções customizadas, atendendo expectativas voltadas em focos específicos.</p> <br>
 
-<b style="color: #012c47;font-family:Times New Roman,Times,serif"> Objetivo</b>
+<b style="font-size: 15px;color: #012c47;font-family:Times New Roman,Times,serif"> Objetivo</b>
 
 
 
-<p style="color: #012c47;font-family:Times New Roman,Times,serif;text-align: justify">
+<p style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify">
  
   O principal objeto da MOHATRON é apresentar aos setores de desenvolvimento em tecnologia da informação, sistemas web, as chamadas, Tecnologia em Nuvem, comunicação e marketing, soluções customizadas para atender as necessidades de nossos clientes, focando nos objetivos e metas definidas dentro de prazos específicos, envolvendo além dos conhecimentos técnicos, pesquisas em novas tendências em tecnologia.
 
