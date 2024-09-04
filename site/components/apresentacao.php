@@ -102,7 +102,7 @@
         
           <div class=" col-md-4">
   
-      <p  style="margin-bottom:3px;font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify"> Oferecendo soluções customizadas, atendendo expectativas voltadas em focos específicos.</p> <br>
+      <p  style="margin-bottom:3px;font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify"> Oferecendo soluções customizadas, atendendo expectativas voltadas em focos específicos.</p>
 
 <b style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif"> Objetivo</b>
 
