@@ -80,27 +80,56 @@
 <section  id="apresentacao" class="" style="padding:0px">
 <div class="container aos-init aos-animate" style="margin-top:120px">
 <div class="row">
-    <div class="col-sm-5 col-md-6">
+<div class="">
+				
+        <div class="col-sm-5 col-md-4">
+  
+    <img class="img-responsive" src="img/quem-s.jpeg" style="padding: 7px;border-radius:25px">
+      <p style="color: #afaaaa;font-family:Times New Roman,Times,serif;font-size:18px;border-left: #0076aa solid 3px;padding: 10px;"> SOMOS MOVIDOS <br>
+      POR EXCELÊNCIA.
+      </p>
+        </div>
+      
+        <div class="col-sm-5 col-md-4">
+      <p><span style="font-size:14px"><span style="color:#696969"><span style="font-family:Times New Roman,Times,serif">A MOHATRON Soluções em Tecnologia da Informação é constituída por equipe de desenvolvedores especializados em tecnologia voltada para plataforma WEB, abrangendo todos os meios de acessos.</span></span></span></p>
 
-    <p class="lead" style="text-align: left;">
-        Somos especializados em desenvolvimento de Sites Profissionais, Lojas Virtuais e 
-        Marketplace para Microempreendedores Individuais, Microempresas, Empresas de Pequeno,
-         Médio e Grande Porte.</p>
+<p>&nbsp;</p>
 
-    <p class="o-7" style="text-align: justify;">
-    No mercado desde 2009, a Mohatron Soluções em TI desenvolve ferramentas digitais modernas,
-     dinâmicas e de alta tecnologia, sempre com foco em resultados.
-      A experiência e expertise dos nossos profissionais é o grande diferencial nos 
-      trabalhos que executamos, pois em um mercado competitivo, para a sua empresa 
-      fazer bons negócios, é necessário que a estrutura online seja profissional.</p>
+<p><span style="font-size:14px"><span style="color:#696969"><span style="font-family:Times New Roman,Times,serif">Em sua trajetória que se iniciou no ano de 2005, a MOHATRON&nbsp;trabalhou com desenvolvimento de web sites e portais institucionais, atendendo, em parceria com empresas privadas e governamentais, projetos dinâmicos que oferecem integração com sistemas, dando assim início as atividades de foco atual.</span></span></span></p>
 
+<p>&nbsp;</p>
+
+<p><span style="font-size:14px"><span style="color:#696969"><span style="font-family:Times New Roman,Times,serif">Após alguns anos, a MOHATRON iniciou uma nova etapa com novos focos, visando atendimento&nbsp;diferenciado&nbsp;aos seus clientes.&nbsp;</span></span></span></p>
+
+<p>&nbsp;</p>
+
+      
     
-  </div>
+        </div>
+        
+          <div class="col-sm-5 col-md-4">
+  
+      <p style="color: #696969;font-family:Times New Roman,Times,serif;text-align: justify"> Oferecendo soluções customizadas, atendendo expectativas voltadas em focos específicos.</p> <br>
 
-<div class="col-sm-5 col-md-6">
-<img src="assets/img/img-apre1.jpg" class="img-responsive" style="border-radius:40px;width:100%;padding:10px">
+<b style="color: #0061a2;font-family:Times New Roman,Times,serif"> Objetivo</b>
+
+
+
+<p style="color: #696969;font-family:Times New Roman,Times,serif;text-align: justify">
+ 
+  O principal objeto da MOHATRON é apresentar aos setores de desenvolvimento em tecnologia da informação, sistemas web, as chamadas, Tecnologia em Nuvem, comunicação e marketing, soluções customizadas para atender as necessidades de nossos clientes, focando nos objetivos e metas definidas dentro de prazos específicos, envolvendo além dos conhecimentos técnicos, pesquisas em novas tendências em tecnologia.
+
+
+Fale com a Mohatron, com toda certeza encontraremos uma solução para seu negócio e descubra o que uma boa administração dos recursos tecnológicos pode lhe proporcionar.
+
+</p>
+        </div>
+        
+      
+
+
 </div>
-   
+    
 
 
         </div>
