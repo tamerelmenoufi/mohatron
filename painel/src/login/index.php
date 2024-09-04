@@ -47,7 +47,7 @@
 .card-container.card {
     width: 350px;
     padding: 40px 40px;
-    border-radius:5px;
+    border-radius:45px;
     opacity: 0.96;
 }
 
