@@ -107,7 +107,6 @@
 <b style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif"> Objetivo</b>
 
 
-
 <p style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify">
  
   O principal objeto da MOHATRON é apresentar aos setores de desenvolvimento em tecnologia da informação, sistemas web, as chamadas, Tecnologia em Nuvem, comunicação e marketing, soluções customizadas para atender as necessidades de nossos clientes, focando nos objetivos e metas definidas dentro de prazos específicos, envolvendo além dos conhecimentos técnicos, pesquisas em novas tendências em tecnologia.
