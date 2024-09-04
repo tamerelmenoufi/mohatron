@@ -84,7 +84,7 @@
 				
         <div class=" col-md-4">
   
-    <img class="img-responsive" src="assets/img/quem-s.jpeg" style="padding: 7px;border-radius:25px">
+    <img class="img-fluid" src="assets/img/quem-s.jpeg" style="padding: 7px;border-radius:25px">
       <p style="color: #afaaaa;font-family:Times New Roman,Times,serif;font-size:18px;border-left: #0076aa solid 3px;padding: 10px;"> SOMOS MOVIDOS <br>
       POR EXCELÊNCIA.
       </p>
