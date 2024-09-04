@@ -147,7 +147,13 @@
 
 <div class="">
     <div class="container">
-        <div class="card card-container">
+    <div class="row g-0">
+    <div class="card card-container col-md-6">
+        <img class="img-fluid" src="img/rede.png" style="" />
+</div>
+        
+
+        <div class="card card-container col-md-6">
             <!-- <img class="profile-img-card" src="//lh3.googleusercontent.com/-6V8xOA6M7BA/AAAAAAAAAAI/AAAAAAAAAAA/rzlHcD0KYwo/photo.jpg?sz=120" alt="" /> -->
             <!--<img id="profile-img" class="profile-img-card" src="img/logo-site-painel.png" style="width:250px;" />-->
 
@@ -182,6 +188,8 @@
                 Esqueceu a senha?
             </a>
         </div><!-- /card-container -->
+
+        </div>
     </div><!-- /container -->
 </div>
 
