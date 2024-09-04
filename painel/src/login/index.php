@@ -143,6 +143,35 @@
 }
 
 
+.quadrado{
+  animation: go-back 3s infinite alternate;
+}
+
+@keyframes go-back {
+  from {
+    transform: translateX(35px);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+    .loading {
+      
+
+      /* Aqui declaramos nossa animação inline */
+      animation: rotate 3s infinite linear;
+    }
+    
+    @keyframes rotate {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(359deg);
+      }
+    }
+ 
 
 </style>
 
@@ -151,7 +180,7 @@
     <div class="row g-0" style="margin-top:50px">
     <div class="col-md-6" style="text-align:right">
     <img class="img-fluid" src="img/mohatronlogo-painel-controle.png" style="" />
-        <img class="img-fluid d-none d-sm-block" src="img/rede.png" style="" />
+        <img class="img-fluid d-none d-sm-block quadrado " src="img/rede.png" style="" />
 </div>
         
 
