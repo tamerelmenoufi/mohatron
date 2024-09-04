@@ -157,7 +157,7 @@
         <div class="card card-container col-md-6">
             <!-- <img class="profile-img-card" src="//lh3.googleusercontent.com/-6V8xOA6M7BA/AAAAAAAAAAI/AAAAAAAAAAA/rzlHcD0KYwo/photo.jpg?sz=120" alt="" /> -->
             <!--<img id="profile-img" class="profile-img-card" src="img/logo-site-painel.png" style="width:250px;" />-->
-
+                <p style="color:#012c47;font-size:25px;text-align:center"> PAINEL DE CONTROLE</p>
             <div class="form-floating mb-2">
                 <input type="text" class="form-control" id="login" placeholder="Digite seu login" required autofocus>
                 <label for="login">Login</label>
