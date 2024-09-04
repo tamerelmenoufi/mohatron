@@ -80,7 +80,7 @@
 <section  id="apresentacao" class="" style="padding:0px">
 <div class="container aos-init aos-animate" style="margin-top:120px">
 <div class="row">
-<div class="">
+
 				
         <div class="col-sm-5 col-md-4">
   
@@ -125,14 +125,10 @@ Fale com a Mohatron, com toda certeza encontraremos uma solução para seu negó
 </p>
         </div>
         
-      
-
-
-</div>
+ 
     
 
 
-        </div>
             </div>
                 </div>
                
