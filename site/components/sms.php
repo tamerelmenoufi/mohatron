@@ -118,23 +118,21 @@ content: '';
        
         <div class="col-md-6">
     <p style="font-size:13px;border-left: 3px solid #005992;padding:5px ">
-    <b style="font-size:18px">Venda</b><br>
+    <b style="font-size:18px;color: #005992;">Venda</b><br>
     Divulgue promoções, cupons de desconto, lançamentos, datas comemorativas e ofertas especiais.     
     </p>
     
     <p style="font-size:13px;border-left: 3px solid #005992;padding:5px ">
-          Reduza as preocupações com conformidade — o mecanismo de conformidade 
-          global da Vonage lida com as complexidades da comunicação mundial e adere 
-          aos padrões de operadoras e redes em todo o mundo.
+    <b style="font-size:18px;color: #005992;">Cobrança</b><br>
+    Envie boletos e lembretes de vencimentos para reduzir a inadimplência.
     </p>
       </div>
 
        <div class="col-md-6">
 
     <p style="font-size:13px;border-left: 3px solid #005992;padding:5px ">
-          Emparelhe com a API Verify para adicionar uma camada extra de segurança:
-             valide usuários em seus dispositivos móveis usando autenticação de
-              dois fatores.
+    <b style="font-size:18px;color: #005992;">Comunicação</b><br>
+    Envie agendamentos, lembretes, boas-vindas, comunicação interna ou pesquisa de satisfação.
     </p>
       </div>
           
