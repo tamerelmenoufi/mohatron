@@ -104,7 +104,7 @@
   
       <p style="margin-bottom:3px" style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;text-align: justify"> Oferecendo soluções customizadas, atendendo expectativas voltadas em focos específicos.</p> <br>
 
-<b style="font-size: 15px;color: #012c47;font-family:Times New Roman,Times,serif"> Objetivo</b>
+<b style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif"> Objetivo</b>
 
 
 
