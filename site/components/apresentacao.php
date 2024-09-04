@@ -82,7 +82,7 @@
 <div class="row">
 
 				
-        <div class="col-sm-5 col-md-4">
+        <div class=" col-md-4">
   
     <img class="img-responsive" src="img/quem-s.jpeg" style="padding: 7px;border-radius:25px">
       <p style="color: #afaaaa;font-family:Times New Roman,Times,serif;font-size:18px;border-left: #0076aa solid 3px;padding: 10px;"> SOMOS MOVIDOS <br>
@@ -90,7 +90,7 @@
       </p>
         </div>
       
-        <div class="col-sm-5 col-md-4">
+        <div class=" col-md-4">
       <p><span style="font-size:14px"><span style="color:#696969"><span style="font-family:Times New Roman,Times,serif">A MOHATRON Soluções em Tecnologia da Informação é constituída por equipe de desenvolvedores especializados em tecnologia voltada para plataforma WEB, abrangendo todos os meios de acessos.</span></span></span></p>
 
 <p>&nbsp;</p>
@@ -103,11 +103,9 @@
 
 <p>&nbsp;</p>
 
-      
-    
         </div>
         
-          <div class="col-sm-5 col-md-4">
+          <div class=" col-md-4">
   
       <p style="color: #696969;font-family:Times New Roman,Times,serif;text-align: justify"> Oferecendo soluções customizadas, atendendo expectativas voltadas em focos específicos.</p> <br>
 
