@@ -180,7 +180,7 @@
     <div class="row g-0" style="margin-top:50px">
     <div class="col-md-6" style="text-align:right">
     <img class="img-fluid" src="img/mohatronlogo-painel-controle.png" style="" />
-        <img class="img-fluid d-none d-sm-block quadrado " src="img/rede.png" style="" />
+        <img class="img-fluid d-none d-sm-block " src="img/rede.png" style="" />
 </div>
         
 
