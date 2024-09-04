@@ -118,7 +118,7 @@ content: '';
        
         <div class="col-md-6">
     <p style="font-size:13px;border-left: 3px solid #005992;padding:5px ">
-    <b style="font-size:18px">Venda</b>
+    <b style="font-size:18px">Venda</b><br>
     Divulgue promoções, cupons de desconto, lançamentos, datas comemorativas e ofertas especiais.     
     </p>
     
