@@ -118,7 +118,8 @@ content: '';
        
         <div class="col-md-6">
     <p style="font-size:13px;border-left: 3px solid #005992;padding:5px ">
-          Envie e receba mensagens de texto de clientes do mundo todo de forma programática.     
+    <b style="font-size:18px">Venda</b>
+    Divulgue promoções, cupons de desconto, lançamentos, datas comemorativas e ofertas especiais.     
     </p>
     
     <p style="font-size:13px;border-left: 3px solid #005992;padding:5px ">
