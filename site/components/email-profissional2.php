@@ -240,7 +240,9 @@ svg {
     <div class="col-sm-5 col-md-12">
 
     <p class="lead" style="text-align: center;font-size:30px;color:#fff;font-weight:bold;margin-bottom:0px">
-    E-mail Profissional </p>
+    Crie um <b style="text-align: center;font-size:30px;color:#fff;">E-mail Profissional</b><br>
+  com o nome da sua marca!
+  </p>
     <p class="o-7" style="text-align: center;font-size:17px;padding:5px;color:#fff ">
     Para donos de pequenos negócios, um email com domínio personalizado 
     funciona como a identidade online e canal de comunicação de marketing. 
