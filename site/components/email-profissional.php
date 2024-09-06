@@ -278,21 +278,8 @@ svg {
         </div>
       </div>
 
-</div>
 
-    </div>
-
-
-        <div class="col-sm-5 col-md-3">
-
-
-
-<div style="text-align:right">
-    <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:275px">
-     </div>
-
-
-     <div>
+      <div>
     <div class="center">
       <button class="btn">
         <a titulo="E-mail Profissional"  class="teste" title="segmentos" href="#mostrar_planos">
@@ -305,6 +292,21 @@ svg {
       </button>
     </div>
     </div>
+
+</div>
+
+    
+    </div>
+
+
+        <div class="col-sm-5 col-md-3">
+
+
+
+<div style="text-align:right">
+    <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:275px">
+     </div>
+
 </div>
 
 
