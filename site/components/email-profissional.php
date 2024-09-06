@@ -279,24 +279,27 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
    
 </div>
 
-    <div class="col-sm-5 col-md-4">
-
-
-
-    <div style="text-align:right">
-        <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:300px">
-         </div>
-
-    </div>
+  
     
     </div>
   </div>
 
 
         </div>
+
+        <div class="col-sm-5 col-md-2">
+
+
+
+<div style="text-align:right">
+    <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:300px">
+     </div>
+
+</div>
+
             </div>
+
                 </div>
-            </div> 
-            
-            <div  class="fundo-verde d-none d-sm-block" style="height:115px"></div>  
+            </div>   
+      <div  class="fundo-verde d-none d-sm-block" style="height:115px"></div>  
 </section>
