@@ -258,8 +258,8 @@ section.beneficios .quadros .quadro .icone img {
 <div class="row g-0 " style="">
       <div class=" col-md-4" style="padding:5px">
         <div style="background: #ffffff;border-radius: 10px;
-        box-shadow: 2px 1px 3px #e99511;padding: 15px 15px;">
-        <i style="font-size:25px" class="fa-solid fa-palette"></i><br><br>
+        box-shadow: 2px 1px 3px #1b77b3;padding: 15px 15px;">
+        <i style="font-size:25px;color:#e99511" class="fa-solid fa-palette"></i><br><br>
          <p style="color: #e99511;font-size:17px;margin-bottom:2px;font-weight:bold">
          Temas prontos para usar
         </p>
@@ -271,8 +271,8 @@ section.beneficios .quadros .quadro .icone img {
 
       <div class=" col-md-4" style="padding:5px">
         <div style="background: #ffffff;border-radius: 10px;
-        box-shadow: 2px 1px 3px #e99511;padding: 15px 15px;">
-        <i style="font-size:25px" class="fa-solid fa-palette"></i><br><br>
+        box-shadow: 2px 1px 3px #1b77b3;padding: 15px 15px;">
+        <i style="font-size:25px;color:#e99511" class="fa-solid fa-palette"></i><br><br>
          <p style="color: #e99511;font-size:17px;margin-bottom:2px;font-weight:bold">
          Temas prontos para usar
         </p>
@@ -284,8 +284,8 @@ section.beneficios .quadros .quadro .icone img {
 
       <div class=" col-md-4" style="padding:5px">
         <div style="background: #ffffff;border-radius: 10px;
-        box-shadow: 2px 1px 3px #e99511;padding: 15px 15px;">
-        <i style="font-size:25px" class="fa-solid fa-palette"></i><br><br>
+        box-shadow: 2px 1px 3px #1b77b3;padding: 15px 15px;">
+        <i style="font-size:25px;color:#e99511" class="fa-solid fa-palette"></i><br><br>
          <p style="color: #e99511;font-size:17px;margin-bottom:2px;font-weight:bold">
          Temas prontos para usar
         </p>
