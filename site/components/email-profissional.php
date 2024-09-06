@@ -232,12 +232,13 @@ svg {
 }
 
 </style>
+
 <section  id="email-profissional" class="" style="padding:0px">
-<div class="fundo-verde2 d-none d-sm-block" style="height:112px"></div> 
-<div class=" aos-init aos-animate" style="padding:30px;background:#006b62;padding-bottom:0px" >
-<div class="  " style="" >
+  <div class="fundo-verde2 d-none d-sm-block" style="height:112px"></div> 
+    <div class=" aos-init aos-animate" style="padding:30px;background:#006b62;padding-bottom:0px" >
        <div class="row g-0 " style="padding:25px">
-    <div class="col-sm-5 col-md-10">
+          
+       <div class="col-sm-5 col-md-10">
     <p class="lead" style="font-size:35px;color:#0ed9c8;font-weight:bold;margin-bottom:0px">
     Crie um <b style="text-align: center;font-size:30px;color:#fff;">E-mail Profissional</b><br>
   com o nome da sua marca!
@@ -245,9 +246,7 @@ svg {
     <p class="o-7" style="margin-top:25px; font-size:19px;padding:5px;color:#fff ">
    Planos a partir de <b style="color:#0ed9c8;font-size:25px">R$ 9,90 </b> por mês.
    </p>
-<div class="row g-0">
-    <div class="col-sm-5 col-md-8">
-      
+
     <p class="o-7" style="text-align:justify;font-size:15px;padding:5px;color:#fff ">
     Transmita profissionalismo com um endereço de e-mail corporativo com o 
     domínio do seu negócio e conquiste a credibilidade dos seus potenciais clientes.
@@ -260,9 +259,9 @@ svg {
 Diferente de serviços de e-mail pessoal, os seus dados estão seguros com a gente. Conte com as melhores medidas de segurança do mercado para proteger o seu e-mail de acessos não autorizados. 
 Nossos servidores têm proteção avançada para prevenir ataques de spam.
     </p>
- 
-<center>    
-<div>
+    
+    
+    <div>
     <div class="center">
       <button class="btn">
         <a titulo="E-mail Profissional"  class="teste" title="segmentos" href="#mostrar_planos">
@@ -271,21 +270,14 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
         </svg>
         <span style="font-size:14px">Informações aqui</span>
-</a>
+        </a>
       </button>
     </div>
+    </div>
 
-</center>
-   
-</div>
-
-  
     
     </div>
-  </div>
 
-
-        </div>
 
         <div class="col-sm-5 col-md-2">
 
@@ -296,8 +288,6 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
      </div>
 
 </div>
-
-            </div>
 
                 </div>
             </div>   
