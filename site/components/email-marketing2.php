@@ -220,95 +220,75 @@ section.beneficios .quadros .quadro .icone img {
 
 
 <section  id="email-marketing" class="bg" style="padding:0px;padding-top:25px">
-    <div class=" aos-init aos-animate" style="" >
-       <div class="row g-0 " style="padding:25px">
-          
-       <div class="col-sm-5 col-md-9" style="">
+<div class=" aos-init aos-animate" >
+  <div class="row g-0 1coluna" style="padding:0px">
+   
+  
+  <div class="col-md-8 offset-md-2" style="">
 
-       
-    <p class="lead col-md-9 offset-md-2" style="font-size:35px;color:#fff;font-weight:bold;margin-bottom:0px">
-    Crie um <b style="text-align: center;font-size:30px;color:#0ed9c8;">E-mail Profissional</b><br>
-  com o nome da sua marca!
+
+  <h2 style="color:#fff;text-align:center"> Alcance suas metas com o nosso serviço de 
+  <span style="color: #e3cb00;font-weight:bold">E-mail Marketing</span> </h2>
+      
+
+  <div class=" " style="">
+<p style="color:#fff;font-size:15px;text-align:center">
+Desfrute de ferramentas de marketing por correio eletrónico potentes e 
+fáceis de utilizar, adequadas a empresas de qualquer dimensão. 
+Todas as suas necessidades de marketing por correio eletrónico
+ estão num único local - geração de leads, gestão de contactos, 
+ conceção de correio eletrónico, criação de campanhas, relatórios e análises, e muito mais.
+ 
+</p>
+      </div>
+  
+  <div class="row g-0 2coluna" style="padding:25px">
+
+  <div class=" col-md-6" style="">
+  <img src="assets/img/email-m.png" class="img-fluid " style="height:350px;margin-bottom:10px"/>
+
+      </div>
+
+
+
+  <div class=" col-md-6" style="">
+<p style="color:#fff;font-size: 14px;text-align:justify;border-radius:10px;border-right: 10px solid #e3cb00;padding:15px;background: #ffc10782;font-family: italic!important;">
+Crie fantásticas campanhas de marketing por correio eletrónico do início ao fim.
+ Adicione e gira os seus contactos, escolha o esquema e o assunto do e-mail e, 
+ em seguida, personalize, configure e programe o envio de e-mails.
+ 
+</p>
+
+<p style="color:#fff;font-size: 14px;text-align:justify;border-radius:10px;border-right: 10px solid #e3cb00;padding:15px;background: #ffc10782;font-family: italic!important;">
+
+ Utilize funcionalidades como a otimização do tempo de envio e 
+ analise os resultados da sua campanha em tempo real.
+ Você pode alcançar uma grande quantidade de pessoas de forma direta e imediata, com uma lista de contatos
+ bem segmentada.
+ 
+</p>
+
+<div class="" >
+	<p class="animated-word"><a titulo="E-mail Marketing" class="teste" title="segmentos" href="#mostrar_planos">
+    Conheça os planos
+</a>
   </p>
-
-  <div class="row g-0 " style="">
-
-<div class="col-md-8 " style="">
-    <p class="o-7 col-md-7 offset-md-3" style="margin-top:5px; font-size:19px;padding:0px;color:#fff ">
-   Planos a partir de <b style="color:#0ed9c8;font-size:25px">R$ 9,90 </b> por mês.
-   </p>
-   </div>
-
-   <div class="o-3 col-md-3 offset-md-1 " style="">
-   <div style="margin-bottom:15px">
-      <button class="btn">
-        <a titulo="E-mail Profissional"  class="teste" title="segmentos" href="#mostrar_planos">
-        <svg width="180px" height="60px" viewBox="0 0 180 60" class="border">
-          <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
-          <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
-        </svg>
-        <span style="font-size:14px">Conheça nossos planos</span>
-        </a>
-      </button>
-    </div>
-    </div>
-
-    </div>
-
-<div class="row g-0 " style="">
-      <div class=" col-md-4" style="padding:5px">
-        <div style="background: #ffffff;border-radius: 10px;
-        box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
-        <i style="font-size:20px" class="fa-solid fa-envelope-open-text"></i><br><br>
-         <p style="color: #615d5d;font-size:14px;margin-bottom:2px">
-         E-mail personalizado com o seu <br> domínio <b>@meunegocio.com.br</b>
-        </p>
-        </div>
-      </div>
-
-      <div class=" col-md-4" style="padding:5px">
-        <div style="background: #ffffff;border-radius: 10px;
-        box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
-        <i style="font-size:20px" class="fa-solid fa-cloud-arrow-up"></i><br><br>
-         <p style="color: #615d5d;font-size:14px;margin-bottom:2px">
-         Planos com até<b> 50 GB</b> de <br> armazenamento de e-mail.
-        </p>
-        </div>
-      </div>
-
-      <div class=" col-md-4" style="padding:5px">
-        <div style="background: #ffffff;border-radius: 10px;
-        box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
-        <i style="font-size:20px" class="fa-solid fa-lock"></i><br><br>
-         <p style="color: #615d5d;font-size:14px;margin-bottom:2px">
-         E-mail totalmente <b>seguro</b> e <b>sem <br> anúncios.</b>
-        </p>
-        </div>
-      </div>
-
-
-     
-
-
 </div>
-
+      </div>
     
-    </div>
+      
+  
+       <!--fimdorow--></div>
+
+        
 
 
-        <div class="col-sm-5 col-md-3">
+  <!--fimdaprimeiracoluna8--></div>
 
 
 
-<div style="text-align:right">
-    <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:275px">
-     </div>
 
 </div>
-
-
-
-                </div>
-            </div>   
+</div>
   </section>
   
