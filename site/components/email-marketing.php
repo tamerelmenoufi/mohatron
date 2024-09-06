@@ -304,7 +304,7 @@ section.beneficios .quadros .quadro .icone img {
 
 
 <div style="text-align:right">
-    <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:275px">
+<img src="assets/img/email-m.png" class="img-fluid " style="height:350px;margin-bottom:10px"/>
      </div>
 
 </div>
