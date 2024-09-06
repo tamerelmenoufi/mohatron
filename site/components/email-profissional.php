@@ -235,12 +235,12 @@ svg {
 
 <section  id="email-profissional" class="" style="padding:0px">
   <div class="fundo-verde2 d-none d-sm-block" style="height:112px"></div> 
-    <div class=" aos-init aos-animate" style="padding:30px;background:#006b62;padding-bottom:0px" >
+    <div class=" aos-init aos-animate" style="padding:30px;background:#fff;padding-bottom:0px" >
        <div class="row g-0 " style="padding:25px">
           
        <div class="col-sm-5 col-md-9">
     <p class="lead" style="font-size:35px;color:#0ed9c8;font-weight:bold;margin-bottom:0px">
-    Crie um <b style="text-align: center;font-size:30px;color:#fff;">E-mail Profissional</b><br>
+    Crie um <b style="text-align: center;font-size:30px;color:#0ed9c8;">E-mail Profissional</b><br>
   com o nome da sua marca!
   </p>
     <p class="o-7" style="margin-top:15px; font-size:19px;padding:5px;color:#fff ">
@@ -278,11 +278,7 @@ svg {
         </div>
       </div>
 
-</div>
-
-
-
-    <div>
+      <div>
     <div class="center">
       <button class="btn">
         <a titulo="E-mail Profissional"  class="teste" title="segmentos" href="#mostrar_planos">
@@ -290,13 +286,14 @@ svg {
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
         </svg>
-        <span style="font-size:14px">Informações aqui</span>
+        <span style="font-size:14px">Nossos Planos</span>
         </a>
       </button>
     </div>
-    </div>
+  </div>
 
-    
+</div>
+
     </div>
 
 
