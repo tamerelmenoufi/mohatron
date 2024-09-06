@@ -245,10 +245,16 @@ svg {
     Crie um <b style="text-align: center;font-size:30px;color:#0ed9c8;">E-mail Profissional</b><br>
   com o nome da sua marca!
   </p>
-    <p class="o-7 col-md-9 offset-md-2" style="margin-top:5px; font-size:19px;padding:5px;color:#fff ">
+
+  <div class="row g-0 " style="">
+
+<div class="col-md-8 " style="">
+    <p class="o-7 col-md-9 offset-md-2" style="margin-top:5px; font-size:19px;padding:0px;color:#fff ">
    Planos a partir de <b style="color:#0ed9c8;font-size:25px">R$ 9,90 </b> por mês.
    </p>
+   </div>
 
+   <div class="col-md-4 " style="">
    <div style="margin-bottom:15px">
       <button class="btn">
         <a titulo="E-mail Profissional"  class="teste" title="segmentos" href="#mostrar_planos">
@@ -259,6 +265,9 @@ svg {
         <span style="font-size:14px">Conheça nossos planos</span>
         </a>
       </button>
+    </div>
+    </div>
+
     </div>
 
 <div class="row g-0 " style="">
