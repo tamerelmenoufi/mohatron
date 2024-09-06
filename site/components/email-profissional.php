@@ -243,12 +243,12 @@ svg {
     Crie um <b style="text-align: center;font-size:30px;color:#fff;">E-mail Profissional</b><br>
   com o nome da sua marca!
   </p>
-    <p class="o-7" style="margin-top:25px; font-size:19px;padding:5px;color:#fff ">
+    <p class="o-7" style="margin-top:15px; font-size:19px;padding:5px;color:#fff ">
    Planos a partir de <b style="color:#0ed9c8;font-size:25px">R$ 9,90 </b> por mês.
    </p>
 
 <div class="row g-0 " style="">
-      <div class=" col-md-4">
+      <div class=" col-md-4" style="padding:10px">
         <div style="background: #ffffff;border-radius: 10px;
         box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
         <i style="font-size:20px" class="fa-solid fa-envelope-open-text"></i><br><br>
@@ -258,7 +258,7 @@ svg {
         </div>
       </div>
 
-      <div class=" col-md-4">
+      <div class=" col-md-4" style="padding:10px">
         <div style="background: #ffffff;border-radius: 10px;
         box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
         <i style="font-size:20px" class="fa-solid fa-envelope-open-text"></i><br><br>
@@ -268,7 +268,7 @@ svg {
         </div>
       </div>
 
-      <div class=" col-md-4">
+      <div class=" col-md-4" style="padding:10px">
         <div style="background: #ffffff;border-radius: 10px;
         box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
         <i style="font-size:20px" class="fa-solid fa-envelope-open-text"></i><br><br>
