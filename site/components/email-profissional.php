@@ -279,19 +279,18 @@ svg {
       </div>
 
 
-      <div>
-    <div class="center">
+      <div style="margin-top:10px">
       <button class="btn">
         <a titulo="E-mail Profissional"  class="teste" title="segmentos" href="#mostrar_planos">
         <svg width="180px" height="60px" viewBox="0 0 180 60" class="border">
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
         </svg>
-        <span style="font-size:14px">Informações aqui</span>
+        <span style="font-size:14px">Conheça nossos planos</span>
         </a>
       </button>
     </div>
-    </div>
+
 
 </div>
 
