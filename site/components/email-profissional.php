@@ -271,29 +271,32 @@ svg {
       <div class=" col-md-4" style="padding:5px">
         <div style="background: #ffffff;border-radius: 10px;
         box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
-        <i style="font-size:20px" class="fa-solid fa-lock"></i><br><br>
+        <i style="font-size:20px" class="fa-solid fa-envelope-open-text"></i><br><br>
          <p style="color: #615d5d;font-size:14px;margin-bottom:2px">
          E-mail totalmente <b>seguro</b> e <b>sem <br> anúncios.</b>
         </p>
         </div>
       </div>
 
-      <div>
-    <div class="center">
+</div>
+
+
+
+  <div>
+    <div class="col-md-12">
       <button class="btn">
         <a titulo="E-mail Profissional"  class="teste" title="segmentos" href="#mostrar_planos">
         <svg width="180px" height="60px" viewBox="0 0 180 60" class="border">
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
         </svg>
-        <span style="font-size:14px">Nossos Planos</span>
+        <span style="font-size:14px">Informações aqui</span>
         </a>
       </button>
     </div>
   </div>
 
-</div>
-
+    
     </div>
 
 
