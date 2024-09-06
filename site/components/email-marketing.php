@@ -258,9 +258,9 @@ section.beneficios .quadros .quadro .icone img {
 <div class="row g-0 " style="">
       <div class=" col-md-4" style="padding:5px">
         <div style="background: #ffffff;border-radius: 10px;
-        box-shadow: 2px 1px 3px #0f83d3;padding: 15px 15px;">
-        <i style="font-size:20px" class="fa-solid fa-palette"></i><br><br>
-         <p style="color: #0f83d3;font-size:17px;margin-bottom:2px;font-weight:bold">
+        box-shadow: 2px 1px 3px #e99511;padding: 15px 15px;">
+        <i style="font-size:25px" class="fa-solid fa-palette"></i><br><br>
+         <p style="color: #e99511;font-size:17px;margin-bottom:2px;font-weight:bold">
          Temas prontos para usar
         </p>
         <p style="color: #615d5d;font-size:12px;margin-bottom:2px;">
@@ -271,23 +271,31 @@ section.beneficios .quadros .quadro .icone img {
 
       <div class=" col-md-4" style="padding:5px">
         <div style="background: #ffffff;border-radius: 10px;
-        box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
-        <i style="font-size:20px" class="fa-solid fa-cloud-arrow-up"></i><br><br>
-         <p style="color: #615d5d;font-size:14px;margin-bottom:2px">
-         Planos com até<b> 50 GB</b> de <br> armazenamento de e-mail.
+        box-shadow: 2px 1px 3px #e99511;padding: 15px 15px;">
+        <i style="font-size:25px" class="fa-solid fa-palette"></i><br><br>
+         <p style="color: #e99511;font-size:17px;margin-bottom:2px;font-weight:bold">
+         Temas prontos para usar
+        </p>
+        <p style="color: #615d5d;font-size:12px;margin-bottom:2px;">
+        Diversos temas disponiveis para seu e-mail.
         </p>
         </div>
       </div>
 
       <div class=" col-md-4" style="padding:5px">
         <div style="background: #ffffff;border-radius: 10px;
-        box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
-        <i style="font-size:20px" class="fa-solid fa-lock"></i><br><br>
-         <p style="color: #615d5d;font-size:14px;margin-bottom:2px">
-         E-mail totalmente <b>seguro</b> e <b>sem <br> anúncios.</b>
+        box-shadow: 2px 1px 3px #e99511;padding: 15px 15px;">
+        <i style="font-size:25px" class="fa-solid fa-palette"></i><br><br>
+         <p style="color: #e99511;font-size:17px;margin-bottom:2px;font-weight:bold">
+         Temas prontos para usar
+        </p>
+        <p style="color: #615d5d;font-size:12px;margin-bottom:2px;">
+        Diversos temas disponiveis para seu e-mail.
         </p>
         </div>
       </div>
+
+      
 
 
      
