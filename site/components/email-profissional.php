@@ -254,7 +254,7 @@ svg {
    </p>
    </div>
 
-   <div class="col-md-3  " style="">
+   <div class="o-3 col-md-3 offset-md-1 " style="">
    <div style="margin-bottom:15px">
       <button class="btn">
         <a titulo="E-mail Profissional"  class="teste" title="segmentos" href="#mostrar_planos">
