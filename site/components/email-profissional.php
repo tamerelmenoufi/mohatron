@@ -248,7 +248,7 @@ svg {
    </p>
 
 <div class="row g-0 " style="">
-      <div class=" col-md-4" style="padding:10px">
+      <div class=" col-md-4" style="padding:5px">
         <div style="background: #ffffff;border-radius: 10px;
         box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
         <i style="font-size:20px" class="fa-solid fa-envelope-open-text"></i><br><br>
@@ -258,7 +258,7 @@ svg {
         </div>
       </div>
 
-      <div class=" col-md-4" style="padding:10px">
+      <div class=" col-md-4" style="padding:5px">
         <div style="background: #ffffff;border-radius: 10px;
         box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
         <i style="font-size:20px" class="fa-solid fa-envelope-open-text"></i><br><br>
@@ -268,7 +268,7 @@ svg {
         </div>
       </div>
 
-      <div class=" col-md-4" style="padding:10px">
+      <div class=" col-md-4" style="padding:5px">
         <div style="background: #ffffff;border-radius: 10px;
         box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
         <i style="font-size:20px" class="fa-solid fa-envelope-open-text"></i><br><br>
