@@ -249,12 +249,12 @@ svg {
   <div class="row g-0 " style="">
 
 <div class="col-md-8 " style="">
-    <p class="o-7 col-md-9 offset-md-2" style="margin-top:5px; font-size:19px;padding:0px;color:#fff ">
+    <p class="o-7 col-md-7 offset-md-2" style="margin-top:5px; font-size:19px;padding:0px;color:#fff ">
    Planos a partir de <b style="color:#0ed9c8;font-size:25px">R$ 9,90 </b> por mês.
    </p>
    </div>
 
-   <div class="col-md-4 " style="">
+   <div class="col-md-3  " style="">
    <div style="margin-bottom:15px">
       <button class="btn">
         <a titulo="E-mail Profissional"  class="teste" title="segmentos" href="#mostrar_planos">
