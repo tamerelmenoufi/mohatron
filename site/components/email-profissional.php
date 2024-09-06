@@ -248,13 +248,14 @@ svg {
    </p>
 
 <div class="row g-0 " style="padding:25px">
-    <div class=" col-md-4">
-      <div style="background:#fff;border-radius:25px;box-shadow:0px 0px 2px #000;padding:20px">
-         <p>
-         E-mail personalizado com o seu <br> domínio @meunegocio.com.br
+      <div class=" col-md-4">
+      <i style="font-size:20px" class="fa-solid fa-envelope-open-text"></i><br>
+        <div style="background: #ffffff;border-radius: 10px;box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
+         <p style="color: #615d5d;font-size:14px;margin-bottom:2px">
+         E-mail personalizado com o seu <br> domínio <b>@meunegocio.com.br</b>
         </p>
       </div>
-    </div> 
+    </div>
 </div>
 
 
