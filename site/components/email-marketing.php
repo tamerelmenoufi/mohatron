@@ -272,12 +272,12 @@ section.beneficios .quadros .quadro .icone img {
       <div class=" col-md-4" style="padding:5px">
         <div style="background: #ffffff;border-radius: 10px;
         box-shadow: 2px 1px 3px #1b77b3;padding: 15px 15px;">
-        <i style="font-size:25px;color:#e99511" class="fa-solid fa-palette"></i><br><br>
+        <i style="font-size:25px;color:#e99511" class="fa-solid fa-chart-area"></i><br><br>
          <p style="color: #e99511;font-size:17px;margin-bottom:2px;font-weight:bold">
-         Temas prontos para usar
+         Relatórios completos
         </p>
         <p style="color: #615d5d;font-size:12px;margin-bottom:2px;">
-        Diversos temas disponiveis para seu e-mail.
+        Tenha todos os indicadores de desempenho.
         </p>
         </div>
       </div>
@@ -285,16 +285,16 @@ section.beneficios .quadros .quadro .icone img {
       <div class=" col-md-4" style="padding:5px">
         <div style="background: #ffffff;border-radius: 10px;
         box-shadow: 2px 1px 3px #1b77b3;padding: 15px 15px;">
-        <i style="font-size:25px;color:#e99511" class="fa-solid fa-palette"></i><br><br>
+        <i style="font-size:25px;color:#e99511" class="fa-solid fa-user-lock"></i><br><br>
          <p style="color: #e99511;font-size:17px;margin-bottom:2px;font-weight:bold">
-         Temas prontos para usar
+        Proteção com criptografia
         </p>
         <p style="color: #615d5d;font-size:12px;margin-bottom:2px;">
-        Diversos temas disponiveis para seu e-mail.
+        Proteção contra acessos não autorizados.
         </p>
         </div>
       </div>
-
+    
       
 
 
@@ -312,7 +312,7 @@ section.beneficios .quadros .quadro .icone img {
 
 
 <div style="text-align:right">
-<img src="assets/img/email-m2.png" class="img-fluid " style="margin-top:20px"/>
+<img src="assets/img/email-m2.png" class="img-fluid " style="margin-top:50px"/>
      </div>
 
 </div>
