@@ -234,7 +234,7 @@ section.beneficios .quadros .quadro .icone img {
   <div class="row g-0 " style="">
 
 <div class="col-md-8 " style="">
-    <p class="o-7 col-md-7 offset-md-3" style="margin-top:5px; font-size:19px;padding:0px;color:#fff ">
+    <p class="o-7 col-md-8 offset-md-3" style="margin-top:5px; font-size:19px;padding:0px;color:#fff ">
    Aumente sua base de <b style="color:#fdb33e;">clientes </b> e <b style="color:#fdb33e;"> venda </b>mais.
    </p>
    </div>
