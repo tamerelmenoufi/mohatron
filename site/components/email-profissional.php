@@ -239,8 +239,8 @@ svg {
        <div class="row g-0 " style="padding:25px">
           
        <div class="col-sm-5 col-md-9">
-    <p class="lead" style="font-size:35px;color:#0ed9c8;font-weight:bold;margin-bottom:0px">
-    Crie um <b style="text-align: center;font-size:30px;color:#fff;">E-mail Profissional</b><br>
+    <p class="lead" style="font-size:35px;color:#fff;font-weight:bold;margin-bottom:0px">
+    Crie um <b style="text-align: center;font-size:30px;color:#0ed9c8;">E-mail Profissional</b><br>
   com o nome da sua marca!
   </p>
     <p class="o-7" style="margin-top:15px; font-size:19px;padding:5px;color:#fff ">
