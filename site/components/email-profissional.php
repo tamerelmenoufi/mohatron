@@ -247,9 +247,18 @@ svg {
    Planos a partir de <b style="color:#0ed9c8;font-size:25px">R$ 9,90 </b> por mês.
    </p>
 
-    
-    
-    
+<div class="row g-0 " style="padding:25px">
+    <div class=" col-md-4">
+      <div style="background:#fff;border-radius:25px;box-shadow:0px 0px 2px #000;padding:20px">
+         <p>
+         E-mail personalizado com o seu <br> domínio @meunegocio.com.br
+        </p>
+      </div>
+    </div> 
+</div>
+
+
+
     <div>
     <div class="center">
       <button class="btn">
