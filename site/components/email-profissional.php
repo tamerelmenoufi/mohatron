@@ -238,7 +238,7 @@ svg {
     <div class=" aos-init aos-animate" style="padding:30px;background:#006b62;padding-bottom:0px" >
        <div class="row g-0 " style="padding:25px">
           
-       <div class="col-sm-5 col-md-10">
+       <div class="col-sm-5 col-md-9">
     <p class="lead" style="font-size:35px;color:#0ed9c8;font-weight:bold;margin-bottom:0px">
     Crie um <b style="text-align: center;font-size:30px;color:#fff;">E-mail Profissional</b><br>
   com o nome da sua marca!
@@ -247,18 +247,7 @@ svg {
    Planos a partir de <b style="color:#0ed9c8;font-size:25px">R$ 9,90 </b> por mês.
    </p>
 
-    <p class="o-7" style="text-align:justify;font-size:15px;padding:5px;color:#fff ">
-    Transmita profissionalismo com um endereço de e-mail corporativo com o 
-    domínio do seu negócio e conquiste a credibilidade dos seus potenciais clientes.
-    Não importa de onde você esteja enviando seus e-mails — seja do seu 
-    celular ou computador —, nós temos suporte para todos os tipos de dispositivos. 
-    Com a nossa hospedagem de email, você se conecta ao seu servidor de e-mail 
-    em dispositivos iOS ou Android, ou em clientes de e-mail como Webmail e Outlook.
-    </p>
-<p class="o-7" style="text-align:justify;font-size:15px;padding:5px;color:#fff ">
-Diferente de serviços de e-mail pessoal, os seus dados estão seguros com a gente. Conte com as melhores medidas de segurança do mercado para proteger o seu e-mail de acessos não autorizados. 
-Nossos servidores têm proteção avançada para prevenir ataques de spam.
-    </p>
+    
     
     
     <div>
@@ -279,12 +268,12 @@ Nossos servidores têm proteção avançada para prevenir ataques de spam.
     </div>
 
 
-        <div class="col-sm-5 col-md-2">
+        <div class="col-sm-5 col-md-3">
 
 
 
 <div style="text-align:right">
-    <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:300px">
+    <img src="assets/img/e-mail-1.gif" class="img-fluid  " style="border-radius:25px;height:275px">
      </div>
 
 </div>
