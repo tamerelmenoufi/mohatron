@@ -227,7 +227,7 @@ section.beneficios .quadros .quadro .icone img {
 
        
     <p class="lead col-md-9 offset-md-2" style="font-size:35px;color:#fff;font-weight:bold;margin-bottom:0px">
-   <b style="text-align: center;font-size:30px;color:#0f83d3;">E-mail Marketing:</b><br>
+   <b style="text-align: center;font-size:30px;color:#fdb33e;">E-mail Marketing:</b><br>
   A ferramenta completa para <br> envio de e-mail
   </p>
 
@@ -235,8 +235,7 @@ section.beneficios .quadros .quadro .icone img {
 
 <div class="col-md-8 " style="">
     <p class="o-7 col-md-7 offset-md-3" style="margin-top:5px; font-size:19px;padding:0px;color:#fff ">
-   Aumente sua base de <b style="color:#0f83d3;">clientes </b> e <b style="color:#0ed9c8;"> venda </b>
-   mais.
+   Aumente sua base de <b style="color:#fdb33e;">clientes </b> e <b style="color:#fdb33e;"> venda </b>mais.
    </p>
    </div>
 
@@ -264,7 +263,7 @@ section.beneficios .quadros .quadro .icone img {
          <p style="color: #0f83d3;font-size:17px;margin-bottom:2px;font-weight:bold">
          Temas prontos para usar
         </p>
-        <p style="color: #615d5d;font-size:14px;margin-bottom:2px;">
+        <p style="color: #615d5d;font-size:12px;margin-bottom:2px;">
         Diversos temas disponiveis para seu e-mail.
         </p>
         </div>
