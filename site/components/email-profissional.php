@@ -238,12 +238,12 @@ svg {
 <div class="  " style="" >
        <div class="row g-0 " style="padding:25px">
     <div class="col-sm-5 col-md-12">
-
     <p class="lead" style="text-align: center;font-size:30px;color:#fff;font-weight:bold;margin-bottom:0px">
-    E-mail Profissional </p>
+    Crie um <b style="text-align: center;font-size:30px;color:#fff;">E-mail Profissional</b><br>
+  com o nome da sua marca!
+  </p>
     <p class="o-7" style="text-align: center;font-size:17px;padding:5px;color:#fff ">
-    Para donos de pequenos negócios, um email com domínio personalizado 
-    funciona como a identidade online e canal de comunicação de marketing. 
+   Planos a partir de <b>R$ 9,90 </b> por mês.
    </p>
 <div class="row g-0">
     <div class="col-sm-5 col-md-8">
