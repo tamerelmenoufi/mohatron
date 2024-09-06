@@ -238,7 +238,7 @@ svg {
     <div class=" aos-init aos-animate" style="padding:30px;background:#006b62;padding-bottom:0px" >
        <div class="row g-0 " style="padding:25px">
           
-       <div class="col-sm-5 col-md-9" style="text-align:center">
+       <div class="col-sm-5 col-md-9" style="">
     <p class="lead" style="font-size:35px;color:#fff;font-weight:bold;margin-bottom:0px">
     Crie um <b style="text-align: center;font-size:30px;color:#0ed9c8;">E-mail Profissional</b><br>
   com o nome da sua marca!
@@ -258,7 +258,7 @@ svg {
         </a>
       </button>
     </div>
-    
+
 <div class="row g-0 " style="">
       <div class=" col-md-4" style="padding:5px">
         <div style="background: #ffffff;border-radius: 10px;
