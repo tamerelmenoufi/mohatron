@@ -247,17 +247,37 @@ svg {
    Planos a partir de <b style="color:#0ed9c8;font-size:25px">R$ 9,90 </b> por mês.
    </p>
 
-<div class="row g-0 " style="padding:25px">
+<div class="row g-0 " style="">
       <div class=" col-md-4">
-      
         <div style="background: #ffffff;border-radius: 10px;
         box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
-        <i style="font-size:20px" class="fa-solid fa-envelope-open-text"></i><br>
+        <i style="font-size:20px" class="fa-solid fa-envelope-open-text"></i><br><br>
          <p style="color: #615d5d;font-size:14px;margin-bottom:2px">
          E-mail personalizado com o seu <br> domínio <b>@meunegocio.com.br</b>
         </p>
+        </div>
       </div>
-    </div>
+
+      <div class=" col-md-4">
+        <div style="background: #ffffff;border-radius: 10px;
+        box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
+        <i style="font-size:20px" class="fa-solid fa-envelope-open-text"></i><br><br>
+         <p style="color: #615d5d;font-size:14px;margin-bottom:2px">
+         E-mail personalizado com o seu <br> domínio <b>@meunegocio.com.br</b>
+        </p>
+        </div>
+      </div>
+
+      <div class=" col-md-4">
+        <div style="background: #ffffff;border-radius: 10px;
+        box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
+        <i style="font-size:20px" class="fa-solid fa-envelope-open-text"></i><br><br>
+         <p style="color: #615d5d;font-size:14px;margin-bottom:2px">
+         E-mail personalizado com o seu <br> domínio <b>@meunegocio.com.br</b>
+        </p>
+        </div>
+      </div>
+
 </div>
 
 
