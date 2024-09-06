@@ -244,24 +244,11 @@ svg {
   com o nome da sua marca!
   </p>
     <p class="o-7" style="text-align: center;font-size:17px;padding:5px;color:#fff ">
-    Para donos de pequenos negócios, um email com domínio personalizado 
-    funciona como a identidade online e canal de comunicação de marketing. 
+   Planos a partir de <b>R$ 9,90 </b> por mês.
    </p>
 <div class="row g-0">
     <div class="col-sm-5 col-md-8">
-      
-    <p class="o-7" style="text-align:justify;font-size:15px;padding:5px;color:#fff ">
-    Transmita profissionalismo com um endereço de e-mail corporativo com o 
-    domínio do seu negócio e conquiste a credibilidade dos seus potenciais clientes.
-    Não importa de onde você esteja enviando seus e-mails — seja do seu 
-    celular ou computador —, nós temos suporte para todos os tipos de dispositivos. 
-    Com a nossa hospedagem de email, você se conecta ao seu servidor de e-mail 
-    em dispositivos iOS ou Android, ou em clientes de e-mail como Webmail e Outlook.
-    </p>
-<p class="o-7" style="text-align:justify;font-size:15px;padding:5px;color:#fff ">
-Diferente de serviços de e-mail pessoal, os seus dados estão seguros com a gente. Conte com as melhores medidas de segurança do mercado para proteger o seu e-mail de acessos não autorizados. 
-Nossos servidores têm proteção avançada para prevenir ataques de spam.
-    </p>
+ 
  
 <center>    
 <div>
