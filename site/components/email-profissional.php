@@ -240,25 +240,12 @@ svg {
           
        <div class="col-sm-5 col-md-9" style="">
 
-       <div class="row g-0 " style="">
-       <div class="container " style="">
-      
-       <div class="col-md-2 " style="">
-</div>
-
-<div class="col-md-10 " style="">
-    <p class="lead" style="font-size:35px;color:#fff;font-weight:bold;margin-bottom:0px">
+       
+    <p class="lead col-md-9 offset-md-2" style="font-size:35px;color:#fff;font-weight:bold;margin-bottom:0px">
     Crie um <b style="text-align: center;font-size:30px;color:#0ed9c8;">E-mail Profissional</b><br>
   com o nome da sua marca!
   </p>
-  </div>
-    
-
-</div>
-</div>
-
-
-    <p class="o-7" style="margin-top:5px; font-size:19px;padding:5px;color:#fff ">
+    <p class="o-7 col-md-9 offset-md-2" style="margin-top:5px; font-size:19px;padding:5px;color:#fff ">
    Planos a partir de <b style="color:#0ed9c8;font-size:25px">R$ 9,90 </b> por mês.
    </p>
 
