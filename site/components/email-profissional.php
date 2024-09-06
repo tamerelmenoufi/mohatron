@@ -263,7 +263,7 @@ svg {
         box-shadow: 2px 1px 3px #0ed9c8;padding: 15px 15px;">
         <i style="font-size:20px" class="fa-solid fa-cloud-arrow-up"></i><br><br>
          <p style="color: #615d5d;font-size:14px;margin-bottom:2px">
-         Planos com até<b>50 GB</b>de<br> armazenamento de e-mail.
+         Planos com até<b> 50 GB</b> de <br> armazenamento de e-mail.
         </p>
         </div>
       </div>
