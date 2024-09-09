@@ -255,7 +255,7 @@ section.beneficios .quadros .quadro .icone img {
         <div style="background: #ffffff;border-radius: 10px;
         box-shadow: 2px 1px 3px #1b77b3;padding: 15px 15px;">
         <i style="font-size:25px;color:#e99511" class="fa-solid fa-palette"></i><br><br>
-         <p style="color: #e99511;font-size:17px;margin-bottom:2px;font-weight:bold">
+         <p style="color: #164362;font-size:17px;margin-bottom:2px;font-weight:bold">
          Temas prontos para usar
         </p>
         <p style="color: #615d5d;font-size:12px;margin-bottom:2px;">
@@ -268,7 +268,7 @@ section.beneficios .quadros .quadro .icone img {
         <div style="background: #ffffff;border-radius: 10px;
         box-shadow: 2px 1px 3px #1b77b3;padding: 15px 15px;">
         <i style="font-size:25px;color:#e99511" class="fa-solid fa-chart-area"></i><br><br>
-         <p style="color: #e99511;font-size:17px;margin-bottom:2px;font-weight:bold">
+         <p style="color: #164362;font-size:17px;margin-bottom:2px;font-weight:bold">
          Relatórios completos
         </p>
         <p style="color: #615d5d;font-size:12px;margin-bottom:2px;">
@@ -281,7 +281,7 @@ section.beneficios .quadros .quadro .icone img {
         <div style="background: #ffffff;border-radius: 10px;
         box-shadow: 2px 1px 3px #1b77b3;padding: 15px 15px;">
         <i style="font-size:25px;color:#e99511" class="fa-solid fa-user-lock"></i><br><br>
-         <p style="color: #e99511;font-size:17px;margin-bottom:2px;font-weight:bold">
+         <p style="color: #164362;font-size:17px;margin-bottom:2px;font-weight:bold">
         Proteção com criptografia
         </p>
         <p style="color: #615d5d;font-size:12px;margin-bottom:2px;">
