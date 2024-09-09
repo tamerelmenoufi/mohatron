@@ -241,7 +241,7 @@ section.beneficios .quadros .quadro .icone img {
 
    <div class="o-3 col-md-3 offset-md-1 " style="">
    <div style="margin-bottom:15px">
-   <p class="animated-word"><a titulo="E-mail Marketing" class="teste" title="segmentos" href="#mostrar_planos">
+   <p class="animated-word"><a style="color:#fff" titulo="E-mail Marketing" class="teste" title="segmentos" href="#mostrar_planos">
     Conheça os planos
 </a>
   </p>
