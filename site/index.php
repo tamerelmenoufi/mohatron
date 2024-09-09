@@ -195,7 +195,7 @@
 </main><!-- End #main -->
 
 
-<a style="text-decoration: none; background: rgb(0, 186, 76); border-radius: 50%; padding: 12px; display: inline;" title="Entre em contato conosco!" target="_blank" href="https://api.whatsapp.com/send?phone=5543988463771&amp;text=Ola%2C%20Gostaria%20de%20informa%C3%A7%C3%B5es!" class="voltar-ao-topo2">
+<a style="text-decoration: none; background: rgb(0, 186, 76); border-radius: 15%; padding: 12px; display: inline;" title="Entre em contato conosco!" target="_blank" href="https://api.whatsapp.com/send?phone=5543988463771&amp;text=Ola%2C%20Gostaria%20de%20informa%C3%A7%C3%B5es!" class="voltar-ao-topo2">
        <i style="font-size: 28px; color:#fff;" class="fab fa-whatsapp" aria-hidden="true"></i>
        </a>
  <!--- <a href="#" style="color: #fff ;background-color: #154fb7;border-color: #154fb7;" class="scroll-top d-flex align-items-center justify-content-center btn btn-primary">
