@@ -84,8 +84,8 @@
 				
         <div class=" col-md-12">
   
-    <img class="img-fluid" src="assets/img/quem-s.jpeg" style="padding: 7px;border-radius:25px">
-      <p style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;font-size:18px;border-left: #0076aa solid 3px;padding: 10px;"> SOMOS MOVIDOS <br>
+    
+      <p style="font-size: 15px;color: #005992;font-family:Times New Roman,Times,serif;font-size:18px;border-left: #0076aa solid 3px;padding: 10px;">
     PAGINA EM CONSTRUÇÃO
       </p>
         </div>
