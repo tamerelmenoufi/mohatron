@@ -61,13 +61,17 @@
   <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
   <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
 
-  <?php include("../../assets/lib/scripts.php"); ?>
+  <?php 
+  // include("../../assets/lib/scripts.php"); 
+  ?>
 
 
 </head>
 
 <body>
-<?php include("../../assets/lib/scripts_body.php"); ?>
+<?php 
+// include("../../assets/lib/scripts_body.php"); 
+?>
 <div class="popup">
     <span><i class="bi bi-x"></i></span>
     <div class="body"></div>
@@ -109,7 +113,7 @@
     ];
 
     foreach($componentes as $i => $v){
-        include("../../components/{$v}.php");
+        // include("../../components/{$v}.php");
     }
 
 ?>
